@@ -1,0 +1,17 @@
+﻿chúng tôi đã giới thiệu cho các bạn cách cấu hình tính năng anti-spam trên giải pháp xử lý email TMG. Phần 4 này sẽ tiếp tục với các bạn bằng những giới thiệu về các tính năng lọc nội dung và virus.
+Lọc nội dung và virus
+Trong giao diện điều khiển TMG firewall, kích Email Policy panel bên trái. Trong panel giữa của giao diện, kích tab Virus and Content Filtering. Khi đó bạn sẽ thấy ba tùy chọn cho việc lọc nội dung để bảo vệ email của TMG. Đó là:
+ File Filtering: Tùy chọn này cho phép kiểm soát các đính kèm, file đính kèm nào được phép vào, ra hệ thống email trong mạng của bạn.
+ Virus Filtering: Tùy chọn này cho phép khóa, không cho malware vào và ra hệ thống email.
+Message Body Filtering: Tùy chọn này cho phép kiểm soát email gửi vào và gửi ra dựa trên nội dung bên trong chúng.
+Trong hình bên dưới, bạn có thể thấy hai liên kết chỉ thị rằng các tính năng Content Filtering và Virus Filtering đã được kích hoạt.
+Lọc file
+Chúng ta hãy bắt đầu với tùy chọn File Filtering. Kích liên kết File Filtering trong panel giữa. Trong hộp thoại xuất hiện File Filtering, bạn sẽ bắt gặp tab File Filters. Ở đây bạn có thể cấu hình bộ lọc file để chặn các file đính kèm vào, ra tổ chức. Kích nút Add, như thể hiện trong hình 2 bên dưới.
+Khi đó bạn sẽ thấy hộp thoại File Filter. Trên tab General, có thể chọn các tùy chọn dưới đây:
+Enable this filter: Tùy chọn này có tác dụng bật hoặc tắt bộ lọc.
+Filter name: Tùy chọn này cho phép bạn nhập vào tên của bộ lọc mà mình đang tạo.
+Action for messages matching this filter: Tùy chọn này cho phép bạn chọn giữa các hành động sau: Skip, Identify, Delete và Purge. Tùy chọn Skip sẽ kiểm tra thư và ghi vào một entry nếu nó hợp lệ với các tiêu chuẩn lọc, tuy nhiên sau đó chuyển tiếp thư đó đến đích tiếp theo. Tùy chọn Identify sẽ gắn vào dòng chủ đề một từ tùy chỉnh, từ tùy chỉnh này có thể được sử dụng cho việc lọc thư trong inbox. Tùy chọn Delete sẽ xóa thư và Purge sẽ remove thư ra khỏi hệ thống.
+Scan inbound messages: Khi bạn kích hoạt tùy chọn này, TMG sẽ thanh tra các thư gửi vào tổ chức.Scan Scan outbound messages: Khi kích hoạt tùy chọn này, TMG sẽ thanh tra các thư gửi ra từ tổ chức.
+Các tùy chọn trong tab General được thể hiện trong hình 3 bên dưới.
+Kích tab File Types. Ở đây bạn có khả năng kiểm soát kiểu file cần thanh tra. Khi hệ thống phát hiện một kiểu file nào đó đã chọn để thanh tra, hành động mà bạn cấu hình trong tab General sẽ được thực thi. Lưu ý rằng đây là một tính năng của Forefront Protection for Exchange (FPE), vì vậy sự phát hiện cho kiểu file có thật, không chỉ các mở rộng của file. Đó là một thứ khá thú vị vì các file có thể bị thay đổi tên để chỉ thị đuôi mở rộng khác với những gì thực sự với nó. Bạn có thể thấy tab File Types trong hình 4 bên dưới.
+Tiếp đến, kích tab File Names. Ở đây bạn có thể cấu hình tên file để từ đó hệ thống sẽ tìm kiếm trong các đính kèm email. Có thể nhập vào tên file đầy đủ, hoặc có thể lợi dụng các ký tự đại diện như “?” và “*”. Dấu “?” ở đây được sử dụng để thay thế cho một ký tự nào đó trong một chuỗi, còn “*” được sử dụng để thay thế cho một số ký tự nào đó không rõ. Tab File Names được thể hiện trong hình 5.

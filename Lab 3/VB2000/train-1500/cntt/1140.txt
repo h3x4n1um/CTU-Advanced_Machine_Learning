@@ -1,0 +1,11 @@
+﻿ Bài viết này sẽ minh họa các phương pháp sử dụng khác nhau của mệnh đề “For Attach” nhằm vượt qua những điểm hạn chế gặp phải khi sử dụng sp_attach_db và sp_attach_single_file_db.
+Trong SQL Server 7.0, Microsoft đã giới thiệu hai thủ tục lưu trữ hệ thống là sp_attach_db và sp_attach_single_file_db, giúp các nhà quản trị cơ sở dữ liệu thuận tiện hơn khi thực hiện các tác vụ sau:
+Attach trực tiếp các file .MDF và .LDF vào máy chủ bằng cách sử dụng thủ tục lưu trữ hệ thống sp_attach_db.
+Chỉ Attach các file .MDF bằng cách sử dụng thủ tục lưu trữ hệ thống sp_attach_single_file_db.
+Detach cơ sở dữ liệu khỏi máy chủ bằng cách sử dụng sp_detach_db. Copy các file .MDF tới máy chủ khác rồi sau đó attach lại vào cả hai máy chủ bằng cách sử dụng thủ tục lưu trữ hệ thống sp_attach_db.
+Mặc dù cả hai thủ tục này đều hữu ích với các chuyên viên quản trị cơ sở dữ liệu, thế nhưng vẫn có những hạn chế nhất định, đó là:
+Bạn không thể attach nhiều file log
+Bạn không thể attach nhiều hơn 16 file
+Trong phiên bản SQL Server 2008, Microsoft công bố rằng các thủ tục lưu trữ hệ thống trên sẽ bị “bỏ xó”. Thay vào đó, Microsoft bổ sung mệnh đề “For Attach” trong câu lệnh “Create Database” của SQL.
+Bài viết này sẽ minh họa các phương pháp sử dụng khác nhau của mệnh đề “For Attach” nhằm vượt qua những điểm hạn chế gặp phải khi sử dụng sp_attach_db và sp_attach_single_file_db.
+Giả dụ chúng ta có cơ sở dữ liệu “MyDB1” với một file .MDF và một file .LDF tại vị trí 'C:Program FilesMicrosoft SQL ServerMSSQL10.SQL2008MSSQLDATASummary Database DataData File for Monthly ArchiveMicrosoft SQL Server 2008 Data File'. Khởi tạo cơ sở dữ liệu bằng cách sử dụng đoạn mã Transact SQL sau đây.

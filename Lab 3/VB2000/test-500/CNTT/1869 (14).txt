@@ -1,0 +1,5 @@
+Phiên bản này của hệ điều hành có thể được sử dụng chỉ để thử nghiệm và phát triển, bao gồm nhiều khả năng ảo hóa mạng.
+Hôm 15/11/2010, Oracle phát hành Solaris 11 Express - phiên bản của HĐH Unix dành cho các nhà phát triển và cũng là bản xem trước (preview) cho bản phát hành sắp tới của Solaris 11 vào năm 2011.
+Solaris 11 Express đã cải thiện các tính năng sẵn có giúp cắt giảm thời gian dừng hệ thống theo kế hoạch xuống còn một nửa, Oracle cho biết. Thời gian khởi động cũng giảm xuống "hàng chục giây".
+Phiên bản này cũng thêm nhiều khả năng ảo hóa mạng; tích hợp với cổng thông tin hỗ trợ trực tuyến của Oracle; các cải tiến cho hệ thống file ZFS. Theo Oracle, nó có khả năng tương thích nhị phân với hơn 11.000 ứng dụng được các bên thứ ba phát triển.
+Solaris 11 Express đưa ra cho các nhà quản trị hệ thống một số thay đổi trong cài đặt, vá lỗi, cung cấp ứng dụng và nhiều lĩnh vực khác, theo Oracle. Công ty đang cung cấp một loạt tài nguyên để giúp đỡ cho quá trình chuyển đổi. Ngoài ra, dự kiến sẽ có một phiên webcast (tập tin nội dung media được phân phối đồng thời cho nhiều người qua Internet, sử dụng công nghệ streaming - phát liên tục)

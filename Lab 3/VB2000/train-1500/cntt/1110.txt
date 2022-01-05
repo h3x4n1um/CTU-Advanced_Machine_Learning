@@ -1,0 +1,22 @@
+﻿1. Mạng quảng bá (broadcast network): bao gồm một kênh truyền thông được chia sẻ cho mọi máy trong mạng. Mẫu thông tin ngắn gọi là gói (packet) được gửi ra bởi một máy bất kỳ thì sẽ tới được tất cả máy khác. Trong gói sẽ có một phần ghi địa chỉ gói đó muốn gửi tới.
+Khi nhận các gói, mỗi máy sẽ kiểm tra lại phần địa chỉ này. Nếu một gói là dành cho đúng máy đang kiểm tra thì sẽ đưọc xử lý tiếp, bằng không thì bỏ qua.
+2. Mạng điểm nối điểm (point-to-point network): bao gồm nhiều mối nối giữa các cặp máy tính với nhau. Để chuyển từ nguồn tới đích, một gói có thể phải đi qua các máy trung gian. Thường thì có thể có nhiều đường di chuyển có độ dài khác nhau (từ máy nguồn tới máy đích với số lượng máy trung gian khác nhau). Thuật toán để định tuyến đường truyền giữ vai trò quan trọng trong kỹ thuật này.
+Dưới đây là đối tượng chính của phần cứng mạng:
+Mạng vòng.
+Mạng tuyến tính.
+LAN (từ Anh ngữ: local area network), hay còn gọi là "mạng cục bộ", là mạng tư nhân trong một toà nhà, một khu vực (trường học hay cơ quan chẳng hạn) có cỡ chừng vài km. Chúng nối các máy chủ và các máy trạm trong các văn phòng và nhà máy để chia sẻ tài nguyên và trao đổi thông tin. LAN có 3 đặc điểm:
+1. Giới hạn về tầm cỡ phạm vi hoạt động từ vài mét cho đến 1 km.
+2. Thường dùng kỹ thuật đơn giản chỉ có một đường dây cáp (cable) nối tất cả máy. Vận tốc truyền dữ liệu thông thường là 10 Mbps, 100 Mbps, 1 Gbps, và gần đây là 10 Gbps.
+3. Hai kiến trúc mạng kiểu LAN thông dụng bao gồm:
+Mạng bus hay mạng tuyến tính. Các máy nối nhau một cách liên tục thành một hàng từ máy này sang máy kia. Ví dụ của nó là Ethernet (chuẩn IEEE 802.3).
+ Mạng vòng. Các máy nối nhau như trên và máy cuối lại được nối ngược trở lại với máy đầu tiên tạo thành vòng kín. Thí dụ mạng vòng thẻ bài IBM (IBM token ring).
+Mạng sao.
+WAN (wide area network), còn gọi là "mạng diện rộng", dùng trong vùng địa lý lớn thường cho quốc gia hay cả lục địa, phạm vi vài trăm cho đến vài ngàn km. Chúng bao gồm tập họp các máy nhằm chạy các chương trình cho người dùng. Các máy này thường gọi là máy lưu trữ(host) hay còn có tên là máy chủ, máy đầu cuối (end system). Các máy chính được nối nhau bởi các mạng truyền thông con (communication subnet) hay gọn hơn là mạng con (subnet). Nhiệm vụ của mạng con là chuyển tải các thông điệp (message) từ máy chủ này sang máy chủ khác.
+Mạng con thường có hai thành phần chính:
+1. Các đường dây vận chuyển còn gọi là mạch (circuit), kênh (channel), hay đường trung chuyển (trunk).
+2. Các thiết bị nối chuyển. Đây là loại máy tính chuyện biệt hoá dùng để nối hai hay nhiều đường trung chuyển nhằm di chuyển các dữ liệu giữa các máy. Khi dữ liệu đến trong các đường vô, thiết bị nối chuyển này phải chọn (theo thuật toán đã định) một đường dây ra để gửi dữ liệu đó đi. Tên gọi của thiết bị này là nút chuyển gói (packet switching node) hay hệ thống trung chuyển (intermediate system). Máy tính dùng cho việc nối chuyển gọi là "bộ chọn đường" hay "bộ định tuyến" (router).
+Hầu hết các WAN bao gồm nhiều đường cáp hay là đường dây điện thoại, mỗi đường dây như vậy nối với một cặp bộ định tuyến. Nếu hai bộ định tuyến không nối chung đường dây thì chúng sẽ liên lạc nhau bằng cách gián tiếp qua nhiều bộ định truyến trung gian khác. Khi bộ định tuyến nhận được một gói dữ liệu thì nó sẽ chứa gói này cho đến khi đường dây ra cần cho gói đó được trống thì nó sẽ chuyển gói đó đi. Trường hợp này ta gọi là nguyên lý mạng con điểm nối điểm, hay nguyên lý mạng con lưu trữ và chuyển tiếp (store-and-forward), hay nguyên lý mạng con nối chuyển gói.
+Có nhiều kiểu cấu hình cho WAN dùng nguyên lý điểm tới điểm như là dạng sao, dạng vòng, dạng cây, dạng hoàn chỉnh, dạng giao vòng, hay bất định.
+Mạng không dây.
+Các thiết bị cầm tay hay bỏ túi thường có thể liên lạc với nhau bằng phương pháp không dây và theo kiểu LAN. Một phương án khác được dùng cho điện thoại cầm tay dựa trên giao thức CDPD (Cellular Digital Packet Data) hay là dữ liệu gói kiểu cellular số.
+Các thiết bị không dây hoàn toàn có thể nối vào mạng thông thường (có dây) tạo thành mạng hỗn hợp (trang bị trên một số máy bay chở khách chẳng hạn)

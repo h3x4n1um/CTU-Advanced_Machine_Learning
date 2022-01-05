@@ -1,0 +1,6 @@
+Thư rác giảm một nửa sau khi một loạt hacker bị bắt
+Số lượng e-mail spam trên Internet giảm tới 47% kể từ tháng 8/2010 nhờ các công ty bảo mật và cảnh sát toàn cầu đã đánh sập nhiều mạng lưới máy tính ma khổng lồ.
+Con số được hãng bảo mật Symantec đưa ra ở trên cũng tương tự thống kê của công ty Nga Kaspersky Labs rằng tháng 7 đến tháng 9, thư rác chỉ còn chiếm 81,1% trong tổng số e-mail được gửi đi.
+Theo BBC, một trong những thành công lớn nhất của các chuyên gia an ninh mạng là xóa sổ botnet mang tên Pushdo (hay Cutwail), hoạt động từ năm 2007, khống chế hàng triệu máy tính của người sử dụng bằng cách cài mã độc vào hệ thống của họ và phát tán tới 10% lượng spam toàn cầu.
+Trong tháng 10, cảnh sát Hà Lan bắt giữ một người Mỹ được cho là nắm quyền kiểm soát botnet Bredolab, bao gồm 143 server kết nối tới 30 triệu máy tính ma và truyền đi 3,6 tỷ e-mail mỗi ngày.
+Từ tháng 8, cảnh sát Mỹ và Anh truy quét gần 100 người có liên quan đến botnet Zeus. Ngoài ra, đường dây Spamit, trong đó các tổ chức kinh doanh dược phẩm trái phép ở Canada trả tiền cho những ai phát tán thư rác về thuốc giả, cũng bị đánh sập.

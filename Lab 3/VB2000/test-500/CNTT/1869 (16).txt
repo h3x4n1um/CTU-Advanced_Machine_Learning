@@ -1,0 +1,42 @@
+Tôi đã từng trải nghiệm tình huống khi mở một ứng dụng (chẳng hạn như Firefox) và toàn hệ thống sau đó bị ngừng lại? Nếu đang điều hành một máy chủ web, thứ cuối cùng mà bạn thấy sẽ là có một ứng dụng làm đổ vỡ toàn bộ hệ thống và tất cả các website bị sập.
+Cpulimit là một ứng dụng cho Linux, nó có thể hạn chế việc sử dụng CPU của một quá trình nào đó. Đây là một công cụ hết sức hữu dụng nếu bạn muốn hạn chế một ứng dụng nào đó đang ngốn quá nhiều tài nguyên CPU và là nguyên nhân gây ra đổ vỡ toàn bộ hệ thống. Ứng dụng cũng hết sức hữu dụng khi bạn cần chạy đồng thời một vài chương trình quan trọng.
+Lưu ý: Cpulimit có thể làm việc với tất cả các phân phối Linux. Trong hướng dẫn này chúng tôi sẽ sử dụng Ubuntu làm ví dụ điển hình.
+Cài đặt
+Trong Ubuntu, bạn có thể cài đặt cpulimit thông qua Ubuntu Software Center hoặc đánh vào lệnh dưới đây trong terminal:
+Để hạn chế một quá trình, hãy sử dụng lệnh dưới đây
+PID là process ID của một ứng dụng đang chạy, còn CPU% là phần trăm (0-100) tài nguyên CPU được cấp phép cho ứng dụng. Bạn có thể lấy PID từ System -> Administration -> System Monitor .
+cpulimit-system-monitor
+Từ hình trên, bạn có thể thấy rằng ứng dụng Swiftfox (một biến thể của Firefox) ngốn mất 68% tài nguyên CPU trước khi thiết lập hạn chế. Hãy xem điều gì sẽ xảy ra khi chúng ta hạn chế hiệu suất sử dụng của nó xuống còn 20%.
+cpulimit-start-process
+cpulimit-system-monitor-after
+CPU lúc này được hạ thấp xuống 20% và không bao giờ vượt qua ngưỡng 20% này.
+Mở rộng cpulimit – Tự động hóa toàn bộ quá trình
+Cpulimit rất hữu dụng khi bạn bắt gặp một ứng dụng nào đó ngốn nhiều tài nguyên CPU hoặc cần phải thực hiện một cụm công việc. Ngoài ra, bạn cũng có thể sử dụng chương trình trong việc tìm ra ứng dụng bị lỗi trong toàn bộ hệ thống. Đây là một ứng dụng đặc biệt hữu dụng trong thiết lập máy chủ.
+abcuser từ Ubuntu Forum có đi kèm với một kịch bản tự động hóa việc kiểm tra hệ thống và hạn chế bất cứ quá trình nào vượt quá giới hạn CPU đặt trước. Kịch bản này cũng cho phép bạn thiết lập danh sách đen hoặc danh sách trắng cho các ứn dụng cụ thể.
+Trước khi bắt đầu, cần bảo đảm bạn đã cài đặt cpulimit và gawk.
+Download các kịch bản tại đây. Sau đó tiến hành bung file tar vào thư mục Home của bạn. Bạn sẽ có hai file bên trong thư mục cpulimit đó là: cpulimit_daemon.sh và cpulimit.
+Mở file cpulimit_daemon.sh trong bộ soạn thảo văn bản của bạn (gEdit) và thay đổi như dưới đây:
+cpulimit-edit-daemon
+CPU_LIMIT: Đây là tài nguyên CPU tối đa có sẵn cho mỗi ứng dụng. Giá trị mặc định là 20%.
+DAEMON_INTERVAL: Đây là khoảng thời gian để kịch bản kiểm tra hệ thống. Mặc định được thiết lập là 3 giây.
+BLACK_PROCESS_LIST: Danh sách này gồm có các mục muốn kiểm tra. Bạn có thể sử dụng dấu “|” để nhóm thêm các quá trình. Cho ví dụ như, “mysql|firefox|gedit”.
+WHITE_PROCESSES_LIST: Danh sách gồm có các mục mà bạn không muốn kiểm tra. Bạn có thể sử dụng để nhóm thêm các quá trình. Ví dụ như, “mysql|firefox|gedit”.
+Lưu ý: Một hoặc cả hai biến BLACK_PROCESSES_LIST và WHITE_PROCESSES_LIST phải trống rỗng. Bạn không thể có một danh sách đen và một danh sách trắng tại cùng thời điểm.
+Thiết lập
+Copy file 
+Copy file cpulimit vào thư mục /etc/init.d/, thiết lập điều khoản cần thiết và thiết lập chạy trong quá trình khởi động.
+Khởi động lại hệ thống. Cpulimit sẽ khởi chạy hoàn toàn tự động.
+Bạn có thể mở một terminal và đánh:
+sudo service cpulimit status
+để kiểm tra xem cpulimit hiện có hoạt động hay không. Nếu không chạy, hãy thực hiện chạy bằng dòng lệnh
+sudo service cpulimit start
+Và có thể stop nó bằng:
+sudo service cpulimit stop
+Hủy bỏ cài đặt
+Để hủy bỏ cài đặt, đây là những gì bạn cần thực hiện:
+1. Stop chương trình.
+sudo service cpulimit stop
+2. Remove chương trình khỏi thủ tục khởi động
+3. Xóa thủ tục khởi động
+4. Xóa cpulimit
+5. Hủy cài đặt chương trình cpulimit

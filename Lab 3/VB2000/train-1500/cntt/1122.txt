@@ -1,0 +1,15 @@
+﻿ Bạn là người thường xuyên đi du lịch hay công tác. Hãy để cuộc hành trình của bạn thật đáng nhớ và hoàn hảo với sự trợ giúp đắc lực của các ứng dụng hỗ trợ đi du lịch trên di động. XHTT xin giới thiệu đến bạn đọc 6 ứng dụng không thể bỏ qua dưới đây:
+1. Google Maps
+Google Maps là dịch vụ bản đồ số tương tác đầy hiệu quả và hữu ích của Google. Nó cho phép chúng ta nhìn cách toàn diện tất cả các nước trên thế giới. Với ưu điển vượt trội về tốc độ load và cho phép Zoom đến cực đại cho hình ảnh rõ nét và chi tiết như chương trình Google Earth trên PC vậy, Google Maps quả là công cụ trợ giúp đắc lực cho chuyến du lịch của bạn. Nó giúp người sử dụng tìm kiếm thông tin địa lý của địa phương như bản đồ trực tuyến, hình ảnh vệ tinh, chỉ dẫn đường, địa chỉ và danh sách nhà hàng, khách sạn nơi bạn muốn đến.
+2. Tripit
+Khi đi du lịch bạn thường quan tâm đến các thông tin như máy bay, tàu hỏa, taxi, nhà hàng, khách sạn... Mọi thứ kể trên sẽ tạo ra nhiều chi tiết đòi hỏi bạn cần theo dõi. Người dùng thường in ra giấy danh sách những dịch vụ đã đăng ký, đính chúng với nhau và mang theo bên mình.
+Tripit giải quyết những chi tiết dạng này; thêm vào các công cụ tiện lợi khác như bản đồ, các điểm du lịch hấp dẫn tại địa phương, đặt bàn ăn tối và dự báo thời tiết; sau đó gói mọi thứ lại thành một cuốn cẩm nang hướng dẫn du lịch dễ sử dụng. Bạn có thể giảm căng thẳng rất nhiều cho chuyến hành trình bằng cách có được thông tin tốt vào đúng thời điểm, và đó là điều mà Tripit cung cấp. TripIt hỗ trợ  Android, BlackBerry và iPhone.
+3. TripCase
+TripCase giúp bạn liên tục cập thông tin về các chuyến bay bị hoãn và đưa ra những chuyến bay thay thế nếu chuyến bay của bạn bị hủy. TripCase có mặt trên các máy điện thoại BlackBerry, Windows Mobile và iPhone.
+4. Kayak
+Kayak là một tang du lịch, giúp bạn tìm kiếm những dụng cụ giao dịch web để có được thỏa thuận rẻ nhất trên các dịch vụ du lịch khắp thế giới. Nó tìm kiếm hơn 140 trang du lịch, cho phép bạn lựa chọn và tùy chỉnh theo sở thích cá nhân.
+Thật ra bạn không mua vé hoặc đặt khách sạn trực tiếp ở Kayak, nó hướng dẫn một cách đơn giản cho bạn tới những trang mua bán. Vài đặc điểm tiện lợi nhất là Buzz và Fare Alert planning. Buzz đưa ra cho bạn những thỏa thuận rẻ nhất như tìm hiểu qua những người sử dụng Kayak khác trong việc tìm kiếm của họ. Những giá cả này được kết hợp từ những dữ liệu có sẵn và được lên danh sách khi bạn tìm kiếm từ thành phố của mình. Dịch vụ Fare Alert sẽ gửi cho bạn một e-mail khi có một chuyến đi từ thành phố này đến một nơi khác có sẵn ở giá thấp để bạn có thể chọn lựa khi bạn định đi du lịch với giá rẻ nhất.
+5. Yelp
+Đây là công cụ tìm quán bar, nhà hàng hay ngân hang gần nhất bằng bản đồ GPS của iPhone. Không những chỉ chỉ ra vị trí của chúng, Yelp còn đưa ra hàng ngàn chú thích, chỉ dẫn về các địa điểm đó.
+6. WeatherBug
+Là ứng dụng xem thời tiết trên máy di động, hỗ trợ các hệ điều hành Android, BlackBerry, iPhone, Windows Mobile và Nokia. Ngoài thông tin thời tiết cơ bản, nó còn có hỗ trợ những tính năng đặc biệt như tích hợp với danh sách liên lạc của bạn, hay cho phép bạn gõ vào bản đồ để hiện thị thời tiết nơi bạn sắp đến.

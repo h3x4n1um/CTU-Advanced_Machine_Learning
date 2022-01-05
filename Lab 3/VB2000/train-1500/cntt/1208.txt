@@ -1,0 +1,11 @@
+﻿Không giống như Windows có thể dùng phần mềm chuyên dụng hoặc thiết lập chế độ chia sẻ Wi-Fi một cách dễ dàng, cách chia sẻ sóng không dây Wi-Fi trên Mac OS X và nhất là Linux khá “nhiêu khê”. 
+Với một vài bước cài đặt sau đây, bạn có thể biến những chiếc laptop hỗ trợ Wi-Fi vốn rất phổ biến hiện nay trở thành điểm phát sóng miễn phí để chia sẻ Internet với bạn bè, bất kể đang sử dụng Ubuntu hay Mac OS X.
+Trước hết, với một số thao tác sau đây thực hiện cùng Ubuntu 9.10, bản phân phối Linux phổ biến hiện nay, bạn có thể nhanh chóng biến laptop cài Linux thành một hotspot “cực khỏe”.
+Truy cập bảng thông báo góc phải phía trên desktop. Bạn sẽ thấy các biểu tượng quen thuộc như đồng hồ, thông số mạng. Khi tới biểu tượng mạng LAN, nhấp chuột phải và chọn “Edit Connections.”
+Cửa sổ mở ra, bạn chuyển tới thẻ “Wired”, sau đó chọn kết nối mạng LAN “Auto eth0” để chỉnh sửa nếu muốn. Tuy nhiên, việc cần làm lúc này là bạn nhấp vào nút  “Add” để thiết lập mạng Wi-Fi ảo. Để cấu hình, bạn vào thẻ “IPv4 Settings”. Ở tùy biến “Method:”, có một menu sổ xuống, bạn chọn “Shared to other computers”.
+Khởi động lại máy. Nếu mọi thông số cài đặt chính xác, bạn sẽ có thể giúp các laptop khác truy cập sóng Wi-Fi miễn phí từ laptop dùng cổng Ethernet. Nhìn chung cách này khá dễ dàng, nhưng bạn phải thực hiện trên phiên bản Ubuntu mới nhất 9.10.
+Trên Mac OS X
+Tuy ít người sử dụng, nhưng Mac OS X thực sự thân thiện. Để biến chiếc Macbook thành một router Wi-Fi ảo, bạn chỉ cần thực hiện một số bước sau đây:
+Bạn vào System References (từ Apple | References) rồi nhấp vào Sharing để kích hoạt Internet Sharing
+Ở trang tuỳ biến, bạn nhấp vào Internet Sharing trong danh sách Services. Ở menu sổ xuống, bạn chọn giao thức kết nối tới Internet. Chọn giao thức muốn chia sẻ là Erthernet và Airport.
+Tiếp đến, nhấp vào Airport Options. Bạn sẽ thấy một thông báo hiển thị yêu cầu nhập tên cho mạng mới. Bạn có thể đặt mật khẩu cho mạng chia sẻ này. Nhấp OK để hoàn tất. Mac OS X sẽ chuyển tín hiệu LAN thành sóng Wi-Fi.

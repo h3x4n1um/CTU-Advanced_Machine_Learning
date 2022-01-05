@@ -1,0 +1,18 @@
+﻿Định nghĩa:  Ngôn ngữ Đánh dấu Siêu Văn bản Động (Dynamic Hypertext Markup Language) là phiên bản mở rộng của HTML và JavaScript, ngôn ngữ này được dùng để tạo trang thông tin trên World Wide Web. Dynamic HTML có vị trí văn bản và đồ hoạ rất chính xác vì nó cho phép nội dung của trang Web thay đổi mỗi khi người dùng nhấn, kéo hay trỏ vào nút, hình ảnh hay các thành phần khác trên trang này.
+Công nghệ đặc biệt cần nhiều nỗ lực hơn nữa
+    Ngôn ngữ đánh dấu siêu văn bản động mang lại cho các nhà phát triển khả năng tạo những trang Web có hình thức và tính năng như một ứng dụng thực sự. Nói thì nghe dễ dàng nhưng bạn đừng "tưởng bở".
+    Hầu hết các trình duyệt World Wide Web chưa có khả năng dùng các tính năng HTML động, ngoại trừ Navigator 4.0 của Netscape và Internet Explorer 4.0 của Microsoft. Tuy nhiên, hai phiên bản này lại không tương thích với nhau ố hầu hết những tính năng HTML động trên Navigator không được hỗ trợ trên Internet Explorer và ngược lại. Kết quả là các nhà phát triển Web phải chọn lựa một trong hai để viết các trình ứng dụng hay phải chấp nhận "chắp vá" để mã HTML động chạy được trên cả hai môi trường. Với bất kỳ phiên bản nào, nội dung của trang Web cũng được thay đổi mà không phải tải xuống bản mới.
+    HTML động cho phép người dùng định vị chính xác văn bản và hình ảnh trên trang Web. Cả hai trình duyệt của Netscape và Microsoft đều hỗ trợ hệ CSS để kiểm soát vẻ ngoài của trang Web. Ví dụ, các nhà phát triển có thể thay đổi kiểu chữ và kích cỡ của từng dòng tiêu đề trên Web site một cách đơn giản bằng cách thay đổi đặc tả trong trang đơn xác định hình thức tương ứng.
+    HTML động của Microsoft phức tạp hơn của Netscape và có cả khả năng liên kết cơ sở dữ liệu với trang Web để sửa đổi nội dung ngay trong khi thực thi. Trước khi có HTML động, điều này đòi hỏi phải bổ sung mã chương trình chạy ngoài trình duyệt như Java hay thành phần ActiveX.
+    Mặc dù các công cụ có thể làm lu mờ sự khác biệt giữa hai phiên bản này nhưng các nhà phát triển Web phải cân nhắc và quyết định về việc có cần bỏ công sức lập trình với HTML động hay không khi mà số người dùng có thể hưởng được tính năng này còn hạn chế. Chỉ riêng lý do số "thần dân" ít ỏi của nó cũng đủ làm cho HTML động không phải là tùy chọn của một số người dùng hiện nay; trên 65% trình duyệt phổ biến hiện không hỗ trợ HTML động.
+    Một số cơ sở khác cho rằng giá trị của HTML động là đáng để đầu tư công sức; đặc biệt trong trường hợp mọi người dùng đều có Internet Explorer 4.0. Microsoft cũng như Netscape chưa tuyên bố lúc nào thì trình duyệt của họ tương đồng nhau; trong khi chưa có trình duyệt như vậy chiếm lĩnh thị trường thì HTML động vẫn là một công nghệ đặc biệt.
+Computerworld
+Thuật ngữ
+World Wide Web Consortium (W3C):
+Tổ chức độc lập định ra tiêu chuẩn cho trình duyệt Web, máy chủ và ngôn ngữ.
+JavaScript:
+Dạng ngôn ngữ kịch bản chuẩn trên các trình duyệt Web Netscape và Microsoft, mang lại cho nhà thiết kế trang Web những khả năng vượt ngoài HTML, ví dụ như tự động nhảy đến trang Web khác.
+Cascading Style Sheets (CSS):
+Hệ thống cho phép nhà phát triển trang Web tạo ra các định nghĩa về "kiểu dáng" của trang Web, xác định phông chữ, thiết kế trên màn hình một cách biệt lập với văn bản của từng trang Web.
+Document Object Model:
+Đặc tả của W3C quy định cách thức để nhà lập trình điều khiển các thành phần trên trang Web như các nút, hình ảnh hay văn bản.

@@ -1,0 +1,17 @@
+﻿ Bạn đang muốn khởi đầu cuộc phiêu lưu tạo các trang web của riêng mình một cách dễ dàng?
+KompoZer là một chương trình biên tập web cơ bản và tốt, sẽ cho phép bạn nhanh chóng khởi động và trở nên quen thuộc với công việc này. Bài viết giới thiệu KompoZer thông qua một loạt hình ảnh.
+Cả phiên bản ổn định (0.7.10) và beta (0.8b1) của chương trình đều không cần cài đặt, có thể tải về tại đây. KompoZer sử dụng động cơ hiển thị Gecko của Mozilla (được dùng trong Firefox), hỗ trợ cả Window, Linux và Mac OS X, tuy nhiên bản 0.7 (phát hành năm 2007) không hỗ trợ các phiên bản Linux mới. Bản 0.8b1 mới nhất trên Windows có dung lượng 8,3 MB.
+Rất đơn giản, giải nén thư mục chương trình, chép vào Program Files, và tạo đường dẫn trên Desktop. Đối với những người đang tò mò, đây là một hình ảnh về nội dung thư mục của chương trình.
+Còn đây là những gì bạn thấy khi lần đầu tiên khởi động chương trình. Cửa sổ chính được đặt ở chế độ thu nhỏ, và một cửa sổ hướng dẫn hiện ra, chi bạn những chỉ dẫn cần thiết và cơ bản nhất. Nếu không muốn cửa sổ này hiển thị trong lần sử dụng sau, bạn có thể làm đơn giản là bỏ chọn dấu chọn ở ô “Show tips at startup”.
+Giao diện
+Một trang web sau khi được tạo bởi KompoZer sẽ có dáng vẻ ra sao? Đây là một trang thí dụ mà chúng tôi tạo ra với một tiêu đề trên đầu, màu nền, hình ảnh, bảng, và một số liên kết có ích.
+Chú ý ở phía dưới bạn có ba tùy chọn chế độ hiển thị: Design (thiết kế), Split (thiết kế & lẫn mã nguồn), và Source (mã nguồn).
+Xem trang web mới được tạo này với trình duyệt Opera.
+Thanh công cụ
+Đây là một cái nhìn chi tiết về khu vực các thanh công cụ của KompoZer. Bạn có thể tùy biến cho các thanh công cụ nếu muốn...
+Có hai thanh công cụ khác nhau trong KompoZer. Hình đầu là của thanh công cụ phía trên.
+Hình thứ hai là của thanh công cụ phía dưới (chiếm hai dòng).
+Menu
+KompoZer có các menu khá chuẩn, bạn có thể xem qua menu File và Edit.
+Còn đây là menu View và menu Insert.
+Tiếp theo là menu Format và Table.

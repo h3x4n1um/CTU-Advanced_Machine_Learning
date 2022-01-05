@@ -1,0 +1,24 @@
+﻿Thiết lập hệ thống camera quan sát động bằng webcam Logitech và gửi tín hiệu cảnh báo thông qua tin nhắn .
+Những yêu cầu, đòi hỏi về an ninh và bảo mật ngày nay đã trở nên cấp thiết và quan trọng hơn bao giờ hết. Ngoài lực lượng an ninh, bảo vệ thì những người quản lý hoàn toàn có thể tận dụng được những tài nguyên sẵn có của hệ thống máy tính. Hơn nữa, có những tình huống và địa điểm mà con người không thể trực tiếp canh gác, bảo vệ và do đó phải nhờ đến sự hỗ trợ của những hệ thống giám sát từ xa. 
+Trong bài viết này, chúng tôi sẽ hướng dẫn các bạn thiết lập 1 hệ thống theo dõi, quan sát từ xa sử dụng thiết bị ngoại vi webcam và phần mềm hỗ trợ. Tất cả những gì bạn cần có là hệ thống máy tính sử dụng hệ điều hành Microsoft Windows, 1 hoặc nhiều thiết bị IP Camera, phần mềm hỗ trợ và chương trình xử lý World-Text Email thành SMS để gửi tin nhắn cảnh báo. 
+Tư liệu được sử dụng trong bài hướng dẫn này là webcam Logitech, phần mềm hỗ trợ điều khiển camera như webcamXP, webcam7, Webcam Monitor, Netcam Watcher Pro… với những chức năng như gửi email, kích hoạt chương trình, tải dữ liệu tới FTP hoặc tự động chụp ảnh khi phát hiện được những cử động trong khung hình. Phần mềm được sử dụng trong đây là Yawcam (Yet Another Webcam Software), ngoài những tính năng thông dụng trên, Yawcam còn hỗ trợ khả năng gửi email với cơ chế SSL, chiếm rất ít tài nguyên hệ thống, hỗ trợ cơ chế bảo mật đa tầng có sử dụng mật khẩu trực tuyến, được xây dựng trên nền tảng cơ bản bằng Java, sử dụng Javascript hoặc Java Applet điều khiển, vì vậy người sử dụng có thể dễ dàng sắp đặt cơ chế tự động tắt hoặc bật camera. 
+Sau khi cài đặt thành công, bạn sẽ nhận được thông báo “No device selected” tại cửa sổ Preview. Bỏ qua, chọn mục Settings > Device (none) > Change to và lựa chọn đúng thiết bị hiển thị trong danh sách:
+Tiếp theo, nhấn vào Windows trên thanh công cụ, và lựa chọn Motion detection, những lựa chọn sau người sử dụng hãy để ý trong thẻ Action, tại đây là danh sách những hành động sẽ được hệ thống thực hiện, kích hoạt khi thiết bị phát hiện được những cử động. Bạn có thể tùy chọn:
+Save an image file (or a sequence of files) to the local computer: tự động lưu thành file ảnh vào thư mục mặc định đã được thiết lập sẵn trên máy tính 
+Upload images to an ftp account: tự động tải file ảnh đó lên tài khoản FTP của người sử dụng 
+Send an e-mail (with or without images attached): gửi báo cáo có đính kèm file ảnh đó vào email của người sử dụng 
+ Execute a program or batch file: tự kích hoạt file bảo vệ 
+Play a sound file: bật âm thanh cảnh báo 
+Để chuyển đổi giữa 2 chế độ tự động phát hiện cử động - Motion detection, người sử dụng chỉ việc tích vào ô “Enable” trong bảng Control Panel điều khiển chính:
+Vậy là bạn đã hoàn thành 1 phần hệ thống camera theo dõi. 
+Tiếp theo, bạn cần đăng ký 1 tài khoản World-Text tại đây 
+Người sử dụng chú ý điền đầy đủ và đúng các thông tin theo hướng dẫn 
+Kiểm tra hòm thư điện tử và kích hoạt tài khoản được gửi về bở World-Text 
+Bạn sẽ nhận được tin nhắn có chứa 5 chữ số, sử dụng chuỗi ký tự này để kiểm tra và kích hoạt tài khoản có chứa số điện thoại di động của bạn 
+Đăng nhập vào tài khoản World-Text
+Nhấn vào đường dẫn “Email Gateway Configuration” 
+Chọn tiếp lựa chọn “Send SMS Using A Password” và “Current Secure ID” 
+Chú ý: với tài khoản mới sẽ nhận được 30 credits miễn phí đầu tiên. Ví dụ, 1 tin nhắn tới VietNam sẽ mất 15 credit. Bạn có thể tham khảo bảng giá credit đối với mỗi khu vực khác nhau trên toàn thế giới tại đây. 
+Bước tiếp theo, tại màn hình chính điều khiển của Yawcam, chọn Window > Motion detection 
+Tại thẻ Actions > Settings để tùy chỉnh chức năng gửi thư điện tử 
+Điền đầy đủ và chính xác thông tin tài khoản.

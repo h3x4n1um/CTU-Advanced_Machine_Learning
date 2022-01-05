@@ -1,0 +1,35 @@
+Tư vấn cách phòng chống các cuộc tấn công lợi dụng lỗ hổng SQL Injection.
+Đối phó với các cuộc tấn công SQL Injection
+ Xin hãy chỉ dẫn cho tôi cách xử lý, đối phó với các cuộc tấn công SQL Injection vào website?
+Trước khi trao đổi về các biện pháp ngăn chặn, xử lý các cuộc tấn công SQL Injection một cách hiệu quả, chúng ta hãy cùng nhau tìm hiểu rõ khái niệm về SQL Injection.
+SQL Injection là gì?
+SQL Injection hiểu đơn giản là một kiểu tấn công mà mục tiêu chủ yếu là các website. Trong đó, hacker sẽ “tiêm” các câu truy vấn SQL (Structured Query Language) độc hại vào website. Hậu quả của các cuộc tấn công SQL Injection có thể khiến cho cơ sở dữ liệu (CSDL) của các website bị thay đổi, bị xóa hoặc bị đánh cắp. Nguy hiểm hơn, hacker có thể lợi dụng lỗ hổng SQL Injection để chiếm quyền kiểm soát của toàn bộ máy chủ.
+Để hiểu rõ hơn về SQL Injection, chúng ta cùng xem một ví dụ minh họa sau đây.
+Khi người sử dụng truy cập vào một website tin tức và bấm vào một tin có mã số là 1 thì đường dẫn gửi tới máy chủ web sẽ có nội dung như sau:
+Khi đó, để cung cấp nội dung tin số 1 trả về cho người sử dụng, website sẽ truy vấn tới cơ sở dữ liệu để lấy tin. Câu truy vấn SQL do người lập trình viết sẽ có cấu trúc như sau:
+SELECT * FROM News WHERE NewsId = " + N_ID + "
+Trong trường hợp này với yêu cầu lấy tin số 1 thì biến N_ID = 1. Kết quả là câu truy vấn SQL thật tới CSDL sẽ là: SELECT * FROM News WHERE NewsId = 1
+Do sơ xuất của lập trình viên trong khi lập trình, không kiểm tra tính hợp lệ của N_ID trước khi thực thi câu truy vấn SQL, hacker có thể lợi dụng để chèn các câu truy vấn nguy hiểm tới CSDL.
+Chúng ta có thể thấy phần bội đậm trong hình minh họa trên là một câu truy vấn độc hại do hacker chèn vào. Câu truy vấn này cũng sẽ được thực thi cùng với câu truy vấn của người lập trình viết và sẽ khiến thông tin trong CSDL bị xóa.
+SELECT * FROM News WHERE NewsId = 1; DELETE FROM NEWS WHERE NewsId=2
+Dưới đây sẽ là các sơ đồ kết nối trong ví dụ ở trên:
+Minh họa cho một truy vấn thông thường tới website.
+Minh họa cho hệ thống tồn tại lỗ hổng SQL Injection.
+Minh họa cho hệ thống không tồn tại lỗ hổng SQL Injection.
+Như vậy có thể thấy, lỗi SQL Injection xảy ra khi website không được lập trình tốt hoặc cấu hình máy chủ tốt. Vì vậy, hệ thống không kiểm soát được chặt chẽ các tham số đầu vào cho các câu truy vấn SQL, dẫn đến bị hacker lợi dụng để chèn vào các câu truy vấn nguy hiểm đối với CSDL.
+Tấn công SQL Injection vào các website đang là hình thức tấn công rất phổ biến trên thế giới hiện nay.
+Phòng chống SQL Injection
+Các biện pháp phòng chống tấn công SQL Injection cho website phụ thuộc rất nhiều vào nền tảng (platform) xây dựng web. Ví dụ, website của bạn được xây dựng trên platform nào (Joomla, Wordpress hay DotNetNuke …) và sử dụng ngôn ngữ lập trình gì (ASP, PHP, .Net hay Java …). Website đó đang chạy trên Web Server (IIS, Apache…) nào, hệ quản trị CSDL của website là gì (Oracle, MySQL…)?
+Dưới đây là một số quy tắc chung trong việc phòng chống SQL Injection:
+1. Đối với website (dành cho lập trình viên): Cần kiểm tra tính đúng đắn của tất cả dữ liệu đầu vào. Dữ liệu đầu vào không chỉ là các tham số, mà bao gồm cả cookie, user agent, referer …
+Việc kiểm tra tính đúng đắn của dữ liệu có thể dựa trên các phương pháp sau:
+- Kiểm tra dựa vào kiểu dữ liệu (số, ngày tháng …)
+- Kiểm tra, giới hạn độ dài đầu vào
+- Loại bỏ các ký tự đặc biệt.
+- Loại bỏ các từ đặc biệt: select, drop, delete, information_schemal, insert, union, xp_ …
+2. Đối với web server (dành cho quản trị mạng): Hầu hết các máy chủ web (web server) hiện nay đều có các module hỗ trợ việc phòng chống SQL Injection, ví dụ, Apache có modsecurity, IIS có URLScan.  Bạn chỉ cần bật tính năng này và cấu hình cho phù hợp. Nếu website của bạn là dạng trang tin tức thì rất phù hợp để triển khai. Trong một số trường hợp khác, các module này có thể chặn nhầm, dẫn tới website hoạt động không chính xác.
+3. Đối với database server (dành cho quản trị mạng): Bạn cần thực hiện việc cấu hình phân quyền chặt chẽ đối với các tài khoản. Khi đó, dù tồn tại lỗi SQL Injection, thiệt hại cũng sẽ được hạn chế. Ngoài ra, bạn cần loại bỏ các bảng, thành phần và tài khoản không cần thiết trong hệ thống.
+4. Một số lời khuyên khác:
+- Bạn cần tắt tất cả các thông báo lỗi không cần thiết của web server. Hacker có thể lợi dụng chính các thông báo lỗi này để khai thác thông tin của hệ thống, phục vụ cho một cuộc tấn công SQL Injection.
+- Bạn cần bật các chế độ ghi log đầy đủ để phục vụ việc điều tra phát hiện cuộc tấn công và giải quyết sự cố.
+- Bạn cần thường xuyên theo dõi và cập nhật phiên bản cho platform của website (hệ điều hành, web server, database server…)

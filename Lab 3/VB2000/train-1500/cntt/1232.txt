@@ -1,0 +1,7 @@
+﻿Công ty bảo mật McAfee cảnh bảo giới phát tán phần mềm quảng cáo gián điệp adware đã chuyển hướng đánh lừa người dùng download những sản phẩm “không mời mà đến” qua các file nhạc MP3 giả tạo. 
+Hôm qua, McAfee cho biết hàng loạt file MP3 giả mạo đã được phát tán rộng rãi trên mạng ngang hàng (peer-to-peer). Mặc dù những tệp tin này được đặt tên giống với các bản ghi âm audio nhưng thực ra chúng là các chương trình gián điệp Trojan tìm cách cài phần mềm giải trí giả và adware trên máy tính người dùng, Craig Schmugar – một nhà nghiên cứu của McAfee – cho biết.
+“Khi người dùng click chuột chạy file MP3 thì không có nội dung. Sau đó, người dùng sẽ được chỉ hướng tới một website để cài phần mềm không cần thiết”, Schmugar giải thích.
+Những tên file MP3 giả tạo này gồm: preview-t-3545425-changing times earth wind.mp3 và t-3545425-just got lucky.mp3…
+Đầu tiên người dùng sẽ được yêu cầu nhấn OK trong phần đồng ý mua bản quyền (end-user license agreement). Tiếp đó, Trojan sẽ cài hai chương trình vào máy tính nạn nhân, đó là Mirar và NetNucleus.
+Điều đáng nói là trong khi phần mềm Mirar xác nhận không phát tán popup quảng cáo thì chương trình NetNucleus thông báo sẽ gửi quảng cáo. Vì thế, người dùng khó phát hiện là đã cài phải hai phần mềm độc hại.
+Ông Schmugar cho biết mặc dù công ty đã phát hiện nhiều phần mềm giả mạo file giải trí nhưng đây là lần đầu tiên ghi nhận hình thức đánh lừa người dùng như thế này. Chỉ trong vòng vài ngày, phần mềm bảo mật của McAfee đã phát hiện hơn 360.000 file MP3 giả trên máy tính người dùng.

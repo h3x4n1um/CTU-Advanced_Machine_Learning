@@ -1,0 +1,27 @@
+﻿Với những tiện ích dưới đây, bạn sẽ vô hiệu hóa chức năng của ổ đĩa CD cũng như các cổng USB để bảo vệ dữ liệu trên máy tính, nhưng cũng có thể dễ dàng khôi phục chức năng của chúng để sử dụng khi cần thiết.
+CD-ROM và USB là 2 thiết bị lưu trữ và sao chép dữ liệu thông dụng hiện nay. Với cách thức khóa truy cập CD-ROM cũng như các cổng kết nối USB trên hệ thống, chắc chắn dữ liệu trên máy tính sẽ được an toàn, cũng như máy tính không xuất hiện thêm các dữ liệu không rõ nguồn gốc.
+CD-ROM  (ổ đĩa quang) là một trong những thiết bị phổ biến và luôn được trang bị trên máy tính. Nếu thiếu ổ đĩa này, bạn không thể chơi CD, DVD, Blu-ray, ghi đĩa, cài đặt, sao chép dữ liệu từ đĩa…
+Nếu bạn sử dụng máy tính chung với nhiều người, một vài người sẽ tự ý sao chép dữ liệu quan trọng của bạn vào ổ đĩa để đem đi nơi khác. Thường gặp hơn, một vài người sẽ tự ý sử dụng ổ đĩa để sao chép dữ liệu lung tung từ đĩa vào ổ cứng, hoặc ghi đĩa liên tục… điều này sẽ làm giảm tuổi thọ của ổ đĩa.
+Là chủ nhân của máy tính, bạn muốn tìm cách để hạn chế sử dụng ổ đĩa quang mà không được sự cho phép của mình, hoặc để bảo vệ dữ liệu từ máy tính, không bị sao chép vào đĩa để mang đi. Giải pháp hiệu quả nhất trong trường hợp này đó là khóa ổ đĩa.
+Cách đơn giản nhất đó là vô hiệu ổ đĩa (để hệ thống không thể nhận diện). Tuy nhiên, chúng ta phải khóa ở đĩa sao cho vẫn có thể sử dụng khi cần thiết. CDRom-Lock là phần mềm nhỏ gọn và miễn phí, cho phép bạn thực hiện điều này. 
+Sau khi cài đặt, biểu tượng của phần mềm sẽ xuất hiện trên khay hệ thống. Kích vào biểu tượng này để xuất hiện giao diện chính. 
+Ngôn ngữ mặc định của phần mềm là tiếng Đức. Để thay đổi về tiếng Anh, bạn chọn Bearbeiten -> Optionen. 
+Tại hộp thoại Optionen hiện ra, đánh dấu chọn English tại mục Sprache. Tại đây, bạn cũng có thể đặt mật khẩu bảo vệ cho chương trình để có thể tùy ý khóa hoặc mở khóa ổ đĩa CD-ROM.
+Để đặt mật khẩu bảo vệ, đánh dấu vào tùy chọn Password protection, sau đó nhấn nút Set password. Tại hộp thoại Set Password hiện ra, điền mật khẩu và xác nhận mật khâu, nhấn OK để thiết lập.
+Mặc định, khi phần mềm được kích hoạt, nó sẽ tự động khóa toàn bộ các ổ đĩa CD trên hệ thống. Bạn không thể mở khay ổ đĩa ngay cả khi bấm nút Eject (nút mở khay) trên ổ đĩa. Thậm chí, khi bạn kích chuột phải vào biểu tượng ổ đĩa (ở My Computer), chọn Eject, bạn sẽ nhận được 1 thông báo lỗi.
+Để mở khóa ổ đĩa, tại giao diện phần mềm, chọn ổ đĩa cần mở khóa ở danh sách bên trên, đánh dấu vào tùy chọn Unlock bên dưới và nhấn OK. Một hộp thoại hiện ra, yêu cầu điền mật khẩu (trong trường hợp có thiết lập mật khẩu).
+Sau khi điền mật khẩu xác nhận, ổ đĩa được mở khóa sẽ chuyển sang biểu tượng màu xanh. Bây giờ, bạn đã có thể sử dụng ổ đĩa như bình thường.
+Để gỡ bỏ mật khẩu bảo vệ, bạn chọn Edit -> Preferences, đánh dấu bỏ tùy chọn Password Protection, rồi điền mật khẩu xác nhận đã khởi tạo trước đó.
+Khóa các cổng USB:
+USB ngày nay là thiết bị lưu trữ phổ biến, thường được sử dụng để sao chép dữ liệu. Như mục đích đã đề cập ở trên, để bảo vệ dữ liệu không bị sao chép ra ngoài, bạn có thể khóa các cổng USB trên máy tính. Ngoài ra, việc sử dụng USB sẽ dẫn tới nguy cơ cao về lây nhiễm virus vào máy tính.
+USB Ports Locked là phần mềm nhỏ gọn, cho phép người dùng khóa các cổng USB trên hệ thống.
+Download phần mềm miễn phí tại đây.
+Sau khi download, giải nén để sử dụng. Phần mềm cung cấp 2 chế độ sử dụng khác nhau:
+Chế độ sử dụng với mật khẩu: (USB Port Locked with Password): với chế độ này, khi kích hoạt phần mềm để sử dụng, người dùng cần phải điền mật khẩu bảo vệ để xác nhận. Mật khẩu mặc định được thiết lập là Unlock (chữ U được ghi hoa).
+Chế độ sử dụng không cần mật khẩu (USB Port Locked Not with a Password): bạn có thể sử dụng phần mềm mà không cần khai báo mật khẩu sử dụng.
+Các chế độ này được chứa trong 2 thư mục tương ứng với tên gọi.
+Để sử dụng phần mềm, bạn truy cập vào thư mục tương ứng (để chọn hình thức sử dụng thích hợp), kích hoạt file USB Port Locked.exe để sử dụng ngay mà không cần cài đặt.
+Tại giao diện chính, nhấn nút Lock USB Ports để khóa toàn bộ các cổng USB trên hệ thống, và nhấn nút Un Lock USB Ports để khôi phục lại trạng thái bình thường.
+Điểm nổi bật của phần mềm đó là có khả năng nhận diện thiết bị đang sử dụng cổng USB. Chẳng hạn, nếu bạn đang sử dụng bàn phím, chuột… sử dụng giao tiếp qua cổng USB, bạn vẫn có thể tiếp tục sử dụng bình thường. Trong khi đó, nếu cắm ổ cứng di động, thẻ USB… thì hệ thống sẽ không nhận diện và sử dụng.
+Ngoài ra, với cách thức này, bạn sẽ loại bỏ được nguy cơ lây nhiễm virus từ USB vào máy tính và ngược lại.
+Sau khi sử dụng, bạn nên che dấu phần mềm ở nơi nào đó để người khác không tìm ra. Nếu không, chức năng vô hiệu hóa sẽ bị gỡ bỏ. 

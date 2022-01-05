@@ -1,0 +1,22 @@
+﻿Tuy Windows 7 ra đời đã được cải thiện nhiều về mặt tốc độ so với các phiên bản hệ điều hành trước đây, nhưng nếu biết cách tối ưu các thành phần trong chúng sẽ làm cho bộ máy hoạt động nhanh nhẹn hơn rất nhiều. 
+Dưới đây là một số thủ thuật nhỏ nhưng lại khiến cho Windows 7 hoạt động nhanh hơn:
+Chống phân mảnh ổ cứng
+Ổ cứng là một “nút thắt cổ chai lớn” đối với hầu hết PC và chống phân mảnh ổ đĩa được coi là một cách truyền thống để nâng cao tốc độ cho thiết bị. Thực hiện thường xuyên công việc này sẽ giúp hệ thống luôn hoạt động tối ưu nhất.
+Thao tác: Kích vào Start, gõ defrag, chọn vào 'Disk Defragmenter' và tắt chức năng scheduled defrags (liên tục phân mảnh theo lịch trình đặt sẵn). Sau đó cài đặt ứng dụng chống phân mảnh Auslogics Disk Defrag, bật lựa chọn xác định lại các tệp tin hệ thống, kích 'Settings | Program Settings | Schedule' và thiết lập cho công việc này được thực hiện vài ngày một lần.
+Tối ưu các dịch vụ và khởi động
+Đợi gần 2 phút sau khi khởi động máy tính mới có thể truy cập vào một trang web là quá lâu. Vì vậy, để giảm thời gian chờ đợi, người dùng cần giảm công việc mà Windows thực hiện trong suốt quá trình khởi động. Vì vậy, hiệu quả nhất là tác động tới các dịch vụ (services.msc) của Windows 7.
+Chẳng hạn, những dịch vụ nào người dùng không sử dụng thì có thể vào 'services.msc', kích đúp vào dịch vụ đó và chọn 'Disabled' để tắt chúng đi.
+Tắt các dịch vụ không cần thiết
+IP Helper là vô dụng trừ khi người dùng truy cập tới mạng IP6.  Các dịch vụ Windows Media Player Network Sharing và Media Center Extender Service có thể chạy trừ khi người dùng sử dụng chúng để chia sẻ nhạc và video. Vì vậy, hãy tắt hết chúng đi.
+Các dịch vụ khác có thể được cấu hình khởi động với một độ trễ để ưu tiên các nhiệm vụ khác. Điều này sẽ giúp cho PC có thể khởi động nhanh hơn để sử dụng nhanh. Chẳng hạn như, Background Intelligent Transfer Service chỉ quan trọng khi tải Windows Updates nhưng không phải lúc nào cũng cần, nhất là khi khởi động máy tính. Kích đúp vào dịch vụ đó và thiết lập mục Startup Type về 'Automatic (Delayed Start)'. Thực hiện tương tự với các dịch vụ Disk Defragmenter, Windows Backup, Windows Search và Windows Update.
+Nhiều dịch vụ của hãng thứ ba không cần thiết khi khởi động chẳng hạn như Nero 9, LightScribe,Visual Studio 2008 Remote Debugger,... Vì vậy, tắt hết chúng đi.
+Đơn giản hóa khởi động
+Lấp đầy PC với một số lượng lớn các chương trình khởi động sẽ thực sự khiến máy tính chậm chạp. Vì vậy, người dùng nên giản tiện bớt các chương trình này bằng cách duyệt nhanh menu All Programs trong Start. Bất cứ thứ gì không cần thiết nên vô hiệu hóa chúng đi. Nhiều chương trình không cần thiết, chẳng hạn QuickTime, iTunes, Adobe Reader, Adobe Acrobat, Orbit Downloader, PowerDVD, RealPlayer,... Chúng có thể là những công cụ rất hữu ích khi cần dùng nhưng không cần thiết để khởi động cùng với máy tính.
+Ngoài ra, người dùng cần vào Run và chạy msconfig, chọn  Startup để vô hiệu hóa các chương trình không cần thiết khởi động cùng máy tính. Người dùng có thể vô hiệu hóa các tiện ích của card đồ hoạ, card âm thanh để tăng tốc khởi động hệ thống và hiệu suất thực hiện.
+Tối ưu hóa các ứng dụng
+Các ứng dụng trên máy tính có thể đi kèm với các add-on không cần thiết nhưng lại chiếm một phần không nhỏ dung lượng bộ nhớ. Đặc biệt là trên các trình duyệt như Firefox và IE. Vì vậy, trên trình duyệt web, người dùng kích vào 'Tools | Manage Add-ons' và vô hiệu hóa các Add-on không cần thiết.
+Tương tự với Microsoft Office, Outlook 2007 đi kèm với nhiều Add-on không cần thiết và các chương trình giống như iTunes sẽ được cài thêm vào máy mà không cần được sự cho phép của người dùng.
+Làm sạch hệ thống
+Kích vào Start, gõ cleanmgr và chọn ổ đĩa để hệ điều hành quét và đưa ra nhưng nơi mà người dùng có thể làm sạch. Chẳng hạn như các tệp tin tạm thời của trình duyệt. Ngoài ra người dùng có thể sử dụng công cụ như Ccleaner để làm sạch Registry của HĐH.
+Tối ưu hoá Registry
+Người dùng có thể tải tệp tin tại đây và cài đặt trên máy tính để tối ưu hóa hệ thống và bổ sung thêm một số tính năng hữu ích cho máy tính.

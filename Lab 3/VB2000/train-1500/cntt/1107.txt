@@ -1,0 +1,20 @@
+﻿ĐỀ TÀI: XÂY DỰNG WEBSITE THƯ VIỆN ĐIỆN TỬ
+Lời giới thiệu:
+Sự ra đời của thư viện điện tử (TVÐT) là một tất yếu của cuộc cách mạng khoa học kỹ thuật trong giai đoạn bùng nổ thông tin hiện nay. TVÐT sẽ làm thay đổi cơ bản phương thức hoạt động của thư viện từ thu thập, xử lý tài liệu, phục vụ người đọc. Ðồng thời, nó cũng tạo ra các hoạt động thông tin, các sản phẩm thông tin có giá trị nhằm đáp ứng nhu cầu thông tin ngày càng cao của người dùng tin, giúp người dùng tin không còn phải mất nhiều thời gian cho việc tra cứu tài liệu. Dựa vào các công cụ tra tìm trên máy, họ có thể khai thác một cách nhanh chóng và hiệu quả những tài liệu của thư viện..
+Ở mức độ tự động hóa cao hơn, chúng ta có thể xây dựng CSDL toàn văn cho TVÐT. Ðây là cơ sở để tiến hành việc truy cập tài liệu từ xa, phục vụ được cho người dùng mà không phải đến thư viện. Thư viện cho phép người dùng có thể đọc sách trực tuyến và người dùng tin có thể mượn trả sách cũng như gia hạn sách trực tuyến. Để làm được điều đó thì người dùng phải đăng ký một tài khoản làm thành viên của TVĐT.
+Nội dung xây dựng gồm có:
+Thiết kế và xây dựng trang WEB của thư viện để phục vụ công tác truy cập và khai thác thông tin của bạn đọc mọi nơi, mọi lúc các thông tin cần thiết. Trang WEB bao gồm các thành tố sau:
+Trang Giới thiệu: giới thiệu cho bạn đọc về các hoạt động của thư viện.
+Trang Đăng ký: người dùng có thể đăng ký thành viên tại trang này.
+Trang Quản lý: trang này dành riêng cho cán bộ quản lý dùng để quản lý thư viện như quản lý độc giả, quản lý tài liệu (chương trình quản lý thư viện).
+Trang Thông tin: giới thiệu các tin tức cập nhật mới nhất. Các thông tin sẽ được thay đổi liên tục.
+Trang Mượn trả sách: trang mượn trả sách cho phép người dùng có thể mượn trả sách trực tuyến.
+Trang Gia hạn: trang gia hạn cho phép người dùng có thể gia hạn sách trực tuyến.
+Trang Hỏi đáp: tư vấn và giải đáp các yêu cầu cho độc giả.
+Trang Dịch vụ, quảng cáo: 
+Phần mềm quản lý cơ sở dữ liệu của thư viện phải xử lý được nguồn tài liệu hiện nay có, đáp ứng được nhu cầu phát triển, có khả năng tích hợp với các một số cơ sở dữ liệu khác.
+Phần mềm quản lý độc giả và các hoạt động khác của thư viện cũng được dự trù, cho phép người thủ thư có nhiều thời gian hơn trong nhiệm vụ xử lý thông tin và phục vụ độc giả.
+Xây dựng máy chủ cho tương thích với phần mềm quản lý cơ sở dữ liệu và quản lý độc giả.
+Xây dựng cơ sở dữ liệu dưới hình thức là thư viện của bộ môn để phục vụ các giảng viên khi lên lớp qua hệ thống mạng của nhà trường hoặc phục vụ việc tự học của sinh viên.
+Ngôn ngữ lập trình sử dụng : ASP.
+Hệ CSDL sử dụng : SQL Server 2000.

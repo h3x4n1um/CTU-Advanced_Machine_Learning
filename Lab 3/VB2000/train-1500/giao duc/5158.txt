@@ -1,0 +1,35 @@
+﻿Đề thi Toán giữa kỳ lớp 12 sai bét 
+Thứ Sáu, ngày 28/10/2011, 17:19
+(giao duc) - Đề thi giữa học kỳ I môn Toán – khối lớp 12 tại TP Cần Thơ bị phát hiện sai từ hình thức đến nội dung kiến thức, sai cả nguyên tắc viết công thức Toán theo quy ước Quốc tế. Dù cuộc thi đã tổ chức xong và đã gần thời điểm công bố điểm thi, nhưng hầu như tất cả các cán bộ - giáo viên và BGH các trường sử dụng đề thi này đều không phát hiện sai sót…Đề thi Toán chính thức do Sở GD&ĐT TP Cần Thơ soạn và phát hành, phục vụ cuộc thi Giữa học kỳ I – năm học 2011-2012 tại các trường THPT toàn thành phố. Theo đó, đề này có 2 phần và tổng cộng 7 câu (thời gian thi 150 phút) nhưng xuất hiện đến 4 lỗi từ hình thức ra đề đến nội dung kiến thức.
+
+Thứ nhất, “Phần chung” gồm 3 câu hỏi (7 ý), là nội dung thi dành cho tất cả thí sinh. Ngay tiêu đề phần thi này ghi tổng cộng 7,5 điểm; nhưng khi cộng tổng số điểm của từng câu hỏi phía dưới thì tổng số điểm của phần thi là 8 (?).
+
+Thứ hai, riêng trong ý thứ 3, câu hỏi số 2 của phần chung (3,0 điểm), có sự lặp lại 2 lần hàm số “y=f(x)” một cách kỳ lạ, như đánh đố học sinh. (Cụ thể, ý này yêu cầu: “Tìm cực trị của hàm số: y=f(x). y=f(x)=(1-x)3x2”) (?).
+
+Thứ ba, ở “Phần riêng” gồm 4 câu hỏi, chia ra 2 phần tự chọn (mỗi phần 2 câu) dành cho học sinh theo “chương trình chuẩn” hoặc “chương trình nâng cao”. Ngay trong phần chương trình chuẩn, câu số 5a (1,0 điểm), ghi: “Chi hàm số y=x cos x; có đồ thị là (C). Viết phương trình tiếp tuyến của (C) tại điểm x0= (C)”. Trong khi đó, “ x0= ” về bản chất là “hoành độ” (tức là con số thực) của tọa độ 1 điểm chưa xác định thuộc đường cong (C). Không thể đồng nhất một số thực là một “điểm” thuộc đường cong được. Sai sót kiến thức căn bản này sẽ dễ khiến cho học sinh bối rối khi tiếp cận vấn đề. Trừ khi các em máy móc, ngầm chấp nhận cái sai nói trên là cái đúng để có thể giải cho xong đề thi.
+
+
+
+Đề thi Toán giữa kỳ khối lớp 12 tại TP Cần Thơ bị phát hiện có nhiều sai sót
+
+
+Thứ ba, cũng thuộc “Phần riêng”, phần dành cho “Chương trình nâng cao”; câu 4b (1,0 điểm) cũng sai kiến thức căn bản. Đề thi yêu cầu chứng minh bất đẳng thức:
+
+
+
+
+
+
+Nhưng yêu cầu này không xác định điều kiện phần tử “a” và “b” trong bất đẳng thức trên thuộc tập hợp nào (?). Như vậy, học sinh có thể hiểu “a” và “b” là tham số, là biến số hay đối tượng của bất đẳng thức. Điều này cũng đồng nghĩa, học sinh hoàn toàn có thể giải đề (chứng minh) theo các điều kiện “a” và “b” thuộc số thực, số hữu tỷ hoặc số nguyên đều được (?).
+
+Một sơ suất nữa của bộ đề thi này, chính là việc nhiều biến số trong công thức toán học đều được viết (soạn) bằng chữ cái in thường, thay vì in nghiêng theo quy ước Quốc tế.
+
+Đặt vấn đề vì sao xuất hiện quá nhiều sai sót trong bộ đề thi quan trọng của khối lớp cuối cấp như vậy, đại diện Phòng Giáo dục THPT – Sở GD&ĐT TP Cần Thơ cho biết: Quy trình soạn thảo và kiểm tra đề thi trước khi chuyển đến các trường là có sơ suất. Trong thời gian thi, cũng có hội đồng thi báo lại về sơ suất in thừa một hàm số, chứ chưa nghe trường nào phản ánh về sai nội dung kiến thức đề thi như báo phản ánh.
+
+Việc sai sót này, theo lý giải của một lãnh đạo Phòng Giáo dục THPT, là do thời điểm nói trên chuyên viên làm công tác soạn thảo đề phải kiêm nhiệm công tác tuyển chọn học sinh giỏi cho kỳ thi cấp Quốc gia sắp tới (?). Ngoài ra, một chuyên viên phụ trách bộ môn Toán của Phòng này còn thừa nhận, không biết quy ước Quốc tế về việc viết công thức toán học phải in nghiêng các chữ cái - biến số(?).
+
+Trả lời câu hỏi về quy trình duyệt và trách nhiệm kiểm duyệt đề thi này khi để xuất hiện nhiều sai sót như vậy, đại diện phòng Khảo thí – Sở GD&ĐT TP.Cần Thơ khẳng định: mỗi khi đề thi được chuyên viên Phòng Giáo dục THPT biên soạn xong, đều qua Hội đồng duyệt và thường thì Trưởng phòng Giáo dục THPT và Phó Giám đốc Sở phụ trách đều ký duyệt trước khi phát hành đề thi.
+
+Lãnh đạo phòng này nhấn mạnh: “Sai sót này là rất đáng tiếc và chúng tôi sẽ báo cáo lên Ban Giám đốc Sở để có hướng xử lý, rút kinh nghiệm…”.
+
+Chưa có thông tin chính thức về điểm số của học sinh trong đợt thi giữa kỳ vừa qua, tuy nhiên, liệu có bao nhiêu học sinh hiểu nhầm, không hiểu hoặc hiểu sai các ý và câu hỏi của bộ đề thi đầy sai sót nói trên? Điểm số và thành tích học tập của các em sẽ bị ảnh hưởng như thế nào?

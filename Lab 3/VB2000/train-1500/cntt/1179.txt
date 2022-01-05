@@ -1,0 +1,14 @@
+﻿Sẽ là rất tuyệt vời nếu tất cả kết nối Internet trên thế giới đều an toàn và được mã hóa, còn bạn không phải lo ngại về các hacker có thể "đánh hơi" dữ liệu của mình trong mạng! 
+Tuy nhiên điều này không tồn tại trong thế giới thực. Nhất là khi sử dụng một mạng công cộng (public), bạn sẽ phơi bày mình ra trước hàng nghìn hacker, đây là những kẻ chỉ chờ thời cơ như vậy để đánh cắp được các dữ liệu quan trọng từ bạn.
+May mắn thay chúng ta một vài cách có thể mã hóa kết nối Internet trên các mạng public, và một trong những cách mà chúng tôi ưa thích đó là tạo hiệu ứng đường hầm SSH. Thoạt nghe bạn có thể thấy nó khá mang tính kỹ thuật với hầu hết người dùng thông thường, tuy nhiên chúng tôi có thể quả quyết một điều rằng bạn cũng như các người dùng khác rất dễ thực thi cách thức mã hóa này.
+SSH là gì?
+Nói ngắn gọn, SSH là một phương pháp (hoặc kỹ thuật một chút thì nó là một giao thức (protocol)) dùng để kết nối hai máy tính dưới hình thức mã hóa an toàn. Khi hai máy tính được kết nối với nhau thông qua SSH, tất cả dữ liệu truyền tải giữa chúng đều được mã hóa. Đường hầm SSH (SSH Tunneling) đơn giản chỉ là một phương pháp mà ở đó chúng ta sử dụng máy tính được kết nối mạng như một proxy để duyệt web. Khi chúng ta duyệt web (với trình duyệt của mình) thông qua đường hầm SSH, proxy server sẽ truy lục nội dung web và gửi nó quay trở lại máy tính của mình thông qua kết nối an toàn. Hai ưu điểm chính trong việc sử dụng SSH là:
+Che giấu được địa chỉ IP của bạn
+Tạo kết nối an toàn để tránh các hacker có thể đánh hơi thấy dữ liệu của bạn
+SSH chủ yếu được sử dụng trong Linux và Mac, tuy nhiên người dùng Windows cũng có thể sử dụng SSH với Cygwin.
+Bắt đầu
+Trước khi bắt đầu, có một số thứ bạn cần có ở đây:
+Một máy chủ SSH
+Một máy khách SSH. Với người dùng Windows, download Cygwin tại đây.
+Tên đăng nhập vào mật khẩu để đăng nhập vào máy tính từ xa
+Lưu ý: Nếu có một website đang chạy trên một máy chủ web của một hãng thứ ba, bạn đã có một máy chủ SSH sẵn sàng cho sử dụng. Nhưng cần có máy chủ web cho phép truy cập thông qua SSH.

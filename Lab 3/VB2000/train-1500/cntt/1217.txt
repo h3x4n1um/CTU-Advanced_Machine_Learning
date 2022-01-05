@@ -1,0 +1,15 @@
+﻿Có rất nhiều chương trình tải video từ YouTube nhưng hầu hết là các chương trình riêng lẻ phải qua nhiều công đoạn để tải được bản video HD. Với Xilisoft Download YouTube Video, việc tải và quản lý toàn bộ các video thật dễ dàng. 
+Xilisoft Download YouTube Video là một chương trình miễn phí tải video từ YouTube với tốc độ cao, với nhiều tính năng vượt trội hiếm có so với các chương trình khác. Một số tính năng nổi bật của chương trình là:
+- Hoàn toàn miễn phí.
+- Tự động tải file chất lượng cao.
+- Có thể tải video HD từ YouTube.
+- Tải về nhiều file cùng lúc ở tốc độ cao (mặc định là 3, tuy nhiên bạn có thể tăng hoặc giảm giá trị này thông qua thẻ Tasks khi chọn Settings… từ menu Tools).
+- Tự động quản lý các file đã tải về, tránh trường hợp tải trùng lắp.
+- Được tích hợp trình duyệt và bạn có thể tìm kiếm video ngay trong trình duyệt tích hợp này và sau đó tải về các video bạn chọn.
+Trình duyệt tích hợp xuất hiện với các video mới nhất hiện ra. Bạn được xem trước mỗi lần 20 video. Bạn có thể bấm vào nút Download All  để tải hết 20 video này hoặc bấm riêng vào từng video để tải riêng. Bấm vào nút tam giác màu đen để xem tiếp 20 video trong danh sách và chọn video cần tải.
+Bạn có thể duyệt xem trước các video theo các chủ đề từ các nút phía dưới trình duyệt và chọn video ưng ý để tải về xem.
+Một số tính năng khác có thể dùng:
+- Có thể tải YouTube video trực tiếp từ Internet Explorer bằng cách chọn từ menu ngữ cảnh khi bấm phím phải chuột vào liên kết chứa file video.
+- Kéo và thả liên kết chứa video vào vùng thả (Drop Zone) để tải video từ YouTube (Drop Zone nằm ở góc trên bên phải khi bạn vừa cài đặt chương trình)
+- Tải về miễn phí video từ YouTube thông qua Proxy Server (khai báo thông số thông qua thẻ Proxy khi chọn Settings… từ menu Tools.)
+Bạn có thể tìm hiểu và thiết lập thêm các thông số khác thông qua các tùy chọn trên menu.

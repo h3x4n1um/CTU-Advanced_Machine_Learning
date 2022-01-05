@@ -1,0 +1,27 @@
+﻿Là một trong những công nghệ nền tảng của Web 2.0, Ajax đã và đang làm thay đổi cách chúng ta nhìn nhận và sử dụng các ứng dụng web. Cùng với sự phát triển của các trang web hỗ trợ Ajax, các công cụ giúp các nhà phát triển nhanh chóng xây dựng các trang web này cũng đã ra đời và ngày càng phát triển. Một trong số đó là thư viện Ajax.NET.
+MagicAjax.NET là một dự án mã nguồn mở (C#) tuân theo các điều khoản trong giấy phép GNU Lesser GPL. Hiện phiên bản mới nhất là 0.3.0. Bạn có thể tải về thư viện, mã nguồn, các ví dụ cũng như tài liệu từ trang web chính thức của dự án http://www.magicajax.net. 
+Các đặc điểm của MagicAjax 
+Tích hợp:
+Chỉ cần vài dòng thiết lập cấu hình trong web.config là có thể dùng MagicAjax. 
+Chỉ cần thêm vào một điều khiển (AjaxPanel) để trang web của bạn hỗ trợ Ajax.
+Sử dụng: 
+Đặt phần trang web mà bạn muốn hỗ trợ Ajax vào trong AjaxPanel, công việc còn lại sẽ do MagicAjax Framework đảm nhiệm. 
+Có thể đưa MagicAjax vào Visual Studio để sử dụng một cách trực quan. 
+Không cần viết mã JavaScript để xử lí phía trình duyệt.
+Lập trình: 
+Trong phần lớn trường hợp, để sử dụng MagicAjax, bạn chỉ cần thêm các AjaxPanel mà không cần thay đổi mã nguồn. 
+MagicAjax thay hàm PostBack bằng hàm callback của Ajax (AjaxCall). 
+Có thể dùng cả hàm PostBack và chức năng Ajax trong cùng một trang, chỉ những phần nằm trong AjaxPanel mới gọi AjaxCall thay cho PostBack. 
+ViewState của trang web được chia sẻ giữa PostBack và AjaxCall, khi có một thay đổi tạo bởi AjaxCall, PostBack có thể dùng thay đổi đó và ngược lại. 
+Bạn có thể điều khiển AjaxCall tương tự như PostBack, sử dụng lập trình ASP.NET phía server. 
+MagicAjax nhận ra những thay đổi trong khi gọi AjaxCall, và gửi một đoạn mã JavaScript nhỏ nhất có thể để phản hồi các thay đổi đến trình duyệt.
+Có thể dùng mã để điều khiển.
+Tùy biến: 
+Cung cấp nhiều thiết lập cho phép bạn sử dụng linh hoạt.
+Có thể tùy biến các điều khiển ASP.NET khi dùng chúng với MagicAjax.
+Có thể khai báo hàm AjaxCall sẽ gọi đồng bộ hay không đồng bộ đối với tất cả các điều khiển nằm trong AjaxPanel hay là chỉ với một điều khiển riêng biệt nằm trong đó.
+Bạn có thể khai báo một điều khiển nào đó của AjaxPanel sẽ gọi thuần PostBack.
+Thiết kế hướng đối tượng rõ ràng giúp bạn dễ dàng mở rộng Magic và tạo các điều khiển Ajax của chính bạn.
+Tương thích: 
+MagicAjax hỗ trợ hầu hết các trình duyệt hiện nay như Internet Explorer, Firefox, Opera và Netscape. 
+Nếu trình duyệt không hỗ trợ hoặc người dùng cấm tính năng JavaScript trong trình duyệt, trang web sẽ tự động chuyển về sử dụng PostBack.

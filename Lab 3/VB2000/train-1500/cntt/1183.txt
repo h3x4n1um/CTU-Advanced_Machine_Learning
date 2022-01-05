@@ -1,0 +1,35 @@
+﻿Trong khi tạo một Virtual Machine (máy ảo) trong Virtualbox là một tác vụ khá đơn giản thì việc chia sẻ Virtual Machine với nhiều hệ điều hành khác nhau lại khá phức tạp.
+ Nếu máy tính của bạn đang dual-boot và cũng đã tạo Virtual Machine trong một phân vùng hệ điều hành, do sự khác biệt trong cấu trúc file của các hệ điều hành nên bạn sẽ không thể truy cập và mở file VM trong phân vùng hệ điều hành khác.
+Ví dụ, bạn đã cài đặt Windows XP vào máy Macbook qua Boot Camp. Sau đó sử dụng Virtualbox để tạo một máy ảo Ubuntu trong phân vùng Mac để cài đặt Ubuntu. Tuy nhiên sau khi đã cài đặt thành công vào máy Mac (đang sử dụng dual boot Windows XP và Mac OS) bạn sẽ không thể truy cập vào máy ảo Ubuntu từ phân vùng Windows vì không thể truy cập vào phân vùng Mac. Ngoài việc khởi động lại hệ thống vào phân vùng Mac để truy cập vào máy ảo Ubuntu, còn có một cách khác mà bạn không cần phải khởi động lại máy mà vẫn có thể truy cập được vào máy ảo Ubuntu từ phân vùng Windows.
+Bạn sẽ gặp phải tính huống trên khi dual boot Linux/Mac hay Linux/Windows. Bài viết này sẽ hướng dẫn cho bạn phương pháp truy cập vào máy ảo Virtualbox dùng đang ở trong phân vùng hệ điều hành không chứa máy ảo này.
+Lưu ý: Bạn nên tạo máy ảo Virtualbox (file có đuôi .vdi) trong phân vùng NTFS.
+Nếu đang dual boot Windows với Linux hay Mac, bạn nên lưu file .vdi trong phân vùng Windows. Còn với những người dual boot Mac và Linux, cần phải tạo một phân vùng NTFS mới trên ổ cứng máy tính hoặc một ổ cứng ngoài.
+Trường hợp dual boot Windows với Mac hoặc Linux
+Trước tiên khởi động vào hệ điều hành Windows.
+Nếu chưa tải và cài đặt Virtualbox cho Windows thì bạn hãy click vào đây để tải sau đó tiến hành cài đặt.
+Tiếp theo tạo máy ảo. Chú ý đường dẫn lưu file máy ảo .vdi.
+Sau khi tạo xong hãy khởi động lại sang hệ điều hành khác.
+Nếu là hệ điều hành Mac
+Tải và cài đặt MacFuse và NTFS-3G. Sau khi cài đặt bạn sẽ phải khởi động lại hệ thống. Sau đó bạn sẽ thấy một ổ đĩa mới đã xuất hiện trên màn hình. Đó chính là phân vùng Windows.
+Tiếp theo tải và cài đặt bản Virtualbox dành cho Mac (Intel Macs).
+Sau đó chúng ta sẽ tạo một máy ảo trên Virtualbox và hướng máy ảo này tới file .vdi trong phân vùng Windows.
+Mở ứng dụng Virtualbox.
+Ở phía trên cửa sổ, nhấn nút New để tạo một máy ảo mới.
+Lựa chọn máy ảo mới trên cửa sổ chính rồi nhấn Start. Bạn sẽ thấy một máy ảo khác đã tạo trên phân vùng Windows giờ đây đã chạy được trong Mac.
+Nếu là hệ điều hành Linux
+Cài đặt ntfs-3g (nếu đang sử dụng Ubuntu Hardy bạn có thể bỏ qua bước này vì Ntfs-3g đã được cài đặt trước đó trong hệ thống).
+Tiếp theo tải và cài đặt Virtualbox cho bản phân phối Linux.
+Sau đó thực hiện lại các thao tác thực hiện trong Mac để tạo một máy ảo trong Virtualbox hướng tới máy ảo trong phân vùng Windows.
+Trường hợp dual boot Mac và Linux
+Trước tiên bạn phải khởi động vào phân vùng Linux.
+Định dạng ổ đĩa ngoài. Thực hiện các thao tác sau:
+Trong Ubuntu Hardy, mở cửa sổ terminal và cài đặt ứng dụng sau:
+sudo apt-get install gparted ntfsprogs
+Kết nối ổ cứng ngoài vào máy tính.
+Hệ thống sẽ tìm kiếm ổ đĩa và cài tự động vào hệ thống.
+Trước khi định dạng lại bạn cần phải gỡ nó. Trên desktop, phải chuột lên biểu tượng của ổ cứng này chọn Unmount Volume.
+Sau khi đã định dạng xong ổ đĩa ngoài, bạn hãy tải và cài đặt Virtualbox rồi tạo một máy ảo mới.
+Khi trang yêu cầu lựa chọn vị trí đĩa cứng xuất hiện, click nút New để tạo một đĩa cứng ảo mới.
+Click vào biểu tượng bên cạnh trường Image File Name rồi lựa chọn một folder trong ổ cứng ngoài (đã định dạng NTFS) để lưu file .vdi ra ổ cứng ngoài thay vì vị trí mặc định.
+Sau đó bạn hãy khởi động lại hệ thống sang Mac và thực hiện lại các thao tác tương tự (như trong trường hợp dual boot Windows với Mac) để tạo và cấu hình cho máy ảo hướng tới máy ảo trên ổ cứng ngoài.
+Đến đây bạn đã hoàn thành chia sẻ máy ảo giữa các hệ điều hành dual boot trên cùng một máy tính. Và giờ đây mỗi khi muốn truy cập vào máy ảo bạn sẽ không phải khởi động lại hệ thống vào phân vùng hệ điều hành chứa máy ảo nữa.

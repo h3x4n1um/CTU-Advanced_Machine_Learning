@@ -1,0 +1,10 @@
+﻿Sau rất nhiều tin đồn và nhiều phiên bản được cho là rò rỉ của bản thử nghiệm SP1, hôm nay Microsoft đã chính thức công bố Windows 7, Windows Server 2008 R2 Service Pack 1 beta và cho phép người dùng tải về.
+Windows 7 và Windows Server 2008 R2 SP1 Beta giúp cho máy tính cá nhân và máy chủ của bạn có được những hỗ trợ mới nhất, cung cấp những cải tiến liên tục cho hệ điều hành Windows. SP1 Beta bao gồm tất cả các bản cập nhật từ trước đến nay thông qua tính năng tự động cập nhật của Windows, cũng như thêm các tính năng khác dựa trên phản hồi từ khách hàng và các đối tác.
+Windows 7 và Windows Server 2008 R2 SP1 Beta sẽ giúp bạn:
+Giữ cho máy tính của bạn luôn được cập nhật.
+Nhận liên tục các cập nhật cho nền tảng Windows 7.   
+Dễ dàng triển khai các bản cập nhật từ trước đến nay thông qua một lần cập nhật duy nhất.
+Cung cấp một tập hợp toàn diện trong việc đổi mới công nghệ ảo hoá.
+Cung cấp cách thức dễ dàng để triển khai Service Pack với hiệu suất cao.
+Để tải về phiên bản thử nghiệm SP1 này, bạn phải cài đặt sẵn Windows 7 hoặc Windows Server 2008 R2 phiên bản RTM.
+Microsoft khuyến cáo phiên bản Windows 7 và Windows Server 2008 R2 SP1 Beta chỉ dành cho các chuyên gia và nhà phát triển, họ chỉ hỗ trợ người dùng cá nhân phiên bản chính thức.

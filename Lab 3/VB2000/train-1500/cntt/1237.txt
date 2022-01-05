@@ -1,0 +1,9 @@
+﻿Thời gian gần đây, rất nhiều máy tính của người dùng và các doanh nghiệp VN bị nhiễm virus có tên nontay.exe làm mất khả năng điều khiển với quyền Administrator trong hệ thống máy tính.
+Virus nontay.exe có nguồn gốc từ Việt Nam và nhiều phần mềm anti-virus hiện nay chưa cập nhật được. Nếu 1 máy trạm nhiễm virus nontay.exe, khi máy này chép dữ liệu lên server chia sẻ của công ty, virus nontay.exe cũng được chép lên server theo. Từ đó, bất cứ máy con nào kết nối vào server lấy dữ liệu về cũng sẽ chép luôn con virus nontay.exe này. Hậu quả là toàn bộ hệ thống mạng sẽ bị tê liệt, mọi truy cập từ máy trạm đến máy chủ đều không thể thực hiện và hệ thống mạng công ty sẽ bị rớt.
+Các chức năng quản trị như Regedit, Task manager, Add or remove programs… không hoạt động được. Chức năng Folder Options (thường dùng để điều chỉnh thuộc tính ẩn/hiện của các tập tin và thư mục) cũng bị vô hiệu hóa. Hệ thống máy tính sẽ chạy chậm hơn bình thường… gây ảnh hưởng rất nhiều đến công việc hàng ngày của người dùng máy tính.
+Hiện loại virus “made in Việt Nam” này đang phát tán nhiều trên mạng, người sử dụng, đặc biệt là các mạng doanh nghiệp cần hết sức cẩn thận để tránh nhiễm virus nontay.exe. Hiện tại, các phiên bản anti-virus của Kaspersky với cập nhật sau ngày 15.05.2008 có thể hoàn toàn tiêu diệt được loại virus này.
+Một số triệu chứng của máy tính nghi nhiễm virus nontay.exe
+Biểu tượng mouse có sự thay đổi (1 mảng màu nhỏ chạy quanh con trỏ mouse).
+Máy xử lý chậm hơn bình thường, các file nhiễm virus không thể mở (kể cả các ổ đĩa hay thư mục), chức năng Folder Options bị ẩn không thể vào Properties, Add or Remove Programs, Msconfig…
+Các thư mục hay file bị nhiễm sẽ chuyển sang dạng JPEG, máy bị nghẽn mạng, xuất hiện tràn ổ cứng, nếu bị nhiễm nặng sẽ không thể vào Windows được.
+Nontay.exe lây lan khá nhanh qua việc chia sẻ tài nguyên chung trong mạng nội bộ và qua email.

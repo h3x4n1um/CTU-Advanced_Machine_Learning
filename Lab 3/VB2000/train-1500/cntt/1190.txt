@@ -1,0 +1,20 @@
+﻿ Bộ công cụ này cung cấp một số lượng lớn các hàm và thư viện lập trình từ xử lý đối tượng 3D, tệp mô hình 3D (*.MD2, *.MD3,...) các hàm xử lý bàn phím, chuột, khiến cho việc lập trình game 3D dễ dàng hơn bao giờ hết.
+Khi nói đến lập trình game 3D thường chúng ta nghĩ đến các ngôn ngữ lập trình VC++, C#, với các thư viện lập trình như OpenGL hoặc DirectX. Vậy còn VB – một ngôn ngữ khá thông dụng thì sao? Cũng được, ngay cả với Visual Basic 6.0, thông qua bộ công cụ của 3DState. Bộ công cụ rất dễ sử dụng và miễn phí cho sinh viên, bạn có thể tải về từ trang web http://www.3dstate.com.
+Hãy xem ví dụ nạp một nhân vật hoạt hình 3D, sau đó dùng bàn phím để điều khiển hoạt động của nhân vật.
+Hình 1: Nhân vật 3D được nạp vào “thế giới” trong phòng có lò sưởi và các đồ đạc khác, người dùng có thể dùng bàn phím để điều khiển nhân vật.
+Ví dụ này gồm các thủ tục xử lý sau:
+LoadWorld: thủ tục nạp file thế giới hay còn gọi là file địa hình của trò chơi;
+LoadPlayer1: thủ tục nạp nhân vật 3D vào thế giới game;
+DefineAnimations: thủ tục chuẩn bị và định nghĩa các hành động của nhân vật 3D theo các phím được bấm;
+InitCamera: thủ tục làm việc với các máy quay phim (camera) một kỹ thuật không thể thiếu với lập trình 3D;
+InitHardware: thủ tục làm việc với các thiết bị card đồ họa và âm thanh;
+EnterWorldBegin: thủ tục chính để xử lý các hành động của cả trò chơi, ở ví dụ này, nhân vật 3D sẽ được nạp vào thế giới và người sử dụng dùng bàn phím máy tính để tương tác với nhân vật, khi bấm các phím đã được gán trước nhân vật sẽ có hành động tương ứng như đi lại, chạy, nhảy…
+Các bạn có thể đọc thêm phần hướng dẫn của bộ công cụ để hiểu thêm các hàm và thư viện sử dụng trong chương trình, ở đây tôi chỉ giải thích sơ qua một số hàm thường dùng nhất khi lập trình game 3D với bộ thư viện 3DSTATE:
+Hàm nạp file thế giới:
+lngw=STATE_engine_load_world(filename,path1,path2,world_mod);
+Hàm này trả về một giá trị Long cho biết việc nạp file thế giới có thành công hay không; trong đó:
+Tenfile: Chỉ cho chương trình biết tên file thế giới bạn đang muốn nạp làm nền cho trò chơi;
+path1: Đường dẫn tới thư mục chứa file thế giới;
+path2: Đường dẫn tới thư mục chứa các hình ảnh tạo nên file thế giới;
+Lưu ý: Để chạy được chương trình, các bạn phải tải về bộ công cụ hỗ trợ lập trình miễn phí tại website http://www.3dstate.com và cài vào máy tính. Sau đó mở file ví dụ tại thư mục như đường dẫn sau: C:\Program Files\3DSTATE\Visual Basic 3D Developer Studio 6.0 (Student Package)\SDK Samples\MD2demo\md2demo.vbp.
+Nếu chưa chạy được thì các bạn vào phần add module của Project và thêm tất cả module sẵn có của ví dụ vào như hình vẽ dưới.

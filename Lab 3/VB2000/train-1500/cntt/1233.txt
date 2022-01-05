@@ -1,0 +1,18 @@
+﻿Một website được thiết kế tốt khi nó có khả năng kêu gọi mua hàng. Điều cơ bản là trang web phải thu hút mọi người lưu lại trên đó càng lâu càng tốt, níu kéo họ đi vào những thông điệp để họ có thể ra quyết định mua hàng. 
+Tuy nhiên trên thực tế, có những website lại tỏ ra đi ngược hướng với xu thế tích cực trên. Do vậy, để không hề phạm phải bất kỳ lỗi nào trong bảy lỗi nguy hiểm nhất, bạn nên lưu ý tới những cảnh báo dưới đây.
+1. Những trang và phần đồ họa được tải quá chậm chạp: Hãy thử đếm từ 1 đến 3 và đó được xem là khoảng thời gian đăng tải. Nếu khách hàng không thể bắt đầu đọc hoặc xem được trang của bạn ngay thì việc họ bỏ đi để tìm đến một website khác là một điều hoàn toàn có thể xảy ra.
+Nếu phải dùng đến những thiết kế đồ họa trên trang chủ của mình, hãy cung cấp những biểu tượng nhỏ có tích hoạt dẫn đến những mẫu đồ họa to lớn hơn và hãy thông báo với người xem rằng họ nên chờ đợi trong giây lát.
+Sau đây là những thứ bạn có thể tận dụng để tăng tốc thời gian đăng tải trang web của mình:
+• Giảm thiểu kích cỡ các file đồ họa trên trang và thứ công cụ tuyệt hảo nhất để sử dụng chính là WebGraphics Optimizer.
+• Chọn lựa chi tiết mẫu kích thước của file đồ họa bằng mã HTML.
+• Loại bỏ bớt những dòng văn bản nhiều màu sắc trên file đồ họa.
+2. Không có dòng tiêu đề để lôi cuốn sự chú ý của khách hàng: Nếu khách hàng đã quyết định một lần thử đi vào website của bạn, thì bạn phải thuyết phục họ rằng trang của bạn chứa đựng đúng những gì họ đang tìm kiếm. Cách tốt nhất để làm được như vậy là đi cùng với một dòng tiêu đề được định dạng khuôn thức, quy cách thật chỉnh và bắt mắt. Không thấy sức thu hút, khách hàng buộc lòng phải đọc thêm về những nội dung bên dưới và vì vậy có thể họ sẽ bỏ đi.
+3. Những banner quảng cáo và các đường dẫn gây rối trí: Đừng bao giờ đặt lên trên website của bạn những banner quảng cáo hay những đường link dẫn dắt khách hàng của bạn đi đến với những website khác, kể cả là những mục quảng cáo của Google AdWords.
+Tất nhiên, nếu mục đích của website đơn thuần chỉ là quảng bá, khuyến mãi những sản phẩm của các đối tác khác hay bán đi những khoảng trống cho quảng cáo thì bạn sẽ đính kèm những banner và đường link trên site.
+4. Quá nhiều màu sắc và font chữ: Để thể hiện một dáng dấp chuyên nghiệp cho trang của bạn, hãy sử dụng cách phối hợp màu sắc đơn giản với hai hoặc ba màu cùng với một vài kiểu font chữ. Nếu quan sát những website được thiết kế đẹp mắt thì bạn sẽ thấy rằng tất cả đều rất khiêm tốn trong việc sử dụng màu sắc và font chữ.
+5. Phông nền hoa văn: Phông nền là phông nền. Nếu cứ thêm thắt vào đó những kết cấu trang trí hay những khối màu đậm và tối thì chắc chắn mọi người sẽ không dễ dàng đọc được những gì được in trên đó.
+Kinh nghiệm cho thấy rằng những website nào đi cùng với ký tự màu đen trên một phông nền màu trắng đơn thuần cùng với sự phối màu thật hạn chế luôn được khách hàng lưu tâm.
+6. Quá nhiều đồ họa, hoạt hình và video clip gây rối mắt: Nhiều hình ảnh, đồ họa hoa mỹ, hình ảnh hoạt hình vui nhộn và các video clip có thể giúp trang web hấp dẫn hơn. Nhưng nếu chúng không thuyết phục được người xem mua hàng nhiều hơn thì tất cả chỉ là một sự trang trí vô dụng, ngăn cản khách hàng làm theo những gì bạn muốn họ làm.
+7. Khối ký tự văn bản quá nhiều đến nỗi khó lòng đọc hết được: Một khối văn bản có kích thước khổng lồ, chi chít chữ dễ làm người đọc nản lòng và bỏ đi tìm kiếm những website ngắn gọn hơn.
+Do đó, hãy hạn chế các đoạn văn chỉ dài đến sáu dòng là tối đa và đa dạng hóa các đoạn văn. Một cấu trúc các đoạn văn đa dạng sẽ khiến các văn tự trực tuyến trở nên dễ đọc hơn rất nhiều.
+Nếu mắc phải một trong những lỗi lầm trên đây, hãy sửa đổi ngay. Bạn hoàn toàn làm được mà không cần đến một nhà thiết kế web nào.

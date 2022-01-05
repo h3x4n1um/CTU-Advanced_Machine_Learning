@@ -1,0 +1,12 @@
+﻿Trong các tổ chức: Trước khi có mạng, trong các tổ chức, mỗi nơi đều phải có chỗ lưu trữ dữ liệu riêng, các thông tin trong nội bộ sẽ khó được cập nhật kịp thời; một ứng dụng ở nơi này không thể chia sẻ cho nơi khác. Với một hệ thống mạng người ta có thể:
+Chia sẻ các tài nguyên: Các ứng dụng, kho dữ liệu và các tài nguyên khác như sức mạnh của các CPU được dùng chung và chia sẻ thì cả hệ thống máy tính sẽ làm việc hữu hiệu hơn.
+Độ tin cậy và sự an toàn của thông tin cao hơn. Thông tin được cập nhật theo thời gian thực, do đó chính xác hơn. Một khi có một hay vài máy tính bị hỏng thì các máy còn lại vẫn có khả năng hoạt động và cung cấp dịch vụ không gây ách tắc.
+Tiết kiệm: qua kỹ thuật mạng người ta có thể tận dụng khả năng của hệ thống, chuyên môn hoá các máy tính, và do đó phục vụ đa dạng hoá hơn. Thí dụ: Hệ thống mạng có thể cung cấp dịch vụ suốt ngày và nhiều nơi có thể dùng cùng một chương trình ứng dụng, chia nhau cùng một cơ sở dữ liệu và các máy in, do dó tiết kiệm được rất nhiều.
+Ngoài ra, khi tạo mạng, người chủ chỉ cần đầu tư một hoặc vài máy tính có khả năng hoạt động cao để làm máy chủ cung cấp các dịch vụ chính yếu và đa số còn lại là các máy khách dùng để chạy các ứng dụng thông thường và khai thác hay yêu cầu các dịch vụ mà máy chủ cung cấp. Một hệ thống như vậy gọi là mạng có kiểu chủ-khách (client-server model).
+Người ta còn gọi các máy dùng để nối vào máy chủ là máy trạm (work-station). Tuy nhiên, các máy trạm vẫn có thể hoạt động độc lập mà không cần đến các dịch vụ cung cấp từ máy chủ.
+Mạng máy tính còn là một phương tiện thông tin mạnh và hữu hiệu giữa các cộng sự trong tổ chức.
+Cho nhiều người: Hệ thống mạng cung cấp nhiều tiện lợi cho sự truyền thông tin trong các mối quan hệ người với người như là:
+Cung cấp thông tin từ xa giữa các cá nhân
+Liên lạc trực tiếp và riêng tư giữa các cá nhân với nhau
+Làm phương tiện giải trí chung: như các trò chơi, các thú tiêu khiển, chia sẻ phim ảnh qua mạng.
+Các ứng dụng quan trọng hiện tại qua mạng là: thư điện tử, hội nghị truyền hình (video conference), điện thoại Internet, giao dịch và lớp học ảo (e-learning hay virtual class), dịch vụ tìm kiếm thông tin qua các máy truy tìm.

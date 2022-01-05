@@ -1,0 +1,16 @@
+﻿ Microsoft có một chương trình built-in cho phép người dùng có thể xem và tương tác với một máy tính ở xa trên mạng Internet hoặc LAN, đó chính là Remote Desktop Connection.
+ Để kích hoạt tính năng Remote Desktop trong Windows, bạn kích phải vào My Computer, chọn Properties và kích tab Remote.
+Tích vào hộp kiểm “Allow users to connect remotely to this computer”, lúc này máy tính của bạn sẽ bắt đầu listening các kết nối truy cập từ xa trên cổng mặc định 3389.
+Tuy nhiên bạn hoàn toàn có thể thay đổi cổng mặc định 3389 này. Đây cũng có thể được cho là một biện pháp bảo mật vì nó có thể ngăn chặn được ai đó trong mạng hoặc Internet cố gắng kết nối trực tiếp đến bạn bằng remote desktop. Remote Desktop Connection cũng kết nối với Windows bằng cổng 3389 mặc định tuy nhiên lại không có tùy chọn nào để bạn có thể thay đổi cổng mà mình muốn sử dụng.
+Mặc dù vậy, trong bài này chúng tôi sẽ hướng dẫn cho các bạn một cách làm khác để có thể thay đổi được cổng listening cho Remote Desktop Connection. Đây cũng chính là cách bạn có thể kết nối với một desktop từ xa nằm trên một cổng khác bằng Remote Desktop Connection.
+1. Khởi chạy Registry Editor. Vào Start -> Run -> đánh regedit và kích OK.
+2. Tìm và kích vào subkey dưới đây:
+    HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TerminalServer\
+    WinStations\RDP-Tcp\PortNumber
+3. Trong menu Edit, kích Modify, sau đó kích Decimal.
+4. Đánh vào số cổng mới và kích OK.
+5. Đóng Registry Editor tuy nhiên không cần phải khởi động lại hệ thống.
+Để sử dụng Remote Desktop Connection nhằm kết nối đến một máy tính đang listening trên cổng khác.
+Công cụ Remote Desktop Connection thông thường nằm trong Start -> Programs -> Accessories -> Communications -> Remote Desktop Connection.
+Chạy nó và nhập vào tên máy tính nếu máy tính đó nằm trên LAN hoặc địa chỉ IP nếu trên Internet.
+Kích nút connect sẽ kết nối đến máy tính đích tên cổng mặc định 3389. Do đó để kết nối đến cổng khác, bạn cần nhập vào một cột và cổng sau tên máy tính hoặc địa chỉ IP. Hình bên dưới thể hiện quá trình đang kết nối đến một máy tính có tên “pc” trên cổng 3333.

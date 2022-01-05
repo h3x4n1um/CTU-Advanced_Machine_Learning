@@ -1,0 +1,5 @@
+Cách thức tấn công mã độc bằng các sâu máy tính có khả năng lan truyền thông qua tin nhắn của tính năng chat trên Facebook vừa được các chuyên gia bảo mật hãng Kaspersky phát hiện.
+Thường tin nhắn giả mạo này có nội dung: "Đây có phải là bạn không?". Tin nhắn này kèm theo một liên kết đến các ứng dụng Facebook độc hại.
+Tại liên kết này sẽ hiện lên một trang web lừa đảo trực tuyến đơn giản, yêu cầu người sử dụng cung cấp các thông tin đăng nhập tài khoản Facebook của họ để xem những nội dung bên trong.
+Các nhà nghiên cứu cho rằng hoạt động ăn cắp thông tin người dùng liên quan trực tiếp đến tập tin acc.txt. David Jacoby, chuyên gia Kaspersky cho biết, trong phiên bản đầu tiên của acc.txt mà ông tải xuống, những kẻ tấn công đã thu thập được hơn 3.000 tài khoản.
+Bộ phận an ninh mạng của Facebook đã nhận được cảnh báo của Jacoby. Họ lập tức loại bỏ các trang web độc hại sử dụng cho loại hình tấn công trên. Đồng thời Facebook cũng tiến hành thiết lập lại mật khẩu các tài khoản bị hack. 

@@ -1,0 +1,24 @@
+﻿ Remote Server Administration Tools là một bộ công cụ dùng để quản lý máy tính từ xa, công cụ nà bạn có thể download và cài đặt lên các máy tính chạy Windows 7.
+Sau khi đã download gói cài đặt cần thiết bạn có thể cài đặt Administration Tools bằng cách kích đúp vào file vừa download về và hoàn tất quá trình gợi ý cài đặt. 
+Bạn chỉ có thể cài đặt bộ Administration Tools trên máy tính có chạy Windows 7.
+Bạn chỉ nên cài đặt bộ công cụ này để thực hiện các nhiệm vụ quản trị trên những máy tính đang chạy Windows Server® 2008 R2, Windows Server 2008, hoặc Windows Server 2003
+Bạn phải là thành viên của nhóm quản trị hoặc đăng nhập vào được bằng tài khoản quyền quản trị trên máy tính mà bạn muốn cài bộ công cụ Administration Tools này.
+Cài đặt
+- Download bộ công cụ Remote Server Administration Tools cho windows 7 tại đây.
+- Mở thư mục chứa file vừa tải về và kích đúp vào gói công cụ để giải nén nó. Thực hiện theo các bước hướng dẫn cài đặt của Remote Server Administration Tools for Windows 7
+- Hoàn thành các bước do chương trình đưa ra và kích vào Finish để kết thúc quá trình cài đặt.
+- Kích vào Start > Control Panel > chọn Programs
+- Trong vùng Programs and Features, kích Turn Windows features on or off
+- Hộp thoại Windows Features sẽ mở ra, kích Continute
+- Trên hộp thoại Windows Features, mở phần Remote Server Administration Tools
+- Chọn các công cụ quản lý từ xa mà bạn muốn cài đặt
+- Kích OK
+- Cấu hình shortcut Administration Tool hiển thị trên menu Start:
+Chuột phải vào Start chọn Properties
+Trên tab Start Menu, kích Customize
+Trong hộp thoại Customize Start Menu, kéo thanh cuộn xuống phần System Administrative Tools và chọn Display on the All Programs menu and the Start menu. Kích OK.
+Gỡ bỏ công cụ Administration Tools trên Windows 7
+- Kích Start > Control Panel, sau đó kích Uninstall a program trong phần Programs
+- Kích View installed updates
+- Chọn Update for Microsoft Windows (958830)
+- Kích Uninstall.

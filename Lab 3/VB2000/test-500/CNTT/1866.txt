@@ -1,0 +1,6 @@
+﻿Hiệu suất JavaScript
+Theo điểm chuẩn (benchmark) trình duyệt SunSpider, Chrome có hiệu suất JavaScript tốt nhất, vì trình duyệt này hoàn thành các bài kiểm tra trong trung bình 301,1ms (mili giây). Tiếp theo, Opera và Safari xếp vị trí thứ hai và ba với kết quả tương ứng là 575,4ms và 597,7ms; Firefox đứng thứ tư, đạt 902,5ms. IE đứng sau Firefox, hoàn tất các thử nghiệm trong 3903,2ms. 
+Xử lý Javascript tốt nhất: Chrome
+Trình duyệt của Google đã vượt qua 4 trình duyệt đối thủ chính của nó với các chỉ số khá tốt trong bài kiểm tra Javascript này
+Khi bài viết này lên “khuôn”, Opera Software phát hành bản trình duyệt Opera 10.6. Phiên bản này ra mắt quá trễ nên không kịp tham gia vào bài kiểm tra trang trực tiếp, tuy nhiên nhóm thử nghiệm đã có dịp chạy thử SunSpider benchmark. Mặc dùng Opera tuyên bố phiên bản trình duyệt mới tăng 50% hiệu suất so với phiên bản 10.5 nhưng kết quả kiểm tra SunSpider chỉ bằng với Opera 10.53.
+Từ khi trở nên phổ biến trong các ứng dụng web và thậm chí trên cả các trang web thông thường thì Javascript là chỉ tiêu tốt để thử nghiệm. SunSpider cũng là phép đo hữu ích để đánh giá khả năng xử lý của JavaScript. Tuy nhiên, kết quả này không phải là chỉ số toàn diện để đánh giá tốc độ tổng thể của trình duyệt, mà còn phải phụ thuộc vào nhiều yếu tố khác nữa.

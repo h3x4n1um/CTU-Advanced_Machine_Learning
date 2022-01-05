@@ -1,0 +1,32 @@
+﻿ Windows có giao diện trực quan giúp người dùng dễ theo tác nhưng bên trong Windows còn ẩn chứa nhiều tùy chỉnh. Với GIGATweaker thì dù là người dùng phổ thông bạn cũng có thể tùy biến khá nhiều tính năng hay cho Windows.
+Giao diện chương trình được chia làm 6 nhóm chính ở phía bên trái màn hình: Administration, Display, Customization, Communication, Maintenance, GIGATweaker. Hầu hết các tùy chỉnh trong chương trình được thiết kế theo kiểu chọn hay không nên nhiệm vụ của bạn chỉ việc dánh dấu chọn trước các tác vụ muốn dùng, không dùng thì hủy dấu.
+Trước khi vào thao tác trên chương trình này, bạn nên chọn tạo một điểm khôi phục hệ thống để đưa hệ thống về lại thời điểm bắt đầu “vọc”. Mỗi khi kích hoạt GIGATweaker, chương trình sẽ có yêu cầu tạo điểm khôi phục hệ thống.
+1. Nhóm Administration
+System:
+Bạn chọn thẻ Logon, rồi đánh dấu vào Show Getting Started at startup nếu muốn hiện thị biểu tượng Getting Started khi khởi động, Screen saver password protection policy (yêu cầu nhập mật khẩu truy cập nếu mươn thoát khỏi màn hình chờ), Show “Shutdown button” in the logon prompt (hiện thị nút Shutdown), Hide name of last user logged onto a computer (Ẩn tên người dùng cuối cùng đã đăng nhập Windows), Require users to press Ctrl+Alt+Del in order to logon (đòi hỏi người dùng nhấn tổ hợp phím Ctrl + Alt + Delete để đăng nhập Windows).
+hẻ Automatic logon: Bạn đánh dấu vào Enable automatic logon, rồi nhập vào thông tin tên tài khoản (Username) và mật khẩu (Password) truy cập để đăng nhập Windows nhanh chóng; Nhập vào ô Limit the number of automatic logins số lần tự động đăng nhập có hiệu lực.
+Thẻ Messages: Đánh dấu vào Show detailed status messages để cho tính năng hiện thị thông báo mỗi khi logon hay log off máy có hiệu lực; Show message before logon (hiện thị tin nhắn sau khi đã đăng nhập), bạn nhập vào nội dung tin nhắn ở Header và Message text.
+Thẻ Errors: Thẻ này đã được tùy chọn sẵn các tính năng để thông báo đến bạn những lỗi hệ thống gặp phải trong quá trình hoạt động, từ đó chúng ta sẽ có phương pháp khắc phục dễ dàng hơn.
+Thẻ Security: Cung cấp các tính năng bảo mật dành cho tài khoản người dùng, như Disable User Account Control (vô hiệu hóa việc thay đổi tài khoản người dùng), các tùy chỉnh cho việc tải và cài đặt bản vá lỗi Windows.
+Thẻ Files and Drives:
+Open Files: Giúp thay đổi tùy chọn Open with khi nhấn chuột phải vào các ứng dụng chưa có chương trình đọc hoặc, Show “Open with…” dialog (hiện thị tùy chọn Open with… để bạn chọn ứng dụng đọc) hay Open with (chọn mặc đình một chương trình để mở nhanh các tập tin đó.
+Autoplay: Điều khiển tính năng tự động của việc phát dữ liệu từ ổ CD/DVD và thiết bị ngoại vi, Use AutoPlay for all medias and devices (luôn sử dụng tính năng AutoPlay), Turn off AutoPlay CD-ROM and Removeable media devices AutoPlay (tắt tính năng này đối với đĩa CD/DVD và ổ đĩa gắn ngoài), Turn off AutoPlay for all medias and devices (Vô hiệu hóa tính năng AutoPlay cho mọi thiết bị).
+Drive: Cung cấp cho bạn 4 tùy chọn sau. Show all drive letters before the name (hiện thị kí tự ổ đĩa trước tên ổ đĩa), Show all drive letters before the name (hiện thị kí tự ổ đĩa sau tên ổ đĩa), Don’t show drive letters (không hiện thị kí tự ổ đĩa, chỉ hiện tên), Don’t show low disk space warning (không hiện thị thông báo đĩa cứng gần đầy).
+Restrictions: Chứa hàng trăm các tùy chọn cho phép hay vô hiệu quá tính năng không cần thiết.
+System Information: Cung cấp những thông tin về thiết về hệ thống của bạn. Bạn có thể chuyển đến thẻ Support Information, nhấn Select Logo để chọn hình ảnh làm biểu tượng cho hệ thống.
+2. Thẻ Display
+Explorer and Start Menu: Mục này gồm một số thiết lập khá hữu ích cho người dùng như, Remove the “-Shortcut” sufix to new shortcuts (xóa dòng Shortcut to khi tạo các biểu tượng cho ứng dụng trên màn hình desktop), Remove the shortcut arrow (xóa biểu tượng mũi tên khi tạo các biểu tượng trên desktop), Show Windows version on Desktop (hiện thị phiên bản Windows trên hình trên desktop),…
+Visual Effects: Quản lí các hiệu ứng ảo trong Windows.
+3. Nhóm Customization
+Thẻ System: Chứa các công cụ hệ thống, được trích ra từ Control Panel của Windows, bạn có thể thực hiện các tùy chỉnh dễ dàng hơn ở mục này.
+Optimization: Hầu hết các tùy chọn được cung cấp tại đây đều ở dạng vô hiệu hóa/tắt các thiết lập không cần thiết nhằm tăng hiệu suất hoạt động.
+Memory Managememt: Tối ưu bộ nhớ RAM cho máy tính bằng cách chọn bộ nhớ đệm của máy (L2 Cache), chọn dung lượng bộ nhớ RAM thực tế của máy ở mục Specify the physical memorysize, rồi nhấn Apply để chương trình tự động cấu hình tối ưu tốt nhất.
+4. Nhóm Communication
+Bạn chọn thẻ Advanced, giảm số 20% ở ô Reserve bandwidth with bandwith limit xuống 0% để tăng tốc lướt web. Ngoài ra, còn có nhiều tùy chọn khác.
+Internet Explorer cung cấp 2 tùy chỉnh: Open link page in a new tab (mở trang mới khi thực hiện click bằng các thẻ), Disable warning closing multi-tabs (không hiện câu hỏi khi đóng cùng lúc nhiều thẻ).
+5. Nhóm Maintenance
+Startup Manager: Quản lí các chương trình đang hoạt động nền trong Windows. Bạn có thể chọn tác vụ, rồi nhấn Delete để xóa, hoặc nhấn Add để thêm tác vụ mới.
+Unstall Manager: Quản lí việc tháo gỡ các chương trình đã cài đặt. Bạn chọn tên chương trình trong danh sách, rồi chọn Unstall để tháo gỡ hoàn toàn hoặc chọn Remove để chỉ xóa khỏi danh sách.
+Windows Utilities: Sự tập hợp hầu hết các ứng dụng có sẵn trong Windows, giúp bạn kích hoạt nhanh chóng.
+6. GIGATweaker
+Nhóm chứa các thiết lập và thông tin về phần mềm GIGATweaker.

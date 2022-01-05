@@ -1,0 +1,7 @@
+﻿Chỉ cần 1 tài khoản Windows Live, bạn sở hữu một hộp thư điện tử đến 25GB lưu trữ. Quan trọng hơn, bạn có thể sử dụng miễn phí bộ ứng dụng văn phòng Microsoft Office.
+Được chờ đợi khá lâu, tuần trước Microsoft đã chính thức cho phép sử dụng miễn phí bộ ứng dụng văn phòng trực tuyến với tên gọi Office Web App.
+Với 1 tài khoản Windows Live (đăng ký miễn phí), một trình duyệt web và kết nối Internet, người dùng có thể sử dụng các chức năng cơ bản của 4 ứng dụng phổ biến nhất trong lĩnh vực văn phòng là Word, Excel, PowerPoint và OneNote.
+Sử dụng giao diện ribbon tương tự như Office 2010, người dùng không cảm thấy xa lạ với các chức năng mà Office Web App cung cấp. Các chức năng này chủ yếu thông qua thẻ Home với đầy đủ các định dạng cơ bản cần thiết.
+Bên cạnh đó, Word, OneNote còn cho phép bạn chèn hình ảnh, bảng biểu vào tài liệu; PowerPoint cho phép bạn chạy các trình chiếu ngay trong trình duyệt web; Excel cho phép bạn sắp xếp, trích lọc dữ liệu;...
+Ngoài ra, Office Web App còn cung cấp cho bạn một trình quản lý tài liệu khá đơn giản nhưng mạnh mẽ: Bạn có thể chia sẻ tài liệu của mình với nhiều người, tải tài liệu từ máy tính lên lưu trữ trên web hay download tài liệu về máy tính,...
+Phiên bản mới của Hotmail sắp ra mắt còn cho phép bạn chỉnh sửa tài liệu đính kèm email ngay trong trình duyệt web. Office Web App đã sẵn sàng tại địa chỉ: http://office.live.com.

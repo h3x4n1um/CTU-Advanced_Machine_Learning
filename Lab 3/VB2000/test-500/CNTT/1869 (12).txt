@@ -1,0 +1,31 @@
+Virus Elk Cloner
+Vào những năm 1980, loại máy tính Apple II rất phổ biến trong các trường học tại Mỹ và thật trùng hợp khi tác giả của virus Elk Cloner nhắm vào loại máy tính này lại là một học sinh. Đó cũng là loại virus đầu tiên hướng tới các máy vi tính cá nhân trong lịch sử.
+Tác giả của virus này là Richard Skrenta, người đang học lớp 9 vào năm 1982. Virus Elk Cloner khiến các máy tính bị nhiễm hiển thị một… bài thơ sau mỗi 50 lần khởi động. Ngày nay thì đây chỉ là một trò cười nhưng vào thời điểm ấy, nó thực sự gây chấn động dư luận.
+Virus Conficker
+Nó đã làm cho một mạng lưới máy tính khổng lồ bị nhiễm độc và sẵn sàng làm theo mệnh lệnh. Điều này đã gây ra rất nhiều lo lắng khi Conficker xuất hiện vào năm 2008.
+Các chính phủ và tổ chức đã phải chi ra không ít tiền để đảm bảo rằng máy tính của họ không nằm trong đội quân ma Conficker. Tuy nhiên, vẫn còn không ít máy tính đang tồn tại trên thế giới chịu ảnh hưởng của virus này và có thể một ngày nào đó sẽ nhận lệnh tấn công và một hệ thống nào đó.
+Virus Brain
+Brain có thể không phải là loại virus phức tạp nhất nhưng nó là kẻ đầu tiên thực sự nhắm vào các máy tính cài hệ điều hành DOS của Microsoft. Nó “ngốn” bộ nhớ của máy và khiến cỗ máy nạn nhân hiện ra thông báo đã bị nhiễm độc.
+Brain còn thậm chí hiện luôn cả địa chỉ cần liên hệ nếu muốn giải quyết rắc rối, đó là một cặp anh em ở Pakistan. Những người này giải thích rằng họ không có ý định gây hại cho mọi người mà đó chỉ đơn giản là một biện pháp bảo vệ bản quyền dành cho phần mềm y tế mà họ là tác giả. Không hiểu ai đã copy những đoạn code đó và khiến virus lây lan. 
+Virus ILOVEYOU
+Virus này tấn công vào tình cảm con người khi nó được đính kèm theo các email tiêu đề ILOVEYOU. Và người ta thực sự đã bị mắc lừa rất nhiều. Khoảng 10% máy tính có nối mạng internet đã trở thành nạn nhân vào năm 2000.
+Virus không chỉ lây lan qua email mà còn tự nhân bản chính nó trên ổ cứng của người dùng và tự download phần mềm ăn trộm mật khẩu về máy tính. Thế giới đã tốn mất hàng tỉ USD, tất cả chỉ vì tình yêu.
+Sâu máy tính Morris
+Khởi đầu, nó cũng chỉ là một thí nghiệm của tác giả Robert Morris, khi đó đang là nghiên cứu sinh sau đại học. Ông ta muốn thử xem mạng Internet vào thời điểm sơ khai của năm 1988 rộng lớn tới mức nào. Không phụ lòng chủ nhân, sâu máy tính Morris lây lan ra khoảng 6.000 máy tính của chính phủ và các trường đại học, khiến chúng chậm hẳn đi hoặc thậm chí bị treo.
+Morris đã bị phát hiện và bị phạt, tuy nhiên có vẻ ông đã rút ra bài học. Giờ đây, Morris trở thành giáo sư tại Học viện MIT danh tiếng của Mỹ.
+Virus Code Red
+Virus này có tới 2 phiên bản và cả 2 đều cực kỳ nguy hiểm. Người dùng không cần phải mở file đính kèm email hay copy thứ gì để “mời” virus vào nhà, thay vì thế nó dùng luôn đường truyền Internet của họ và xâm nhập qua lỗ hổng của hệ điều hành Windows.
+Sau đó, virus sẽ khiến máy tính của người dùng trở thành một dạng “nô lệ” khi kẻ gửi virus có thể nắm quyền sử dụng máy một cách toàn diện. Hắn có thể ăn cắp thông tin hay dùng máy tính đó để tấn công các máy khác.
+Ngay cả Nhà trắng cũng lo ngại và phải tìm mọi cách ngăn chặn việc lây nhiễm. Tuy nhiên không phải ai cũng đủ sức làm như thế, kết quả là hơn 200.000 máy chủ đã bị nhiễm virus này vào năm 2001.
+Virus Melissa
+Điểm đặc biệt của virus này là nó đặt ra mốc khởi đầu cho kỷ nguyên lây nhiễm qua email. Trước đó, virus chỉ có thể “di chuyển” qua đường đĩa mềm chậm chạp và kém hiệu quả. Sau khi đã đột nhập, nó sẽ tìm tới sổ địa chỉ và tự gửi chính mình cho toàn bộ bạn bè của chủ nhân. Ai mà lại đề phòng một email của bạn bè cơ chứ, chính vì thế Melissa lây nhiễm càng nhanh chóng hơn.
+Tác giả của virus thú nhận rằng anh ta viết nó cho một vũ nữ thoát y vô tình gặp ở Florida. Thật là một món quà "lãng mạn"!
+Virus Nimda
+Virus Nimda (viết ngược của từ Admin – người điều hành – từ thường dùng trong lĩnh vực máy tính) xuất hiện năm 2001 và nhanh chóng vươn lên chiếu trên trong bảng xếp hạng virus. Chỉ mất 22 phút để nó trở thành virus lây nhiễm rộng nhất trên Trái đất.
+Nó lây lan qua các website, qua email và qua cả các lỗ hổng của hệ thống máy chủ. Nimda xuất hiện chỉ sau vụ khủng bố 11/9 chỉ khoảng 1 tuần và nó khiến người ta liên tưởng tới một vụ tấn công bằng vũ khí tin học.
+Sâu máy tính Sasser
+"Thành tích" của loại sâu máy tính này cũng rất ấn tượng. Vào năm 2004, nó đã khiến Lực lượng bảo vệ bờ biển nước Anh mất khả năng sử dụng bản đồ trên máy tính, làm cho hãng tin AFP nổi tiếng không thể liên lạc với vệ tinh và buộc hãng hàng không Delta hủy các chuyến bay vì hệ thống máy tính của họ không hoạt động.
+Ngoài ra, các trường đại học, các tập đoàn lớn và cả các bệnh viện cũng bị tấn công. Tất cả là tác phẩm của một cậu bé 17 tuổi người Đức. Cái giá phải trả là 21 tháng án treo và tham gia một số hoạt động cộng đồng.
+Virus Storm
+Cái tên này xuất phát từ mẹo giúp virus lây lan. Đầu năm 2007, người ta bỗng thấy hàng loạt email về số nạn nhân trong các trận bão (storm) ở châu Âu và có một đường link tới bài viết. Thời điểm ấy, bão tố là chuyện thời sự và rất nhiều người không hề nghi ngờ khi vào trang web đó, đồng nghĩa với việc download virus về máy.
+Tiêu đề thư cũng thường xuyên được thay đổi để phù hợp với thực tế. Sau đó, thậm chí nó còn biến tướng thành thư của đội ngũ hỗ trợ kỹ thuật hay thư kèm link tới các trang web đen để kích thích trí tò mò. Ngày nay, đây vẫn là cách lây nhiễm virus phổ biến nhất.

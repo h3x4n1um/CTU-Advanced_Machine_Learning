@@ -1,0 +1,8 @@
+﻿Phương pháp chống AIDS mới
+17-04-2009 | 1,343 views | 0 phản hồi » Các nhà nghiên cứu bệnh viện Brigham và Phụ nữ (Boston),  Trường Y Harvard tại Boston (Mỹ) đã tìm ra hơn 200 mục tiêu tấn công virus HIV thông qua 273 mã gien của con người. Đây là các mã gien HIV sử dụng để xâm nhập vào tế bào và sinh sản.
+
+Kết quả quan sát cho thấy, HIV dựa vào các tế bào của bệnh nhân để sinh trưởng, sử dụng 9 loại gien và 15 loại protein mã hóa để  xâm nhập vào tế bào, tìm kiếm nơi chứa đựng DNA và bắt đầu phá hủy DNA. Chúng tạo ra một tập hợp virus bao bọc lấy tế bào, tiếp tục tự phát triển số lượng cho đến khi tế bào đó chết đi. Những virus mới sẽ tiếp tục tìm kiếm những tế bào khác trong cơ thể người.
+
+Một loại thuốc mới được tạo ra có ảnh hưởng trực tiếp đến các chất protein trong cơ thể người, làm cản trở hoạt động của virus HIV. Các nhà nghiên cứu đã sử dụng phương pháp mới có tên siRNA. DNA chứa đựng mã di truyền của toàn bộ cơ thể và RNA sẽ là vật di truyền học được sử dụng để dịch mã này tạo ra các tế bào thiếu hụt gien. Sau đó họ cho virus HIV xâm nhập vào những tế bào này.
+
+Cách thức hoạt động của virus HIV khi xâm nhập vào các tế bào thiếu hụt gien được quan sát kỹ lưỡng. Trong số 273 gien được tìm thấy, không có gien nào có triệu chứng của căn bệnh thế kỷ AIDS. Các virus HIV không thể biến đổi gien để chống lại sự tương tác của loại thuốc mới này

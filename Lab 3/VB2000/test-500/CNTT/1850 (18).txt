@@ -1,0 +1,12 @@
+9 dịch vụ DNS miễn phí đáng dùng thử
+Theo trang Avinashtech, các dịch vụ DNS này giúp người dùng cải thiện tốc độ truy cập mạng Internet nhanh chóng và tăng tính an toàn, hạn chế các mối nguy hiểm từ thế giới ảo.
+OpenDNS (http://www.opendns.com) là một trong những dịch vụ DNS tốt nhất và được cộng đồng mạng sử dụng nhiều nhất. OpenDNS giúp người dùng lướt web với tốc độ nhanh, an toàn. Nếu đăng ký một tài khoản tại trang chủ thì người dùng có thể tùy chỉnh một số thiết lập nâng cao như lọc địa chỉ web, chặn web đen…
+Norton DNS (http://www.nortondns.com) là dịch vụ miễn phí của hãng bảo mật Symantec với các sản phẩm nổi tiếng như Norton Antivirus, Norton Internet Security. Dịch vụ giúp người dùng lướt web an toàn hơn, hạn chế các mối nguy hại như malware hay các website lừa đảo.
+Dịch vụ ClearCloud (http://www.clearclouddns.com) giúp ngăn chặn các website lừa đảo, malware, trojan trước khi nó có thể gây nguy hiểm cho máy tính của người dùng.
+Còn Google Public DNS (http://code.google.com/speed/public-dns) là dịch vụ miễn phí của Google. Bạn có thể tìm hiểu kỹ hơn tại đây.
+Comodo Secure DNS (http://www.comodo.com/secure-dns) là dịch vụ của hãng Comodo giúp người dùng lướt web nhanh hơn, thông minh hơn và an toàn hơn.
+DNS Advantage (http://www.dnsadvantage.com) bao gồm một mạng lưới 15 nút mạng trên 15 quốc gia, trải dài trên 5 châu lục khác nhau giúp cho việc cập nhật, trao đổi dữ liệu giữa các nút mạng được diễn ra nhanh chóng, giúp người dùng online an toàn và nhanh chóng.
+Scrubit (http://www.scrubit.com) giúp ngăn chặn các website khiêu dâm, lừa đảo và nhiều trang web có khả năng gây hại cho máy tính. Nếu người dùng muốn tùy chỉnh website nào mặc định sẽ bị khóa thì hãy đăng ký một tài khoản tại trang chủ của Scrubit.
+Dịch vụ FoolDNS (http://www.fooldns.com) có thể ngăn chặn quảng cáo đến 90%, xóa cookie theo dõi và lịch sử truy cập của người dùng chỉ với một cú click chuột.
+Một số dịch vụ DNS có tính năng thông minh, tự sửa lỗi khi người dùng gõ sai địa chỉ web hoặc dẫn người dùng tới một website khác. Nếu không thích tính năng đó thì DNS Resolvers sẽ giữ nguyên những gì người dùng nhập vào và chỉ thực hiện đúng những gì người dùng đang làm.
+Tốc độ truy cập Internet phụ thuộc vào khoảng cách giữa máy chủ phân giải DNS và máy tính của bạn. Vì vậy để tìm ra được một DNS server nhanh, hãy sử dụng công cụ NameBench http://code.google.com/p/namebench.

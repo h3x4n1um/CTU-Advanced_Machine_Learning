@@ -1,0 +1,13 @@
+﻿Luxand Blink là ứng dụng miễn phí giúp đăng nhập vào máy tính bằng cách nhận dạng khuôn mặt với một chiếc webcam, thay cho việc dùng mật mã là các ký tự nhập từ bàn phím.
+Đây là phương thức đăng nhập mới mẻ, thao tác diễn ra đơn giản và dễ dàng. Người dùng chỉ việc thiết lập một khuôn mặt ban đầu để dùng làm chìa khóa cho các lần đăng nhập sau. Theo đó, bạn chỉ việc nhìn thẳng vào webcam, nếu phù hợp với khuôn mặt đã thiết lập trước thì ngay lập tức được truy cập vào sử dụng máy tính.
+Để thực hiện theo tác đăng nhập này trên máy tính, cần chuẩn bị các công cụ sau:
+- 1 webcam nối với máy tính. Nếu dùng laptop thì có thể dùng webcam có sẵn trên máy.
+- Phần mềm Luxand Blink 2.0 được cung cấp tại đây (dung lượng: 8,57 MB).
+Hướng dẫn sử dụng:
+Sau khi tải phần mềm Luxand Blink về, bạn nhấn đôi chuột vào tập tin LuxandBlinkSetup.exe để cài đặt. Trên giao diện cài đặt hiện ra, bấm vào Options để thiết lập thư mục lưu trữ chương trình, rồi chọn Install Luxand Blink.
+Trong quá trình cài đặt, chương trình sẽ quét tìm các thiết bị camera, webcam gắn trên máy, nếu có nhiều hơn một thiết bị kết nối với máy, cần lựa chọn thiết bị sẽ dùng. Xong, nhấn Apply.
+Tiếp theo, bạn nhấn Next, rồi Next lần nữa.
+Sau đó, hãy nhìn thẳng vào webcam để ứng dụng nhận diện khuôn mặt của bạn trong khung vuông màu xanh.
+Ngoài ra, chương trình sẽ hiển thị yêu cầu bạn nhập mật mã đang dùng để đăng nhập Windows từ bàn phím (nếu có dùng). Khi đó, lúc đăng nhập bạn sẽ có 2 tùy chọn là đăng nhập truyền thống bằng cách nhập mật mã, hoặc đăng nhập bằng cách nhìn vào webcam.
+Như vậy là cơ bản bạn đã hoàn thành mọi thiết lập cần thiết. Ngay lập tức, có thể Logon hoặc Restart  lại máy tính để thử tính năng mới này. Tất nhiên, khuôn mặt mà webcam nhận diện phải giống khuôn mặt đã thiết lập thì mới đăng nhập vào Windows được!
+Nếu máy tính có nhiều tài khoản người dùng thì để thiết lập tính năng này cho tài khoản nào thì bạn đăng nhập bằng tài khoản đó, rồi thực hiện tương tự như trên.

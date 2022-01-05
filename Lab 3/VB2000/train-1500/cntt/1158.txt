@@ -1,0 +1,11 @@
+﻿Đối với những bạn đang sử dụng hệ điều hành Windows 7 thì việc “ngắm” những Screensaver là điều đầy thú vị. Thế nhưng, bạn lại không thực hiện được việc tinh chỉnh chúng theo sở thích của mình vì mặc định tính năng này bị khóa bởi hệ thống. Bài viết này sẽ giới thiệu đến các bạn hai cách tùy chỉnh Screensaver sẵn có trong hệ điều hành này.
+Tùy chỉnh bằng chương trình System Screensavers Tweaker
+Đầu tiên bạn tải chương trình với dung lượng nhỏ gọn, chỉ 206KB. Chương trình hoàn toàn miễn phí với giao diện rất đơn giản gồm 5 thẻ với các tùy chọn tương ứng với từng mẫu Screensaver:
+Thẻ Bubbles với các tùy chọn sau: Bubble’s radius – cho phép bạn kéo thanh trượt về trái hoặc phải để giảm hoặc tăng kích thước của những quả bong bóng xuất hiện trên màn hình; Amount of turbulence octaves – thanh trượt càng về bên phải, khả năng chuyển đổi màu của những quả bóng càng nhanh; Amout of bubbles – số lượng bong bóng xuất hiện; Turbulence speed – nói lên tốc độ di chuyển của các quả bóng; Turbulence force – độ va chạm các quả bóng có trên màn hình. Ngoài ra còn các tùy chọn về hiển thị bóng đổ - Show shadows, độ mờ đục của bong bóng – Transparent bubbles,…mà bạn có thể chọn hoặc không.
+hẻ Ribbons với một số tùy chọn thay đổi: Number of ribbons – Số lượng đường vẽ xuất hiện trên màn hình; Ribbon’s width – độ rộng của đường được vẽ; Camera focus of view – Góc quay của màn hình,…
+Tương tự vậy, thẻ Mystify cũng cho phép chọn những thay đổi về số lượng, độ rộng và góc quay của những đường được vẽ trên màn hình,…
+Thẻ Aurora cho phép bạn thiết lập những thay đổi về độ sáng, tốc độ của hiển thị,…..
+Cuối cùng là thẻ Language & Info cho phép bạn thay đổi chương trình giữa hai ngôn ngữ: Tiếng Anh và tiếng Nga.
+Khi hoàn tất các thiết lập, bạn nhấn nút Apply để chương trình lưu những thay đổi trên vào hệ điều hành. Nếu bạn cảm thấy những thay đổi của mình không hợp lý và muốn trả về thiết lập ban đầu, bạn hãy nhấn Reset to defaults để trả về mặc định.
+Tinh chỉnh Registry Editor
+Đầu tiên, bạn vào ô tìm kiếm trong Start menu và gõ vào Regedit để truy cập vào Registry Editor. Sau khi trình Registry Editor mở ra, bạn tìm đến khóa 

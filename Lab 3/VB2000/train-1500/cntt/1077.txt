@@ -1,0 +1,5 @@
+﻿Microsoft ngày 21/6 đã tung ra ứng dụng chính thức Windows Live Messenger dành cho iPhone cho phép người sử dụng có thể sử dụng dịch vụ nhắn tin trực tiếp (instant messaging-IM) rất thông dụng bằng điện thoại di động của họ.
+Giống như phần mềm trên máy tính, ứng dụng Live Messenger tải về miễn phí sẽ cho phép người sử dụng kết nối với bạn bè của họ và truy cập hộp thư Hotmail từ chiếc smartphone của Apple.
+Ngoài khả năng có thể gửi đi các đoạn hội thoại, ứng dụng mới dành cho iPhone này còn cho phép người sử dụng tải lên hoặc chia sẻ hình ảnh trực tiếp từ kho hình ảnh trên máy điện thoại di động.
+Tuy nhiên, ứng dụng Live Messenger không tích hợp tính năng đa chức năng mà tính năng này chỉ có thể sử dụng với hệ điều hành iOS 4 mới.
+Hệ điều hành này cũng sẽ được tung ra trong ngày 21/6 dành cho các mẫu iPhone hiện có trên thị trường. 

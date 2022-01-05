@@ -1,0 +1,6 @@
+Chuyên gia Việt Nam được Google thưởng 1.000 USD
+Hãng dịch vụ Internet Mỹ vừa trao số tiền trên cho kỹ sư Bùi Quang Minh nhờ phát hiện lỗ hổng nguy hiểm trong trình duyệt Google Chrome.
+Lỗi này nằm trong quá trình xử lý định dạng file XML của Chrome. Khi xử lý file XML "dị dạng", trình duyệt này sẽ gặp trục trặc và có thể bị kẻ xấu lợi dụng nhằm thực thi mã độc. Khách truy nhập vào website chứa XML độc hại có nguy cơ bị hacker chiếm quyền điều khiển máy tính.
+Không chỉ Chrome, lỗ hổng còn ảnh hưởng tới trình duyệt Safari của Apple, đe dọa sự an toàn của các thiết bị như máy Mac, điện thoại iPhone, máy tính bảng iPad...
+Với phát hiện này, Bùi Quang Minh, đang làm việc tại công ty bảo mật Bkav, là 1 trong 6 chuyên gia trên toàn thế giới được Google trao mức thưởng cao nhất trong tháng 11.
+Trước đó, Minh cùng nhóm nghiên cứu của mình cũng đã phát hiện lỗ hổng nghiêm trọng trong sản phẩm máy tính xách tay của Asus, Lenovo, Toshiba và lỗi tràn bộ đệm trong phần mềm Windows Media Encoder của Microsoft.

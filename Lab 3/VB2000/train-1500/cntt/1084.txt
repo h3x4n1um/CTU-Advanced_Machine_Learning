@@ -1,0 +1,5 @@
+﻿Hiện nay, thời gian trung bình để một máy tính sẵn sàng hoạt động đủ cho người sử dụng pha một tách trà, do hệ thống vẫn được trang bị phần mềm ra đời từ giữa thập niên 80 của thế kỷ trước.
+BIOS (Basic Input Output System - Hệ thống nhập xuất cơ bản) nằm trên bo mạch chính. Đây là chương trình được chạy đầu tiên khi máy tính khởi động nhằm chuẩn bị cho phần mềm trong các thiết bị lưu trữ (ổ cứng, đĩa mềm, CD...) có thể nạp, thực thi và điều khiển máy tính.
+Tuy nhiên, mã BIOS đã trở nên lạc hậu vì không được thay đổi nhiều trong suốt 25 năm qua. Công nghệ UEFI (Unified Extensible Firmware Interface - Giao diện phần mềm mở rộng hợp nhất) sẽ chấm dứt kỷ nguyên của BIOS.
+"Thật ngạc nhiên khi BIOS vẫn hiện diện trong nhiều hệ thống. Nó chưa bao giờ được thiết kế để 'sống' lâu đến thế", Mark Doran, người đứng đầu tổ chức UEFI Forum, nhận xét. "UEFI sẽ rút ngắn thời gian khởi động xuống còn vài giây. Tuy chưa tới mức độ "tức thì" (instant-on) nhưng đã cải thiện hơn nhiều so với BIOS".
+Theo BBC, UEFI ban đầu chỉ là một sản phẩm của Intel nhưng đang dần trở thành chuẩn chung. Những máy tính đầu tiên sử dụng chip UEFI sẽ được xuất xưởng đầu năm tới.

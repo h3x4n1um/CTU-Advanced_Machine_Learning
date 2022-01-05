@@ -1,0 +1,54 @@
+﻿ Trong hoạt động của máy tính, một thực thể có thể cần phải truy cập đến một thực thể khác để thực hiện một hành động nào đó. Ví dụ: một user đọc một file, một chương trình chơi nhạc gọi một chương trình khác để phát âm ra loa, v.v..
+I. Khái niệm chung
+Các thực thể thực hiện các hành động đối với các thực thể khác được gọi là chủ thể truy cập (subject). Các thực thể được truy cập gọi là đối tượng truy cập (object). Chủ thể thường là một tiến trình (process) hoặc một mạch tiến trình (thread), đối tượng là file, thư mục, các cổng TCP, các vùng bộ nhớ dùng chung, v.v…
+Để đảm bảo an ninh cho hệ thống, việc truy cập không thể tự do, bừa bãi mà cần được kiểm soát. Hệ thống kiểm soát truy cập (Access control systems) thực hiện ba dịch vụ chính: nhận dạng và xác thực ( identification and authentication – I&A), cấp phép ( authorization), và theo dõi ( accountability)
+ I.1-Xác nhận (Nhận dạng và xác thực – Identification and authentication – I&A)
+Một chủ thể truy cập trước hết phải cung cấp một dấu hiệu nhận dạng (identity) hợp lệ (vd: một cặp username và password tối thiểu 6 ký tự chẳng hạn. Nếu chỉ có username, hoặc chỉ có pasword hoặc có cả username và password nhưng password chỉ có 5 ký tự là không hợp lệ). Sau khi kiểm tra là chủ thể có dấu hiệu nhận dạng hợp lệ, quá trình xác thực sẽ so sánh dấu hiệu đó với dấu hiệu đã đăng ký để xác nhận chủ thể đó đúng là nó.
+Quá trình đó tương tự như khi ta trình giấy mời vào một cuộc họp quan trọng: đầu tiên người gác cổng phải xem giấy mời có hợp lệ không (đúng mẫu giấy mời, có chữ ký và dấu v.v…) sau đó tra xem tên ghi trên giấy và tên trên chứng minh thư có trùng nhau không và thậm chí tên đó có trong danh sách khách mời không v.v.. Nếu tất cả đều đúng thì ta được xác nhận đúng là người được mời họp và được vào.
+I.2- Cấp phép (Authorization)
+Việc cấp phép xác định chủ thể được làm những hành động gì trên đối tượng.
+Trong các hệ điều hành, quyền của chủ thể trên đối tượng là tổ hợp của ba loại quyền truy cập cơ bản sau:
+Read (R): chủ thể có thể
+Đọc nội dung file
+Đọc (liệt kê) nội dung thư mục
+Write (W): chủ thể có thể thay đổi nội dung file hoặc thư mục.
+Execute (X): nếu file là một chương trình, chủ thể có thể chạy chương trình đó.
+Cách cấp phép cụ thể tùy theo mô hình (kỹ thuật) kiểm soát truy cập (xem dưới đây).
+I.3- Theo dõi (Accountability)
+Việc theo dõi các hành động của chủ thể được thực hiện tự động bằng các audit trails (records) và các file log. Dựa vào đó có thể:
+Phát hiện các vi phạm quy tắc an ninh.
+Tái tạo lại các sự cố về an ninh.
+II. Các kỹ thuật kiểm soát truy cập (Access control techniques)
+II.1-Kiểm soát truy cập tùy ý (Discretionary access control – DAC)
+Trong kỹ thuật này, mỗi đối tượng đều có một chủ nhân (owner). Chủ nhân của đối tượng có toàn quyền quyết định chính sách truy cập đối tượng: cho chủ thể nào được truy cập và được làm những hành động gì trên đối tượng. Vì thế mới có tên là “Kiểm soát truy cập tùy ý”, theo ý muốn của chủ nhân đối tượng, không có một chính sách truy cập thống nhất trong toàn hệ thống.
+Ví dụ khi một user tạo ra một file thì user đó là owner của file và có toàn quyền cho phép các user khác được truy cập vào file đó theo các mức độ khác nhau hoặc cấm hoàn toàn không cho ai ngoài mình được truy cập file.
+Đây là kỹ thuật (hoặc còn gọi là mô hinh) kiểm soát truy cập phổ biến của các hệ thống file Linux hiện nay.
+II.2-Kiểm soát truy cập bắt buộc (Mandatory access control – MAC)
+Trong kỹ thuật MAC, chính sách truy cập các đối tượng được thiết lập chung, thống nhất, bắt buộc cho toàn hệ thống bởi người quản trị an ninh hệ thống ( security policy administrator), không phải theo ý thích của các chủ nhân các đối tượng. Kỹ thuật này thường được dùng trong các hệ thống phân cấp có các dữ liệu cần bảo mật cao như các hệ thống mật của chính phủ hoặc quân đội. Có hai đặc điểm quan trọng sau:
+Nhãn bảo mật (Security label): trong hệ thống MAC, tất cả các chủ thể và đối tượng truy cập đều có nhãn bảo mật gán cho chúng. Để truy cập vào một đối tượng, chủ thể phải có nhãn với cấp bảo mật bằng hoặc cao hơn cấp bảo mật của đối tượng.
+Kiểm soát xuất nhập dữ liệu: một trong các chức năng tối quan trọng của hệ MAC là kiểm soát việc nhập dữ liệu từ các máy khác vào và xuất dữ liệu ra các thiết bị bên ngoài (kể cả máy in). Trong quá trình xuất nhập, nhãn bảo mật phải luôn luôn được thiết lập và bảo trì một cách thích hợp sao cho các dữ liệu mật luôn luôn được bảo vệ.
+Trong kỹ thuật DAC, chủ thể truy cập thừa kế các quyền của user khi truy cập đối tượng. Các quyền đó có thể quá rộng (ví dụ khi user là root, chương trình do root chạy sẽ có quyền truy cập như root) nên nếu chủ thể bị hacker điều khiển, tác hại sẽ lớn. MAC cho phép giới hạn quyền của chủ thể ở mức tối thiểu cần thiết, hạn chế được tác hại nói trên.
+II.3-Kiểm soát truy cập dựa trên chức danh (Role-based access control – RBAC)
+Trong kỹ thuật RBAC, hệ thống gồm nhiều chức danh khác nhau, tương tự như chức danh trong một tổ chức. Mỗi chức danh đó có quyền thực hiện các hành động khác nhau. Khác với MAC có hành động chỉ giới hạn ở các quyền đọc, viết, hành động trong RBAC từ mức đơn giản đọc, viết đến mức phức tạp là một chuỗi các hành động tạo thành một giao dịch (transaction) hoàn chỉnh. RBAC cũng giống MAC là chính sách truy cập được thiết lập tập trung bởi người quản trị an ninh mà không tùy thuộc vào chủ nhân các đối tượng như với DAC.
+Ba quy tắc cơ bản của RBAC:
+1. Gán chức danh: một chủ thể truy cập chỉ có thể thực hiện hành động nếu nó được gán một chức danh nhất định trong hệ thống.
+2. Cho phép đảm nhiệm chức danh: một chủ thể chỉ có thể được gán một số chức danh nhất định. (tương tự như một nhân viên chưa có bằng đại học thì không thể làm trưởng phòng).
+3. Cho phép thực hiện giao dịch: một chủ thể đã được gán một chức danh chỉ được thực hiện các giao dịch mà chức danh đó được phép làm.
+RBAC thường được dùng trong các phần mềm thương mại hoặc quân sự, nơi cần bảo mật các giao dịch.
+III. SELinux
+SELinux là một công nghệ tăng cường an ninh cho nhân Linux. SELinux là sản phẩm chung của cục An ninh Quốc gia Mỹ và một số công ty tin học, đã được tích hợp vào nhân Linux (Linux kernel) từ phiên bản 2.6 trở đi.
+Các bản Linux trước 2.6 chỉ dùng phương pháp quản lý truy cập tùy ý (DAC). SELinux thông qua cơ chế mô đun an ninh ( Linux Security Modules – LSM) bổ xung thêm hai phương pháp quản lý truy cập MAC và RBAC vào nhân Linux.
+người quản trị an ninh hệ thống dùng các công cụ chính sách (Policy utilities) để thiết lập chính sách an ninh (Security policy) chung cho hệ thống. Mỗi khi nhân Linux cần truy cập một đối tượng nào đó, trước tiên nó sẽ gọi (Request) hàm an ninh trong Security module, hàm này kiểm tra các điều kiện truy cập theo Security policy đã thiết lập rồi cho phép (Response) thực hiện truy cập.
+IV. AppArmor
+SELinux tuy tốt về mặt an ninh nhưng phức tạp, khó sử dụng. AppArmor là bộ phần mềm được xem là một giải pháp thay thế thân thiện, dễ sử dụng hơn. Các đặc điểm chính:
+Cũng dựa trên cơ chế mô đun an ninh LSM như SELinux.
+Mỗi chương trình có một security profile giới hạn quyền truy cập của chương trình ở mức tối thiểu đủ để thực hiện công việc của mình. Các profile này do người quản trị an ninh lập và như vậy áp dụng kỹ thuật MAC vào Linux. Chương trình chỉ được hoạt động trong giới hạn mà security profile của nó cho phép.
+Ngoài các profile lập bằng tay, AppArmor còn có mode tự học: các hoạt động của chương trình được lưu lại trong log, các log này có thể chuyển thành profile.
+SELinux dùng secutity label do đó đòi hỏi hệ thống file phải hỗ trợ dạng label đó. AppArmor không dùng secutity label nên áp dụng với hệ thống file nào cũng được.
+SELinux truy cập file dựa trên số inode (inode number), AppArmor truy cập file bằng đường dẫn (path). Cách nào hay hơn thì còn đang cãi nhau. Một trong những phần mềm an ninh mới nhất dùng kỹ thuật MAC nhưng truy cập file bằng đường dẫn là Tomoyo.
+V. Ứng dụng
+Các máy để bàn thường chỉ kiểm soát truy cập theo kỹ thuật DAC. Vì vậy các bản Linux desktop không cài sẵn SELinux hoặc AppArmor. OpenSUSE là bản Linux desktop có đầy đủ giao diện đồ họa nhất để thiết lập và quản trị AppArmor (có cả wizard) nhưng mặc định cũng không kích hoạt (enable) AppArmor. Mandriva có các gói phần mềm SELinux và AppArmor trong kho nhưng không cài có lẽ vì đã có Msec. Linux Mint có cài một vài thư viện của hai phần mềm trên nhưng không đầy đủ.
+Trong một thế giới kết nối Internet, các máy để bàn đều bị nhòm ngó và có nguy cơ bị biến thành máy tính âm binh (zombie) trong một mạng máy tính ma (botnet) thì có lẽ tăng cường an ninh bằng SELinux hoặc AppArmor vẫn tốt hơn mặc dù như vậy sẽ gây phức tạp hơn cho việc cài thêm các phần mềm mới.
+Còn với các máy chủ thì tăng cường an ninh bằng SELinux hoặc AppArmor là đương nhiên.
+VI. Ảo hóa hệ điều hành
+Một trong những giải pháp nữa để tăng cường an ninh là dùng các máy chủ ảo. Trên một máy chủ vật lý chạy một hệ điều hành chủ, trong hệ điều hành chủ dùng phần mềm ảo hóa để tạo nên một số máy chủ ảo. Mỗi máy chủ ảo chạy một hệ điều hành và chương trình ứng dụng riêng. Các máy chủ ảo cô lập so với nhau và với máy chủ chính. Như vậy khi một máy ảo bị tấn công không ảnh hưởng tới các máy khác.

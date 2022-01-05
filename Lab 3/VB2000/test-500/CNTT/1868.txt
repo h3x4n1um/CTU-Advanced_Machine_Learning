@@ -1,0 +1,20 @@
+﻿ Hiện nay, Gmail đang là 1 trong những dịch vụ email dựa trên nền tảng web rộng rãi và phổ biến nhất thế giới. Dưới đây là danh sách 9 tiện ích mở rộng đi kèm dựa trên của Google Labs được cộng đồng người sử dụng đánh giá cao dựa vào tính năng tiện lợi và đáp ứng nhu cầu giao tiếp cũng như công việc của họ.
+Để kích hoạt và sử dụng những chức năng này, bạn hãy đăng nhập vào tài khoản Gmail, trong mục Settings, hãy đánh dấu vào ô Enable tại những ô tương ứng và nhấn nút Save Changes ở bên dưới.
+1. Right Side Chat
+Tiện ích này sẽ hiển thị cửa sổ chat của Gmail ở bên phải của hòm thư Inbox, khá tiện lợi và đơn giản. Khi kích hoạt tính năng này, bạn sẽ không còn thấy tin quảng cáo của Gmail ở bên phải như thường lệ.
+2. Advanced IMAP Controls
+Nếu bạn sử dụng giao thức IMAP để truy cập tới tài khoản Gmail, hãy sử dụng tính năng này, cho phép bạn lựa chọn những tiêu đề muốn xem trước qua IMAP, ngăn chặn thư rác ngay sau khi chúng bị xóa khỏi IMAP.
+3. Canned Responses
+Nếu bạn muốn trả lời email chỉ với nội dung ngắn gọn trong vòng 1 dòng hoặc ít hơn, hãy sử dụng tiện ích này. Có khả năng lưu Canned Responses của riêng bạn, rất có ích khi bạn bắt đầu 1 email mới hoặc phản hồi lại thư của người khác.
+4. Create a document
+Chức năng này cho phép người sử dụng tạo văn bản Google Docs trực tiếp bên trong email, nếu bạn thường xuyên làm việc có liên quan tới văn bản, tài liệu thì đây là tiện ích không thể thiếu.
+5. Custom Keyboard shortcuts
+Gmail đã cải tiến và hỗ trợ nhiều shortcut bàn phím dành cho người dùng. Nếu bạn không phải là người dùng Unix hoặc Emacs, mong muốn sử dụng những phím tắt tiện dụng, hãy thử
+6. Default ‘Reply to All’
+Lựa chọn mặc định mỗi khi bạn trả lời email, tùy từng trường hợp sử dụng và tính chất công việc, hãy cân nhắc kỹ càng khi áp dụng tiện ích này.
+7. Multiple Inboxes
+Nếu bạn phải “đương đầu” với hàng trăm email mỗi ngày, thì đây là công cụ hỗ trợ đắc lực nhất, có thể truy cập bất cứ email nào từ các mục khác nhau, chức năng tìm kiếm đơn giản và hiệu quả.
+8. Quote selected text
+Tùy theo quan điểm của từng người dùng mà chức năng này tỏ ra hữu ích hay không. Nếu bạn phải trả lời thư phản hồi với số lượng lớn trong thời gian làm việc, chỉ cần trích dẫn 1 phần của email đó, nhấn Replay và toàn bộ nội dung thư đã hiển thị đầy đủ. Tiện ích này sẽ giúp người dùng tiết kiệm khá nhiều thời gian khi không phải xem toàn bộ nội dung.
+9. Google calendar gadget
+1 tiện ích gần như không thể thiếu khi bạn mải mê với công việc, Google Calendar sẽ nhắc nhở bạn mỗi khi những ngày lễ, ngày nghỉ... đang đến gần. Khi kích hoạt, tiện ích này sẽ hiển thị bên trái, cạnh các chuyên mục duyệt mail.

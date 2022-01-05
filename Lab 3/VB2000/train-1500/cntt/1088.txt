@@ -1,0 +1,11 @@
+﻿Bạn muốn lưu trữ trang web sang PDF để lưu trữ lâu dài hoặc muốn chuyển một file mã HTML sang file PDF. Hãy nghĩ đến dịch vụ được cung cấp trên trang web http://pdfcrowd.com/.
+Đầu tiên, bấm Sign up trên đầu trang, điền các thông tin để đăng kí, rồi bấm I agree sign me up! Sau đó quay về hộp thư email, kích hoạt link rồi sử dụng được các thiết lập của trang web và pdf.
+Với thẻ URL, bạn chỉ cần dán link một trang web bất kì vào thanh Address. Sau khi làm chuẩn bị một file HTML, không mất công chuyển lên website nào đó rồi mới chuyển đổi sang PDF, bạn chỉ cần chọn file HTML, các định dạng file nén ở thẻ Upload HTML.
+Tại thẻ Direct input, bạn nhập trực tiếp nội dung soạn thảo một file HTML, hoặc có bảng công cụ soạn thảo tương tự như Microsoft Word khi bấm vào WYSIWYG Editor. Nếu hoàn thành xong các bước hướng dẫn trên, cuối cùng chỉ cần bấm Convert to PDF để download file về máy tính.
+Ngoài ra, bạn có thể tùy chỉnh một vài đặc điểm cho file PDF:
+Page Size: bao gồm Predefined (theo mẫu định sẵn về khổ giấy và chiều trang) hoặc Custom (tùy chọn – nhập số tùy ý), nếu muốn “nén” các file gốc thành một trang duy nhất thì đánh dấu chọn vào trước One long page.
+Page Margins: Horizontal/Vertical Margins (căn lề ngang và dọc cho trang giấy), add the page number to the footer (thêm số trang vào dưới các trang giấy), add the source URL to the footer (thêm đường dẫn trang web), add the Pdfcrowd logo to the footer (chèn logo Pdfcrowd).
+PDF Security: bảo mật cho trang web, user password (mật khẩu cho người dùng), owner password (mật khẩu cho người tạo file), printing/copying/modification not allowed (không được phép in/copy/sửa đổi), encrypt (mã hóa).
+Initial PDF View: page layout (dàn trang), intial zoom (độ phóng lớn trang giấy), full sreen (xem toàn màn hình).
+HTML Options: do not run javaScript (không cho phép chạy mã javascript), do not convert images/ backgrounds (không chuyển đổi hình ảnh/ ảnh nền), do not make hyperlinks (không tạo các siêu liên kết).
+Sau khi hoàn tất các bước sửa đổi tùy chọn, bấm Save Options. 

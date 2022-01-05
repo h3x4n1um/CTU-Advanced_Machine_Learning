@@ -1,0 +1,11 @@
+Quản trị mạng – Trong phần này chúng tôi sẽ giới thiệu những gì bạn có khi thực hiện cấu hình các tính năng chống spam (anti-spam) trên TMG 2010 firewall.
+Trong phần hai của loạt bài này, chúng tôi đã giới thiệu được cho các bạn về một số thủ tục cần thiết để các thành phần Email Protection có thể làm việc. Chúng ta đã cấu hình bộ lắng nghe incoming SMTP listener, dùng để chấp nhận mail gửi đến, cấu hình outgoing SMTP listener, dùng để gửi mail đi. Thêm vào đó chúng ta cũng đã kích hoạt các thành phần Forefront Protection for Exchange và Exchange Edge để cho phép bảo vệ anti-spam và anti-virus. Trong phần ba này, chúng tôi sẽ giới thiệu cho các bạn những gì có khi thực hiện cấu hình các tính năng chống spam (anti-spam) trên TMG 2010 firewall.
+Cấu hình lọc spam (Spam Filtering)
+Tab Spam Filtering trong panel giữa của giao diện điều khiển. Ở đây bạn có thể thấy bộ sưu tập các tùy chọn cho việc cấu hình Spam Filters. Đó là những tùy chọn:
+IP Allow List: Cho phép có thể cấu hình bộ địa chỉ IP để các thư luôn được chấp nhận từ đó.
+IP Allow List Providers: Cho phép cấu hình địa chỉ của một hoặc nhiều nhà cung cấp IP Allow List.
+IP Block List: Cho phép cấu hình một danh sách các địa chỉ mà bạn không bao giờ nhận mail từ chúng. Content Filtering: Cho phép chặn email dựa trên nội dung của thư.Recipient Filtering: Cho phép điều khiển sự phân phối email dựa trên người nhận.Sender Filtering: Cho phép điều khiển sự phân phát email dựa trên người gửi.
+Sender ID: Điều khiển cho phép hoặc từ chối email dựa trên sự có mặt của bản ghi Sender ID.Sender Reputation: Cho phép bạn cho phép hoặc từ chối mail dựa trên tên của người gửi.
+Sau đây chúng ta hãy bắt đầu bằng cách kích tùy chọn IP Allow List.
+IP Allow List
+Trong hộp thoại IP Allow List, kích tab Allowed Addresses. Ở đây bạn có thể add một địa chỉ, một dải địa chỉ mà bạn muốn nhận thư từ chúng.

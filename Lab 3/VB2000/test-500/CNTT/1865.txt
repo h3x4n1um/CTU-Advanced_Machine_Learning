@@ -1,0 +1,21 @@
+﻿Các mở rộng và Add-On
+Một số tính năng trình duyệt tốt nhất không phải được thực hiện bởi các nhà phát triển trình duyệt. Thay vào đó, các nhà lập trình độc lập đã tạo ra các add-on hữu ích mà bạn có thể tải về và cài đặt miễn phí. Nhưng không phải tất cả trình duyệt web đều hỗ trợ cùng phần mở rộng, chỉ một vài trong số các trình duyệt hỗ trợ. Khi đánh giá các trình duyệt, NTN phân loại add-on nào hỗ trợ trình duyệt nào, việc tìm kiếm, cài đặt và gỡ bỏ add-on dễ dàng hay không.
+IE 8
+IE 8 cho phép bạn cài đặt thanh công cụ trình duyệt các loại, gồm cả các thanh công cụ tìm kiếm mà bạn thích hay không thích. IE 8 cũng có Web Slice và Accelerator. Web Slice là add-on cho phép bạn giữ các thẻ thông tin từ khắp nơi trên web mà không cần truy cập vào trang web. Chẳng hạn, eBay Web Slice cho phép theo dõi tình trạng đấu giá, trong khi USA Today Entertainment Web Slice cho phép bạn xem nhanh các câu chuyện hàng đầu trong làng giải trí. Mở những trang trực tiếp trong thanh favorite của bạn chỉ bằng một cái nhấn chuột.
+Accelerator là phím tắt cho tác vụ mà bạn thực hiện trong trình duyệt. Chẳng hạn, nếu bạn đánh dấu một khối văn bản, biểu tượng màu xanh sẽ xuất hiện bên cạnh. Nếu nhấn chuột vào biểu tượng đó, bạn sẽ thấy một trình đơn cho phép bạn dịch đoạn văn bản đã lựa chọn, tìm kiếm đoạn văn bản đã chọn, tìm trên bản đồ (nếu đó là một địa chỉ)… Bạn có thể xem toàn bộ thư viện add-on của IE 8 tại mục có tên là Add-One Gallery (ieaddons.com) của Microsoft.
+Firefox 3.6
+Firefox đã đoạt chức vô địch phần mở rộng đầu tiên cách đây vài năm, và mặc dù các trình duyệt khác đã bắt kịp nhưng Firefox vẫn giữ được ngôi vua về add-on. Mozilla có thư viện (find.pcworld.com/70316) với hàng ngàn add-on và phần mở rộng, từ add-on bảo mật cho đến các công cụ mạng xã hội. Vào Tools.Add-ons trong Firefox, bạn có thể xem và kích hoạt hay vô hiệu hóa các đặt phần mở rộng, chủ đề (themes), các plug-in, và duyệt qua các add-on đề nghị.
+Theo NTN, một khiếm khuyết nhỏ của Firefox là việc cập nhật phần mở rộng không chạy nền.
+Chrome 5
+Chrome hỗ trợ phần mở rộng vào cuối năm ngoái, thư viện mở rộng của Google (find.pcworld.com/70316) cung cấp nhiều lựa chọn hữu dụng như biểu tượng thanh công cụ, các thông báo, cập nhật thời tiết… Chrome cập nhật các phần mở rộng thường xuyên hơn Firefox, và các phần mở rộng được tích hợp tốt hơn vào trình duyệt. Điều đó cho thấy, các tùy chọn add-on của Chrome hoàn toàn không thể phù hợp với bề rộng của Firefox.
+Safari 5
+Hỗ trợ phần mở rộng là đặc điểm mới nhất của phiên bản Safari mới này. Bạn có thể truy cập trang blog đề cập các vấn đề liên quan đến các phần mở rộng của Safari tại http://safariextensions.tumblr.com. Hiện nay, Apple đã cung cấp thư viện các phần mở rộng (Safari Extension Gallery) cho Safari tại http://extensions.apple.com/
+Opera 10.6 
+Opera có cách tiếp cận hoàn toàn khác bằng các widget của họ. Giống như các widget trên máy tính để bàn trong Windows 7 hay trên Dashboard trong Mac OS X, những ứng dụng nhỏ này có thể cung cấp cập nhật nhanh bản tin, thời tiết, kết quả thể thao…
+Tính năng tốt nhất của Opera: xem trước nội dung trang web thu nhỏ. Khi bạn rê chuột trên một thẻ, Opera sẽ hiển thị pop-up xem trước nội dung trang web thu nhỏ, tính năng này khá hữu ích nếu mở nhiều trang web cùng tên.
+Một điều cần lưu ý là Opera Widgets không phải là add-on theo nghĩa cổ điển – chúng không chạy bên trong trình duyệt Opera. Thay vào đó, chúng là những ứng dụng độc lập chạy song  song với phần mềm khác của bạn. Điều này có nghĩa rằng các ứng dụng nhỏ này vẫn mở ngay
+Phần mở rộng tốt nhất: Firefox
+Mặc dù NTN cũng thích thú với các add-on của các trình duyệt khác, nhưng Firefox vẫn sáng giá nhất, chủ yếu vì thư viện các phần mở rộng và khả năng hỗ trợ tốt.
+cả khi bạn đóng Opera, điều này có thể hữu ích nhưng các widget này chỉ đóng góp phần nào cho việc mở rộng chức năng của trình duyệt.
+Tốc độ
+Các nhà phát triển trình duyệt hiện đang thực hiện việc đề cao tốc độ tải trang – vì mọi người thích được nhanh nhất. Mặc dù NTN thấy rằng sự khác biệt về tốc độ tải trang không đáng kể trong các bài thử nghiệm, và hầu hết tốc độ của trình duyệt được tuyên bố quá mức.

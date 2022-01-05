@@ -1,0 +1,17 @@
+﻿ Panda Internet Security 2010 là gói phần mềm cung cấp đầy đủ các tính năng bảo mật như phát hiện và chống lại các phần mềm gây hại (virus, spyware, trojan…), tường lửa, chặn thư rác…
+Ưu điểm nổi bật của Panda Internet Security là khá nhẹ và chiếm dụng ít bộ nhớ. Phần mềm chỉ sử dụng khoảng 8MB dung lượng bộ nhớ RAM khi hoạt động ở chế độ chờ và chiếm khoảng 30MB dung lượng RAM khi thực hiện việc quét.
+Ngoài ra, khác với các phần mềm có tính năng tường lửa khác, Panda Internet Security 2010 không “làm phiền” người dùng với các hộp thoại yêu cầu xác nhận phần mềm kết nối Internet hay các phần mềm đang hoạt động… mà Panda Internet Security tự động kiểm tra độ an toàn của các phần mềm để cho phép chúng kết nối Internet hay không. Đây có thể xem là một ưu điểm vượt trội của Panda Internet Security 2010 so với các phần mềm bảo mật khác.
+Đặc biệt, Panda Internet Security 2010 tương thích tốt với hệ điều hành Windows 7.
+Một vài tính năng nổi bật của chương trình:
+Ngăn chặn dữ liệu quan trọng (thông tin đăng nhập, số thẻ tín dụng…) bị đánh cắp và bảo vệ máy tính chống lại virus, spyware, adware, trojan… và các phần mềm độc hại khác.
+Tính năng Maintenance, cho phép người dùng sao lưu các dữ liệu quan trọng để đề phòng bị mất.
+Tính năng tường lửa, ngăn chặn sự tấn công và ăn cắp dữ liệu của hacker thông qua Internet.
+Tính năng anti-spam, giúp lọc và bảo vệ hòm thư tốt hơn.
+Tính năng phát hiện trang web lửa đảo, để đề phòng trường hợp bạn bị mất cắp thông tin khi truy cập vào các trang web đó.
+Mật khẩu và các thông tin cá nhân của bạn sẽ trở nên an toàn hơn, không cách gì để chúng bị gửi ra ngoài, ngoại trừ do chính bạn gửi đi.
+Tính năng lọc nội dung trang web, cho phép người dùng thiết lập để ngăn chặn việc truy cập vào các trang web có nội dung không mong muốn.
+Và một vài tính năng bảo mật khác.
+Chương trình khuyến mãi
+Panda Internet Security 2010 có giá 79,95 USD và thời gian dùng thử 30 ngày. Hiện nay, hãng phần mềm Panda Security đang có chương trình quảng cáo, cho phép người dùng kéo dài thời gian dùng thử sản phẩm của mình lên đến 3 tháng (90 ngày).
+Đầu tiên, download file được cung cấp bởi chương trình khuyến mãi tại đây.
+Sau khi hoàn tất quá trình cài đặt (trong quá trình cài đặt, Panda Internet Security sẽ thực hiện quét sợ bộ), tại giao diện chính của phần mềm, bạn kích vào mục Help ở góc trên bên phải và chọn Active the product.

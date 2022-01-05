@@ -1,0 +1,19 @@
+﻿ Đối với người dùng máy tính, việc chặn virus lây nhiễm vào máy cần thiết hơn so với tìm cách diệt virus sau khi máy tính đã bị lây nhiễm. Panda USB Vaccine là “vắc-xin” phòng ngừa virus hiệu quả cho máy tính và USB.
+USB và các thiết bị lưu trữ dữ liệu gắn ngoài (như iPod, máy Mp3, ổ cứng di động…) đã trở nên phổ dụng. Kèm theo đó, việc di chuyển và cắm các thiết bị này vào nhiều máy tính khác nhau dẫn đến tình trạng virus lây nhiễm qua các thiết bị này trở nên rất phổ biến.
+Trong các loại virus lây nhiễm trên USB, virus autorun là thường gặp và cũng rất nguy hiểm vì có nhiều chủng loại và sức phá hoại khác nhau.
+Panda USB Vaccine là phần mềm nhỏ gọn, cho phép người dùng ngăn ngừa việc lây nhiễm virus từ USB sang máy tính và ngược lại, lây nhiễm virus từ máy tính sang USB, đặc biệt là virus autorun.
+Download phần mềm miễn phí tại đây.
+“Vắc-xin” dành cho máy tính:
+Panda USB Vaccine cho phép người dùng “tiêm phòng” cho máy tính, giúp hủy bỏ chức năng tự động kích hoạt các ứng dụng từ USB, CD, DVD, ổ cứng gắn ngoài… Điều này sẽ rất hữu ích để ngăn chặn virus Autorun tự động kích hoạt khi các thiết bị lưu trữ gắn ngoài được cắm vào máy tính.
+“Vắc-xin” dành cho các thiết bị lưu trữ gắn ngoài:
+Tính năng này của phần mềm sẽ ngăn chặn hiệu quả việc lây nhiễm virus và các phần mềm gây hại từ usb và các thiết bị gắn ngoài (như máy mp3, ipod, ổ cứng gắn ngoài…) vào máy tính.
+Sau khi được “tiêm phòng”, phần mềm sẽ tự động tạo ra trên USB một file autorun.inf. File autorun.inf này không thể mở, xóa hoặc chỉnh sửa nội dung… điều này có tác dụng ngăn không cho các loại phần mềm gây hai, virus tạo ra một file autorun.inf chứa mã độc để tự động kích hoạt được nữa.
+Đặc biệt, ngay trên các máy tính chưa được cài đặt Panda USB Vaccine, file autorun.inf được phần mềm tạo ra trên USB vẫn “bất khả xâm phạm”. Điều này đảm bảo rằng từ nay về sau, usb của bạn sẽ không còn bao giờ bị lây nhiễm loại virus autorun.
+Lưu ý: phần mềm chỉ có tác dụng ngừa virus chứ không có tác dụng diệt. Do vậy, trước khi tiết hành “tiềm ngừa”, bạn nên sử dụng phần mềm antivirus chuyên dụng để kiểm tra kỹ virus. Tốt nhất, nên format USB trước khi tiến hành.
+Sử dụng phần mềm:
+Phần mềm sử dụng rất đơn giản. Sau khi cài đặt, biểu tượng chương trình sẽ nằm trên khay hệ thống. Kích đôi chuột vào biểu tượng để hiển thị giao diện chính.
+Tại giao diện chính, bạn sẽ thấy rõ 2 chế độ “tiêm phòng”, một dành cho máy tính và một dành cho USB như đã giới thiệu ở trên.
+Để tiến hành “tiêm phòng” cho máy tính, bạn chỉ việc nhấn vào nút Vaccine Computer. Từ bây giờ, tính năng tự động chạy của usb, cd, dvd… trên máy tính đều bị ngăn chặn. Nếu muốn sử dụng lại tính năng autorun, bạn nhấn nút Remove vaccine để trở lại như cũ.
+Để “tiêm phòng” cho USB và các thiết bị gắn ngoài. Sau khi gắn USB vào máy tính, tại mục Select an USB device, bạn chọn USB cần “tiêm phòng” và nhấn nút Vaccinate USB.
+Sau khi đã “tiêm phòng”, trên USB sẽ xuất hiện 1 file autorun.inf (hiển thị dưới dạng ẩn). Bạn không thể mở, xóa hay chỉnh sửa nội dung của file này. Mọi tác động trên file đều bị từ chối và nhận được thông báo lỗi. Cách duy nhất để hủy file này đó là… format USB.
+Có thể nói rằng, USB Vaccine là cách thức rất hiệu quả để ngăn chặn lây nhiễm virus từ USB. Với phần mềm này, USB của bạn sẽ trở nên “miễn nhiễm” với các loại virus.

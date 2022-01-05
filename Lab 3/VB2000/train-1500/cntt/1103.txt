@@ -1,0 +1,20 @@
+﻿5 laptop thay thế máy tính để bàn
+Máy tính xách tay thay thế máy để bàn là “cỗ máy” có đầy đủ sức mạnh như PC nhưng có thiết kế nhỏ gọn, linh động. Mặc dù dòng laptop này không phổ biến ở châu Á nhưng với game thủ và các nhà thiết kế đồ họa thì chúng là sự lựa chọn tốt.
+1. Alienware M17x
+Thuộc dòng laptop “khủng” của Alienware, M17x màn hình 17 inch sở hữu “bộ não” Core i7-720QM tốc độ 1.73 GHz và RAM lên tới 6GB. Khả năng vận hành của M17x thực sự ấn tượng và đây cũng là laptop có khả năng cấu hình cao.
+Tuy nhiên, nếu người dùng muốn lựa chọn cấu hình tốt cho M17x thì cũng phải rút một khoản hầu bao lớn. Đáng tiếc, màn hình không sử dụng tỷ lệ 16:9 và các ánh sáng lòe loẹt của máy không hợp với đẳng cấp của nó.
+Cấu hình: Bộ xử lý lõi tứ 1.73GHz Core i7 740QM, màn hình 17 inch, RAM 6GB, card đồ họa rời ATI Mobility Radeon HD5870, ổ cứng 640GB, ổ ghi DVD, hệ điều hành Windows 7 Home Premium.
+ 2. Asus NX90Jq 
+Là sản phẩm kết hợp giữa Asus với nhà thiết kế David Lewis đến từ hãng sản xuất loa nổi tiếng Bang & Olufsen, NX90JQ có kiểu dáng độc đáo. Máy được trang bị bộ xử lý Core i7 tốc độ 1.6GHz, màn hình 18,4 inch, card đồ họa rời Nvidia GeForce GT 335M, ổ cứng 1 TB, 4 GB bộ nhớ DDR3 và cổng USB 3.0, đầu đĩa Blu-ray combo, hệ điều hành Windows 7 Home Premium.
+3. HP Envy 17 
+Được nâng cấp từ phiên bản Envy 15, model 17,3 inch của HP có kiểu dáng mỏng manh, bắt mắt và có khả năng hiển thị hình ảnh với chất lượng full-HD 1080p. Máy được trang bị bộ bàn phím backlit, webcam HP TrueVision HD, hệ hống âm thanh Beat Audio.
+Tuy nhiên, Envy 7 không cho phép người dùng lựa chọn card đồ họa. Thời lượng pin khiêm tốn.
+Cấu hình: Bộ xử lý lõi tứ 1.6GHz Core i7 720QM; màn hình 17.3-inch; RAM 4GB RAM; card đồ họa ATI Mobility Radeon HD5850; ổ cứng 500GB; ổ đĩa Blu-ray combo; hệ điều hành Windows 7 Home Premium.
+4. Sony Vaio VPC-F117HG 
+Vaio VPC-F117HG được trang bị màn hình 16,4 inch, độ phân giải 1080p, ổ đĩa Blu-ray, card đồ họa Nvidia GeForce GT 330M GPU và bộ xử lý Core i7 cho tốc độ 1,6Ghz. Bàn phím của máy rộng rãi tạo cảm giác thoải mái cho người sử dụng.
+Tuy nhiên, đáng tiếc, laptop này chỉ cho thời lượng pin chưa đến 2 tiếng và loa của máy không được ấn tượng.
+Cấu hình: Bộ xử lý lõi tứ 1.6GHz Core i7 720QM; màn hình 16.4-inch display; RAM 6GB RAM; card đồ họa Nvidia GeForce GT 330M; ổ cứng 500GB; ổ ghi Blu-ray; hệ điều hành Windows 7 Home Premium.
+5. Toshiba Qosmio X500 
+Cỗ máy chơi game của Toshiba được trang bị chip Core i7, card đồ họa Nvidia's GeForce GTS 250M, và sở hữu màn hình 18 inch với độ phân giải 1080p.
+Qosmio X500 “to lớn” với trọng lượng lên đến 4,7 kg. Tuy nhiên, touchpad cảm ứng hơi bé và bàn phím không được nhạy.
+Cấu hình: 1.6GHz Core i7 720M; RAM 4GB; màn hình 18.4-inch; ổ cứng 640GB; card đồ họa1GB Nvidia Geforce GTS 250M, đầu đọc Blu-ray; hệ điều hành Windows 7 Home Premium.

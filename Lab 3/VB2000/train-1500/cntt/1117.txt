@@ -1,0 +1,18 @@
+﻿Không chỉ nhắm vào Yahoo! Messenger, worm (sâu Internet - một bước tiến đáng kể và đáng sợ hơn của virus) mới vừa được Bkis phát hiện còn tinh vi hơn, lây lan, phát tán qua Skype.
+Vẫn với phương thức chèn link độc hại vào các cửa sổ chat giống như Ymfocard phát tán qua Yahoo! Messenger đã được phát hiện cách đây ít lâu, song cách thức lừa đảo của loại worm này tinh vi hơn rất nhiều.
+Mỗi lần phát tán đường link chứa mã độc, worm này lại gửi các tin nhắn có nội dung khác nhau, ví dụ “Does my new hair style look good? bad? perfect?” (Trông kiểu tóc mới của tôi thế nào? Đẹp? Xấu? Hoàn hảo?), hay “My printer is about to be thrown through a window if this pic won’t come our right. You see anything wrong with it?” (Tôi sẽ ném cái máy in ra cửa sổ nếu cái ảnh này không chui ra ngay lập tức. Bạn có thấy điều gì không ổn trong cái ảnh này không?) …
+Những thông điệp trên dễ kích thích người nhận tin nhắn click vào đường link "độc" (như trong ảnh trên), vì cho rằng “bạn bè” của mình đang cần được tư vấn. Bên cạnh đó, đường link thể hiện một file có đuôi là .JPG càng khiến người sử dụng nghĩ rằng đó là một file ảnh.
+Nếu người nhận bấm vào đường link trên, trình duyệt ngay lập tức sẽ chuyển tới một website có giao diện gần giống với Rapidshare, và một file .zip được yêu cầu tải về.
+File được giải nén thực chất là virus. Tuy nhiên file này được ngụy trang như một file ảnh có định dạng .JPG và đuôi .COM (định dạng file thực thi) được khéo léo che đậy, khiến người sử dụng nghĩ rằng đó là phần mở rộng .com của tên miền (nơi file này được host).
+Đại diện của Bkis cho hay, sau khi phân tích loại worm này, thấy nó có nhiều tính năng và hoạt động phức tạp hơn so với Ymfocard:
+Worm tự động kết thúc nếu máy tính của nạn nhân không cài Skype và Yahoo! Messenger.
+Tự động gửi tin nhắn với nội dung khác nhau, chứa link độc hại tới các nick trong friend list Yahoo! Messenger, Skype của người dùng.
+Tự động chèn link độc hại vào các file Word, Excel hoặc các email đang soạn.
+Kết nối tới IRC server để nhận lệnh điều khiển của hacker.
+Chặn máy tính truy cập vào hơn 700 website về security hoặc anti-virus.
+Chặn không cho các phần mềm anti-virus hoạt động.
+Chống máy ảo và sandbox.
+Sử dụng kĩ thuật rootkit để ẩn file và tiến trình của worm.
+Tự động copy bản thân kèm theo file Autorun.inf vào các ổ USB để phát tán.
+Bkav nhận diện worm này là W32.Skyhoo.Worm.
+Ở thời điểm này, Bkis đưa ra khuyến cáo: người sử dụng cần hết sức cẩn trọng trước khi bấm vào các link nhận được, ngay cả từ người thân hay bạn bè của mình. Bên cạnh đó, cần thường xuyên cập nhật phiên bản mới cho phần mềm diệt virus trên máy tính. 

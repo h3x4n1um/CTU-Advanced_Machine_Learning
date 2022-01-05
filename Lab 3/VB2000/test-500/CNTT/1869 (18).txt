@@ -1,0 +1,5 @@
+Apple tung ra nhiều bản vá dành cho phần mềm Boot Camp cũng như các bản cập nhật cho máy tính để bàn MacBook và MTXT MacBook Pro 13,3”, vào hôm 18/11/2010.
+Phần mềm Boot Camp 3.2 hiện có 2 phiên bản 32-bit và 64-bit dành cho người dùng Windows, hỗ trợ thêm card đồ họa ATI Radeon HD 5870, thiết bị kết nối Apple USB Ethernet Adapter và ổ lưu trữ MacBook Air SuperDrive, đồng thời giải quyết một loạt các lỗi không tên quan trọng. Apple khuyến cáo người dùng Boot Camp 3.1 nên nâng cấp lên phiên bản mới này.
+Apple cũng đưa ra các bản cập nhật EFI firmware 2.0 cho máy tính để bàn MacBook và MTXT MacBook Pro 13,3” (33,78cm), sửa lỗi hiển thị không đúng màu khi kết nối ra màn hình ngoài.
+Phần mềm Boot Camp 3.2 hỗ trợ Windows XP, Vista hay Windows 7, yêu cầu người dùng phải đang chạy Boot Camp phiên bản 3.1 thì mới nâng cấp được. Phần mềm này có dung lượng 280,28MB với phiên bản 32-bit, 121,25MB với phiên bản 64-bit.
+Các bản cập nhật EFI firmware 2.0 yêu cầu máy tính MacBook hay MTXT MacBook Pro 13,3” chạy HĐH Mac OS X 10.6.5, có dung lượng chỉ 1,98MB. Bạn có thể tải các bản cập nhật này từ trang web Support của Apple hay qua tiện ích Software Update.

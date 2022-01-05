@@ -1,0 +1,59 @@
+﻿Cùng với sự phát triển của CNTT cũng như Internet, việc phát triển các ứng dụng trên một máy đơn cũng đã mang lại nhiều lợi ích và được áp dụng trong nhiều lĩnh vực của đời sống. Tuy nhiên, với sự gia tăng phát triển của ngành công nghiệp máy tính, xu hướng toàn cầu hoá nhất hiện nay, tin học phải mở rộng hơn để có thể khai thác nguồn tài nguyên Internet.
+Trong mỗi doanh nghiệp việc phát triển các ứng dụng quản lý trên mạng càng có ý nghĩa hơn khi các mạng LAN hay WAN bùng nổ và ngày càng phổ biến. Các ứng dụng đó đảm bảo tính truy nhập tương tác từ nhiều phía và tài nguyên chỉ đặt một nơi mà ta gọi là server. Như thế các mạng sẽ mang lại cho chúng ta những lợi nhuận đáng kể. Và thực tế đã chứng tỏ điều đó, các ứng dụng đều hướng tới mạng và Internet, từ kinh doanh trên Internet, quảng cáo, hệ thống thư điện tử, cũng như thương mại điện tử. Các khái niệm đó đang gần gũi với chúng ta hơn.
+Bài viết giới thiệu với các bạn một số khái niệm có liên quan đến lập trình Web. Đó là những khái niệm thường gặp khi làm việc với môi trường mạng và đó cũng là những nét đặc trưng khác biệt mà các bạn ít gặp khi lập trình trên các ứng dụng đơn lẻ.
+1. URL
+URL (Uniform Resource Locator) dùng để chỉ tài nguyên trên Internet. Sức mạnh của web là khả năng tạo ra những liên kết siêu văn bản đến các thông tin liên quan. Những thông tin này có thì là những trang web khác, những hình ảnh, âm thanh... Những liên kết này thường được biểu diễn bầng những chữ màu xanh có gạch dưới được gọi là anchor.
+Các URL có thể được truy xuất thông qua một trình duyệt (Browser) như IE hay Netscape.
+Ví dụ: Một URL có dạng http://www.hcmut.edu.vn/index.html
+Trong đó: http: là giao thức
+http://www.hcmut.edu.vn/ là địa chỉ máy chứa tài nguyên.
+index.html là tên đường dẫn trên máy chứa tài nguyên.
+Nhờ địa chỉ url mà ta có thể từ bất kỳ một máy nào trong mạng Internet truy nhập tới các trang web ở các website khác nhau.
+2.Web Server/mail Server và hoạt động của browser WWW (World Wide Web)
+Hoạt động truy xuất WWW giữa máy khách và web server theo cơ chế sau:
+Server ứng dụng cung cấp dữ liệu mà người sử dụng cần đến hoặc trao đổi. Chỉ những người sử dụng đã đăng ký account mới được cấp web site chứa dữ liệu riêng của mình trên server này, mọi người sử dụng đều có thể truy xuất các URL được phép dùng chung trong server này.
+Trước tiên trình duyệt thực hiện kết nối để nhận được program/server. Browser dùng địa chỉ miền tên như số điện thoại hay địa chỉ để đạt tới server.
+Browser tìm địa chỉ tên miền - thông tin đi ngay sau http:// như trong http://www.hcmut.edu.vn/ ví dụ trên, trong đó http://www.hcmut.edu.vn/ là địa chỉ miền tên (cũng là địa chỉ máy chứa tài nguyên).
+Sau đó browser sẽ gửi request header sau tới miền xác định:
+* Một request header xác định file hay dịch vụ đang được request.
+* Các fields request header, xác định browser.
+* Thông tin đặc biệt thêm vào request.
+* Bất kỳ dữ liệu nào đi cùng với request.
+Tất cả những thông tin đó được gọi là request header HTTP. Chúng xác định đối với server thông tin căn bản mà client đang request và loại đáp ứng có thể được client chấp nhận. Scrver cũng lấy tất cả các header do client gửi tới thông qua biến môi trường (environments variables) để chương trình server xử lý. Server đáp ứng với response header. Header đáp ứng đầu tiên là dòng trạng thái cho client biết kết quả của việc tìm kiếm request url. Nếu trạng thái là thành công (Success) thì nội dung của request url được gửi trả lại client/browser và hiển thị trên màn hình máy tính của client.
+3. HTML và Web page
+Ngôn ngữ siêu văn bản (Hyper Text Markup Language) là một ngôn ngữ dùng để tạo trang web, chứa các trang văn bản và những tag (thẻ) định dạng báo cho web browser biết làm thế nào thông dịch và thể hiện trang web trên màn hình.
+Web page là trang văn bản thô (text only), nhưng về mặt ngữ nghĩa gồm 2 nội dung:
+- Đoạn văn bản cụ thể.
+- Các tag (trường văn bản được viết theo qui định) miêu tả một hành vi nào đó, thường là một mối liên kết (hyperlink) đến trang web khác.
+4. E-mail
+- e-mail (electronic mail - thư điện tử) là hình thức gửi thông điệp (messages) ở dạng điện tử từ máy này sang máy khác trong mạng.
+- Format của một e-mail:
+Dạng format một e-mail cơ bản gồm hai thành phần: header + body:
++ header: chứa các hàng text kiểm soát e-mail.
++ body: nội dung cụ thể của e-mail.
+Phần header gồm các nội dung cụ thể sau:
+To: địa chỉ người nhận e-mail
+Cc: địa chỉ người nhận cộng thêm
+Bcc: địa chỉ những người nhận cộng thêm
+From: thông tin về người gửi e-mail (địa chỉ)
+Sender: địa chỉ người trực tiếp gửi e-mail
+Rcceived: danh sách các Mail- Server trung chuyển
+Return path: đường dẫn ngược trở lại Received
+Date: ngày giờ gửi nhận e-mail
+Reply to: địa chỉ hồi âm
+Message: chỉ số nhận dạng e- mail
+In Reply to: chỉ số nhận dạng e-mail này quay trở lại
+Referece: những chỉ số e-mail tham khảo khác
+Keywords: các keywords chính về nội dung
+Subject: chủ đề chính của e-mail.
+- Để nới rộng thêm ra ngoài văn bản thô người ta thêm vào các field kiểm soát gọi là MIME nới rộng sau:
+Mime-Version: chỉ số version của MIME
+Content-Description: chú thích về nội dung e-mail
+Content-Id: chỉ số duy nhất
+Content-Transfer-Encoding: cách thức mã hóa nội dung e-mail
+Text: Text Only
+Image : ảnh dạng .GIF, .JPEG
+Audio: âm thanh WAVE
+Video: Film Mfeg/chương trình bất kỳ (Octet-stream)
+Application: Post Scripts chương trình dàn trang.
+Chú ý: Các thông tin về phần header của e-mail trình bày ở đây rất cần để xử lý mail.

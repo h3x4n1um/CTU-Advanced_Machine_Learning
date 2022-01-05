@@ -1,0 +1,28 @@
+1. Xây dựng một nền tảng để thay thế các phương thức cổ điển của Web. Tổ chức World Wide Web Consortium (W3C) tạo ra CSS để thay thế các bảng (table), các thẻ font, frame và các dạng "hack" thẻ HTML để tạo hiệu quả cho website Với tôi, CSS mang lại hiệu quả công việc cao hơn. Nhìn cái tag font rối rắm là tôi thấy nản. Coder muốn sửa chữa gì cũng mệt vì sự rối rắm của nó. Trong trường hợp muốn thay đổi về thiết kế của code, bạn lại đụng tới khá nhiều mảng của coder. Còn nếu sử dụng css, việc chỉnh sửa rất đơn giản, không phụ thuộc vào coder.
+2. Tăng tốc độ website.
+Thời gian load một website sẽ nhanh hơn. Dung lượng của một trang web sẽ nhẹ hơn 50% so với cách làm cổ điển.
+Theo cơ sở của DOM thì:
+- Table: web browser phải load cả <table>...</table> thì mới có thể dựng thành DOM tree và hiển thị ra màn hình.
+- Div: chỉ cần load <div>..</div> là đã có thể dựng được DOM tree và hiển thị.
+Như vậy, quá trình hiển thị 1 trang table-less sẽ nhanh hơn 1 trang table. Hơn nữa, cùng 1 cấu trúc nhưng DOM tree của table sẽ lớn và phức tạp hơn của div rất nhiều, điều này cũng ảnh hưởng đến bộ nhớ và tốc độ xử lý của browser.
+Chưa kể, cùng 1 trang nhưng nếu dùng table thì code HTML sẽ lớn hơn dùng div. Code CSS có dùng div có thể sẽ lớn hơn, nhưng CSS được load 1 lần, sau đó được cache trên client.
+
+3.Thời gian phát triển website nhanh hơn
+Thông qua một thao tác về thiết kế: thay đổi CSS, thì hàng ngàn trang web sẽ được thay đổi theo.
+
+4. Typography thể hiện ngầu hơn
+CSS có khả năng kiểm soát mạnh mẽ hơn tag FONT rất nhiều. Chúng ta có thể kiểm soát chiều cao giữa các dòng, thay màu font, các font theo họ - tức là không có font này, sẽ tự chọn font tiếp theo trong danh sách, và nhiều nhiều hơn thế.
+
+5. Dễ viết
+Bạn có thể tạo và thay đổi CSS dễ dàng như khả năng làm code HTML thủ công.
+
+6.Khả năng phát triển.
+Sử dụng CSS hiệu quả sẽ tương tự như sử dụng cấu trúc nội dung với HTML. Với cấu trúc HTML, chúng ta chỉ giữ lại các tag cho đoạn văn, các tag tiêu đề (H1 -> H6), bảng dành cho một số ít bảng biểu đặc biệt, bạn sẽ tăng khả năng đáp ứng lượng khách viếng thăm mà không cần xây dựng một phiên bản độc lập để giảm tải.
+
+7. Thiết kế dành cho in ấn cũng đẹp như dành cho web. CSS hỗ trợ tốt cho một khi bạn cần in ra, chẳng hạn in ấn, hay PowerPoint
+
+8. Dễ kiểm soát thông qua vị trí các thành phần trên web. Việc đánh ID trên từng thẻ DIV, sẽ dễ dàng hơn cho bạn khi cần kiểm soát và hỗ trợ tốt cho Ajax.
+
+9. Các trang web tách biệt phần thiết kế và nội dung. Giữ lại thiết kế trong một file liên kết, bạn có thể tiết kiệm nhiều thời gian khi cần thêm bớt các thành phần của một trang web.
+
+10. Cải thiện vị trí trong các website tìm kiếm. Với cách sử dụng HTML cho phần nội dung mà thôi, bạn đã loại bỏ các tag định dạng phức tạp cho thiết kế. Điều này là cho các website tìm kiếm index (tạo chỉ mục) website của bạn tốt hơn, và sẽ là tăng thứ hạng của website. 

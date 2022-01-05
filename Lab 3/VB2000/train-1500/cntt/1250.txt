@@ -1,0 +1,71 @@
+﻿5. Lập trình CGI
+- CGI (viết tắt của Common Gateway Interface) là một phương pháp cho phép giao tiếp giữa server và chương trình nhờ các định dạng đặc tả thông tin.
+- Lập trình CGI cho phép viết chương trình nhận lệnh khởi đầu từ trang web, trang web dùng định dạng HTML để khởi tạo chương trình. Định dạng HTML trở thành phương pháp được chọn để gửi dữ liệu qua mạng vì dễ thiết lập một giao diện người sử dụng HTML định dạng và thẻ Input.
+- Chương trình CGI chạy dưới biến môi trường duy nhất. Khi WWW khởi tạo chương trình CGI nó tạo ra một số thông tin đặc biệt cho chương trình và đáp ứng trở lại từ chương trình CGI. Trước khi chương trình CGI được khởi tạo, server WWW đã tạo ra một môi trường xử lý đặc biệt, môi trường này chứa các dữ liệu từ HTTP request header truyền đến. Sau đó server xác định loại file chương trình cần thực thi.
+- Nói tóm lại lập trình CGI là viết chương trình nhận và truyền dữ liệu qua Internet tới WWW server. Chương trình CGI sử dụng dữ liệu đó và gửi đáp ứng HTML trở lại máy khách.
+- Vai trò của HTML rất quan trọng trong lập trình CGI. Chương trình CGI được gọi qua một tag định dạng HTML chẳng hạn:
+<a href=''index.cgi''Mục lục</a>
+trong thông qua tag <a> ..</a> chương trình index.cgi sẽ được thực hiện.
+- Dùng thuộc tính HTML định dạng method:
+Formtag bắt đầu với một thuộc tính Method để báo cho browser biết cách thức mã hoá dữ liệu và nơi đặt dữ liệu chuyển tới server, nó được dùng để định nghĩa phần gì của file HTML được sử dụng cho người sử dụng input.
+Cú pháp: <form method=[post/get] action=''URL'' enctype=..>
+Thêm vào input tag cho định dạng HTML này ta được một active form:
+<input type=''Submit''>
+- Input tag:
+Có thể tạo input text, radio buttons, check boxes và một số loại khác.
+Cú pháp: <Input type=[text/radio...] value=''...'' size=''...'' maxlength=...>
+- Submit button:
+Với tag _<input type=''submit''...> dùng để kích khởi gửi dữ liệu.
+CGI và tag FORM trong HTML phối hợp với nhau tạo ra submit button dùng để kích hoạt chương trình CGI trên server cùng với các phương pháp.
+- Method GET và POST:
+Có 2 cách thức cho phép dữ liệu được chuyển tới chương trình CGI trên server.
+GET gửi dữ liệu với mã URI header (Uniform Resource Identifier), dùng với HTML định dạng tag ở dạng sau:
+<Form method=''get'' action=''A CGI program''
+Mã hoá URI dữ liệu và bất kỳ thông tin đường dẫn nào đều được đặt vào biến môi trường Querystring và path-info.
+POST cũng mã hoá dữ liệu URI, tuy nhiên nó gửi dữ liệu sau khi tất cả các request header đã được gửi tới server. Phương án GET chuyển chuỗi mã hoá URI qua biến môi trường Querystring, còn method Post chuyển dữ liệu này qua STDIN.
+Kích thước dữ liệu theo phương án GET bị hạn chế bởi không gian biến môi trường được sử dụng trong khi đó POST không bị giới hạn về kích thước lượng thông tin gửi đi.
+Để xác định phương pháp nào được sử dụng, chương trình CGI kiểm tra biến Requestmethod, nếu là POST thì dữ liệu mã hoá sẽ được lưu vào biến Content-length.
+Hàm ReadParse sau sẽ giải quyết vấn đề decoding dữ liệu (hàm này nằm trong hàm thư viện mở cgi-lib.pl).
+- ứng dụng của lập trình CGI:
+Chương trình CGI có thể hiện thực trên nhiều platform cho nhiều ứng dụng khác nhau như:
++ Tạo form, xử lý định dạng.
++ Tạo các đối tượng động trên một trang web.
++ Xử lý imagemaps.
++ Tìm kiếm trên web.
++ Tạo các tài liệu độc lập với platform.
++ Tạo các ứng dụng như: chat rooms, voting booths hay bất cứ kiểu giao tiếp nào (Interactive).
++ Phát sinh động và update các trang web đó.
+- Tạo tài liệu theo đặc tả cho mỗi người sử dụng.
+- Hạn chế của lập trình CGI:
+Thường không dùng CGI cho các vấn đề:
++ Tạo các multi-player games.
++ Tạo stock ticket được update qua trang web.
++ Tạo stock ticket được update qua trang web.
++ Tạo các ứng dụng thời gian thực nhúng trong trang web.
+Nói chung, nếu các tài liệu không thay đổi sau khi nó được phát sinh thì thay cho dùng CGI, ta cần dùng ActiveScripts Và Java.
+- Cơ chế hoạt động của CGI:
++ Browser của máy khách chuyển encode dữ liệu input đối với web server.
++ Server chuyển input tới chương trình CGI trên server.
++ CGI xử lý input, chuyển nó tới ứng dụng khác (nếu cần) rồi gửi output cho web server.
++ Webserver gửi output do CGI đã xử lý cho browser của máy khách và thể hiện kết quả trên trang web.
+6. PERL - ngôn ngữ lập trình cho CGI
+- Có thể dùng nhiều ngôn ngữ lập trình khác nhau trên CGI:
+Bourne shell; C shell; C/C++; Perl; Python; Visual basic; JavaScripts.
+- Ngôn ngữ lập trình PERL (viết tắt của Practical Extraction and Report Languages) do Larry Wall xây dựng được dùng là một công cụ lập trình trên web vì Perl có nhiều ưu điểm:
++ Perl có sức mạnh và sự linh hoạt của ngôn ngữ lập trình cấp cao C.
++ Giống như các ngôn ngữ shell scripts, Perl không đòi hỏi biên dịch và link mã nguồn, thay vào đó chỉ cần gọi Perl thực thi chương trình đó.
++ Chạy được trên nhiều platfrom: UNIX, DOS, WINDOWS.
++ Perl chuyên về xử lý text, có nhiều hàm build-in, thích hợp với xử lý trang web trong thế giới WWW.
+Ngoài ra Perl còn rất nhiều điểm mạnh như của các ngôn ngữ lập trình khác.
+7. SQUID và WEBMIN
+SQUID:
+Squid là một proxy caching server cao cấp cho web máy khách, trợ giúp FTP, gopher, HTTP dữ liệu objects. Không giống như các caching software khác, Squid xử lý mọi request bằng quá trình đơn, non-blocking.
+Squit chứa chương trình server chính là squid, một chương trình tìm kiếm hệ thống tên miền dnsserver (DNS - Domain Name System), một số chương trình và công cụ quản lý máy khách khác.
+WEBMIN:
+Webmin là một phần mềm quản trị trên UNIX thông qua web. Webmin có cấu trúc module mở và được cài đặt trên máy có cấu hình thấp, biến nó thành miniserver rất hữu dụng.
+Webmin phát hành phiên bản đầu tiên (ver 0.1) ngày 05/10/1997 và phiên bản được sử dụng ở đây là ver 0.72.
+Webmin được thiết kế cho phép dễ dàng thêm vào các module mới mà không làm thay đổi bất kỳ mã nguồn nào đã có.
+8. Web Server Log Files và thông tin về người sử dụng dịch vụ web
+Để quản lý các khách hàng trong dịch vụ của mình, người quản trị cần biết các thông tin về người sử dụng đã sử dụng các dịch vụ Internet thế nào: Số lần request, khối lượng, loại dịch vụ (HTTP, Email), thời gian sử dụng bao lâu và nhiều thông tin liên quan khác. Lấy các thông tin này từ đâu và xử lý nó thế nào? WWW server sẽ ghi lại thông tin về request của người sử dụng đó vào một file gọi là log file. Chẳng hạn như ta muốn tìm các thông tin về những người tới site của mình, dịch vụ HTTP (Hyper Text Transfer Protocol) cho phép giao tiếp giữa browser và web server qua một loạt các kết nối rời rạc để lấy text trên web page và thể hiện chúng, mỗi một lần request được thực hiện thì một bản ghi cho lần request đó được ghi vào một file log. Các request về web được http ghi vào file access_log còn e-mail được ghi vào file syslog trên UNIX.
+Tuỳ thuộc vào từng loại mạng và server mà cấu trúc file log có thể khác nhau ở một vài điểm nhưng nhìn chung thông tin ghi lại đều phản ánh tên người sử dụng, ngày giờ sử dụng dịch vụ, khối lượng request và nhiều thông tin khác.
+Dựa vào các fields của file log này người quản trị có thể thực hiện các thao tác monitor để quản lý khách hàng của mình.

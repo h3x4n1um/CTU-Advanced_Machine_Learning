@@ -1,0 +1,4 @@
+ Hôm 17/11/2010, Google đã công bố người dùng Google Docs sẽ có thể chỉnh sửa tài liệu xử lý văn bản từ các thiết bị di động Android và Apple iOS.
+Tính năng hiệu chỉnh mới này sẽ được tung ra trong thời gian tới, dành cho người dùng ngôn ngữ tiếng Anh trên các thiết bị chạy HĐH Android 2.2 và phiên bản 3.0, cũng như các phiên bản mới của HĐH iOS, trong đó có cả máy tính bảng iPad.
+Google Docs hiện đã cho phép người dùng chỉnh sửa các tài liệu bảng biểu, nhưng không cho phép sửa các tập tin trình chiếu. Theo một phát ngôn viên của Google, hãng này cũng đang cân nhắc mở rộng khả năng chỉnh sửa trên thiết bị di động cho các định dạng tài liệu khác trên Docs trong tương lai.
+Google Docs hiện là một dịch vụ riêng và cũng là một phần trong gói tiện ích Google Apps, hỗ trợ người dùng làm việc cộng tác và giao tiếp, gồm có Gmail, Calendar, Sites và các ứng dụng khác.

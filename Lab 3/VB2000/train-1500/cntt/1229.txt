@@ -1,0 +1,16 @@
+﻿ Chương trình Network Magic sẽ vẽ ra một bản đồ tất cả các thiết bị đang hiện diện trên hệ thống mạng của bạn bao gồm máy tính, máy chủ, máy in và các thiết bị khác. Nhờ vậy bạn có thể dễ dàng xác định kẻ "ẩn danh" để có phương án thích hợp bảo vệ cho đường truyền của mình.
+Thiết lập các cài đặt
+Sau khi cài đặt hoàn tất, bạn bắt đầu cài đặt cho Network Magic. Mục đầu tiên, sau khi chương trình dò được Rounter trên hệ thống của bạn, hãy đánh dấu chọn Continue Without Entering Username and Password. Nhấn Next để qua bước tiếp theo. Bước này, bạn hãy điền email của bạn để chương trình có thể gởi cảnh báo cho bạn.
+Bạn nhấn Next để qua bước cuối cùng và nhấn Finish.
+Bạn chạy tập tin Patch1 và chọn tập tin nmmagic.exe. Nhấn Patch. Tiếp theo, bạn chạy tập tin Patch2 và chọn tập tin nmapplb.dll. Quá trình Patch thành công thì bạn có thể sử dụng chương trình lâu dài.
+Quản lý tài nguyên chia sẻ toàn mạng
+Khi tham gia mạng không dây, nguy cơ rò rỉ dữ liệu sẽ rất cao. Vì thế, bạn có thể quản lý tài nguyên chia sẻ thông qua mục Shared Folders. Khi đó, mọi tài nguyên chia sẻ có thể sẽ được hiện diện. Để quản lý, bạn toàn quyền quyết định chấm dứt chia sẻ hoặc sử dụng chức năng convert (thông qua menu phải chuột) để chuyển qua việc sử dụng Network Magic để chia sẻ theo cơ chế bảo mật của chương trình và chia sẻ trực tiếp thông qua cài đặt Net2go. Cài đặt này bạn cần tham khảo thêm hướng dẫn cho từng loại modem cụ thể.
+Chia sẻ bảo mật thư mục
+Từ một thư mục bất kỳ trong máy tính, bạn click phải, chọn Add to Network Magic Folder. Khi đó, bạn có thể chia sẻ cho toàn mạng thông qua bảo mật bằng mật khẩu với tiện ích Net2go. Tương tự như thế, bạn cũng có thể dừng chia sẻ đối với bất kỳ tài nguyên mạng thông qua lựa chọn Stop Sharing This Folder.
+Cảnh báo đối với các “vị khách” không mời
+Tại thẻ Network Map, bạn sẽ thấy toàn bộ danh sách các thiết bị kết nối trong mạng của mình. Bạn chọn Tools -> Options. Sau đó, chọn vào tab “Notifications” và đánh dấu chọn mục “A new device joins the network”. Ngoài ra, các mục chọn khác bạn cũng nên chọn hết ngoại trừ mục cuối.
+Việc cuối cùng là nhấn vào tab “Security” và đánh dấu chọn “Automatically track new devices as Intruders” để theo dõi từng cử chỉ hành động của kẻ xâm nhập. Điều này rất hữu hiệu trong trường hợp việc xâm nhập xảy ra trong lúc bạn rời khỏi bàn làm việc.
+Khi phát hiện những vị khách có “hành động quá khích” như sử dụng quá nhiều băng thông đường truyền, lục lọi lung tung trong toàn bộ tài liệu chia sẻ trên mạng thì bạn có thể sử dụng chức năng Wireless Protection để gởi cảnh báo toàn mạng và bảo mật cho mạng của mình. Lưu ý, để sử dụng chức năng này, bạn cần có tài khoản của Rounter để có thể thiết lập. Chương trình sẽ hỗ trợ cho bạn bảo mật thông qua WEP và WPA, hoặc giới hạn băng thông thông qua địa chỉ Mac, thay đổi SSID… Thiết lập tùy vào từng loại modem cụ thể và bạn có thể tham khảo thêm qua manual của modem hoặc ISP.
+Chức năng kiểm tra đường truyền
+Từ khung chính của chương trình, bạn có thể chọn vào Test Internet Connection để kiểm tra băng thông đường truyền thực tế sử dụng. 
+Bạn cần chọn một Server bất kỳ để Network Magic có thể kiểm tra chính xác và cho bạn thông số đúng với thực tế. Network Magic dung lượng 9MB. Bạn có thể download phần mềm dùng thử tại địa chỉ: http://www.thongtincongnghe.com/software/184

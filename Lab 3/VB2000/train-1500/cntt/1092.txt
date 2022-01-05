@@ -1,0 +1,18 @@
+﻿Khi ổ cứng trong hệ thống có dấu hiệu sắp ra đi, công việc ngay lúc này của bạn chính là những bước xử lý trước khi nói lời tạm biệt với đĩa cứng và dữ liệu của mình.
+Kiểm tra Boot Record.
+Nếu máy tính của bạn khởi động lên nhưng hệ điều hành không tải được thì một đĩa cứng hư không phải luôn luôn là thủ phạm dẫn đến điều này.
+Mọi dữ liệu của bạn vẫn có thể còn có trong đĩa cứng, nhưng Master Boot Record – đoạn mã nằm ở sector đầu tiên của đĩa cứng quản lý việc chọn partition để khởi động cũng như lưu cấu trúc các partition của đĩa cứng – có thể đã bị hư hỏng hoặc thay đổi do một số nguồn không rõ.
+Trừ khi bạn nghe một số âm thanh phát ra không bình thường từ đĩa cứng có thể do bị hư thành phần vật lý, còn không bạn có thể thử qua công cụ Startup Repair được tích hợp sẵn trên đĩa cài đặt của Windows. 
+Startup Repair là tiện ích có thể vá lại tất cả các vấn đề về khởi động cũng như các tập tin phục vụ việc khởi động, và thậm chí nó khởi chạy một ứng dụng sửa chữa việc cài đặt, điều này sẽ giúp các thiệt hại với ổ cứng ít hơn.
+Khởi chạy một ứng dụng quét kiểm tra.
+Nếu truy cập các tập tin trở nên khó khăn cũng như sự ổn định của hệ thống là rất kém thì đó có thể là một vấn đề cần lưu ý. Lúc này, bạn cần sử dụng một ứng dụng quét kiểm tra tình trạng sức khỏe của ổ đĩa cứng nếu như nghi ngờ ổ đĩa có vấn đề. Những ứng dụng kiểm tra sẽ quét theo thứ tự các phân vùng của đĩa cứng, và nó cũng có thể kiểm tra nhiều ổ đĩa cứng khác nhau trên cùng một hệ thống.
+Windows tích hợp sẵn bên trong ứng dụng có tên Check Disk  cho phép kiểm tra hoạt động của đĩa cứng với mục đích tìm ra vấn đề trục trặc. Bạn có thể khởi chạy ứng dụng này từ dòng lệnh hoặc chuyển nó đến một giao diện đồ họa người dùng. Và nếu muốn sử dụng một tiện ích thứ ba thì Windows Surface Scanner, tải về tại đây, sẽ là một ứng dụng tuyệt vời có khả năng quét bề mặt của ổ đĩa cứng.
+Sử dụng tính năng SMART (Self-Monitoring, Analysis, và Reporting Technology).
+May mắn thay là hầu hết các ổ cứng hiện nay được trang bị một tính năng có tên SMART, có thể tự chẩn đoán khả năng tích hợp, liên tục theo dõi sức khỏe ổ đĩa cứng. Để kiểm tra trạng thái SMART của ổ đĩa cho bất kỳ lỗi tiềm năng nào, một chương trình như HDTune sẽ giúp bạn.
+HDTune là một ứng dụng cung cấp hoàn toàn miễn phí, bạn có thể vào đây để tải phần mềm về máy. Phần mềm có chức năng tận dụng tính năng SMART của đĩa cứng hiện đại để đưa ra các thông số cần thiết chẩn đoán lỗi của bạn.
+Bạn có thể xem thông tin các thành phần tiêu chuẩn của đĩa cứng như: nhiệt độ, thời gian khởi động, khả năng đọc/ghi dữ liệu. Qua các con số này, tính toàn vẹn và độ tin cậy có thể giúp bạn phần nào đoán được trạng thái sức khỏe hiện tại của đĩa cứng.
+Phục hồi những tập tin bị thiếu.
+Đôi khi chỉ đơn giản là ổ đĩa thiếu những tập tin hệ thống cũng có thể khiến bạn hiểu lầm là nó đã hư. Lúc này bạn có thể tiến hành sử dụng một hệ thống khác kết nối với ổ đĩa nghi ngờ hư và sử dụng một phần mềm khôi phục những tập tin có trong ổ đĩa cứng có thể sẽ giúp tiến hành khởi động ổ đĩa lại một cách dễ dàng.
+Một trong những tiện ích có khả năng phục hồi những tập tin tốt nhất là Recuva hoạt động trên nền Windows, nó có thể tìm và thu hồi lại các file đã xóa, ngay cả khi ổ đĩa của bạn không còn được nhận diện trên hệ thống.
+Recuva là một tiện ích được cung cấp hoàn toàn miễn phí cho người dùng Windows, bạn có thể truy cập vào đây để tải phần mềm này về và sử dụng.
+Chương trình có một giao diện trực quan sẽ giúp bạn phục hồi các tập tin, khi quét sâu hơn sẽ tìm kiếm các tập tin cũ đã bị xóa hoặc bị ghi đè. Không có gì đảm bảo bạn sẽ nhận được tất cả mọi thứ trở lại nhưng Recuva vẫn là một tiện ích có tiềm năng lớn trong việc phục hồi dữ liệu trên đĩa cứng.

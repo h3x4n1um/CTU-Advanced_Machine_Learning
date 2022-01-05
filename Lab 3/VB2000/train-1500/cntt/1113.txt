@@ -1,0 +1,12 @@
+﻿Trên thực tế, vì nhiều nguyên nhân khác nhau mà kết nối mạng di động băng rộng không bao giờ đạt được đến tốc độ như các nhà mạng quảng cáo. Vì vậy, bài viết sẽ cung cấp cho độc giả 5 cách đơn giản để cải thiện đáng kể tốc độ kết nối 3G. 
+1. Sử dụng thêm cáp USB
+Không nên cắm trực tiếp USB 3G vào laptop mà nên sử dụng thêm cáp USB (hiện có bán trên thị trường). Điều này không chỉ giảm tác động nhiễu điện từ từ máy PC (chẳng hạn như sóng vô tuyến Wi-Fi) mà còn mang đến sự linh hoạt về vị trí của USB 3G để bắt sóng mạnh nhất. Chẳng hạn như, đơn giản chỉ cần thay đổi hướng của USB 3G có thể tăng cường độ tín hiệu và có khả năng bổ sung thêm băng thông kết nối.
+2. Mua một modem mở
+Các modem có thể rẻ hơn khi bạn mua chúng từ một nhà mạng di động cụ thể nào đó nhưng như thế, người dùng sẽ phải bó buộc với nhà mạng này. Tuy nhiên, người dùng nên cân nhắc mua một modem mở khóa và chọn các thẻ SIM trả trước. Khi đó, người dùng có thể sử dụng được mạng 3G của nhiều nhà mạng khác nhau. Ở từng vị trí, khu vực, người dùng có thể thay thẻ SIM của các nhà mạng khác nhau để đạt được tốc độ truy cập Internet qua mạng 3G nhanh nhất.
+3. Chuyển sang OpenDNS
+Máy chủ DNS được các mạng di động băng rộng sử dụng không phải lúc nào cũng hoàn hảo. Vì vậy, khi nhận thấy sự chậm trễ trong việc tải các trang web dù tín hiệu sóng 3G rất mạnh thì người dùng nên chuyển sang OpenDNS. OpenDNS là 1 dịch vụ hoàn toàn miễn phí hoạt động cho tất cả các mạng.
+4. ĐTDĐ cũng là giải pháp thay thế
+Đôi khi không phải vị trí nào trong một gian nhà cũng đầy ắp sóng 3G. Đối với những lúc sóng yếu, người dùng nên sử dụng smartphone thay cho USB 3G kết nối với máy tính. Vì khi đó, người dùng có thể đặt điện thoại ở cửa sổ, nơi mà có khả năng bắt sóng tốt hơn và không phải di chuyển đồ đạc xung quanh để di chuyển bàn máy tính tới gần cửa sổ.
+Ngoài ra, cũng nên cân nhắc mua một bộ định tuyến Wi-Fi di động. Hiện trên thị trường có bán các bộ định tuyến Wi-Fi 3G khá tốt, cho phép người dùng cắm vào USB 3G và phát tín hiệu 3G ra các phòng khác trong nhà cũng như chia sẻ kết nối giữa các thiết bị/máy tính.
+5. Thay đổi gói cước
+Các mạng di động thường có các chính sách khác nhau đối với các khách hàng trả trước và trả sau. Vì vậy, người tiêu dùng nên tìm hiểu và nắm bắt các chương trình khuyến mại để thay đổi gói cước có lợi nhất cả về tốc độ và giá cả.

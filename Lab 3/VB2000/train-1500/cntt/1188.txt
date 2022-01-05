@@ -1,0 +1,11 @@
+﻿ Có khá nhiều loại virus lây lan qua USB mà trình antivirus đang cài sẵn trong máy của bạn phải “bó tay”. Khi ấy bạn cần đến sự tương trợ của Smart Virus Remover được thiết kế để loại trừ 50 loại virus USB cứng đầu nhất.
+ 50 virus và trojan thường ẩn náu trên USB mà Smart Virus Remover có thể hạ gục nhanh, tiêu diệt gọn như: Im.worm.win32.sohanad.bm.a,Trojan.Win32.Agent.abt.a, Trojan-Downloader.Win32.AutoIt.aa.a, Virus.Win32.AutoRun.ajn.com, Trojan Dropper, SetupSNK, VirusSe (SE.exe), AntiVirus 2009… cùng nhiều loại khác.
+Bên cạnh đó, Smart Virus Remover còn giúp bạn dễ dàng loại bỏ tập tin tự kích hoạt trên USB autorun.inf  mà virus cài vào, khóa cổng USB, chống ghi dữ liệu vào USB, khôi phục một số thiết lập hoặc chức năng của Windows bị virus khóa.
+Sau khi cài đặt và kích hoạt, biểu tượng Smart Virus Remover  sẽ xuất hiện trên khay hệ thống để thực hiện sứ mệnh phát hiện và loại bỏ 50 loại virus USB nêu trên. Bấm phải chuột vào biểu tượng này, menu xổ ra gồm ba lệnh đáng chú ý:
+Disable USB Devices: vô hiệu tất cả thiết bị kết nối với máy tính qua cổng USB. Khi muốn cho sử dụng cổng USB trở lại, bạn chọn Enable USB Devices trên menu lệnh.
+Enable USB Write Protect: chống chép dữ liệu vào ổ USB. Nếu muốn cho chép dữ liệu vào USB, bạn rút USB hiện hành ra khỏi máy tính rồi chọn Disable USB Write Protect trên menu lệnh.
+Launch Smart Virus Remover: mở giao diện tương tác của Smart Virus Remover. Tại đây bạn sẽ thấy bốn nút lệnh:
+Delete Autorun.inf files: xóa những file autorun.inf do virus tạo ra trên USB.
+Restore Windows Default Settings: khôi phục tám tính năng hay thiết lập bị virus khóa hoặc ẩn đi như Task Manager, Registry Editor, Command Prompt, hộp Run, hộp thoại Folder Options, thiết lập chung cho tất cả thư mục, Search bằng cách đánh dấu tùy chọn Enable… tương ứng rồi bấm Apply > OK > OK để thực hiện. Có thể bạn sẽ được yêu cầu khởi động lại máy để thay đổi có tác dụng.
+Remove Virus from a Folder: truy tìm và loại bỏ virus khỏi thư mục do bạn chỉ định, trong trường hợp một trong 50 loại virus nêu trên lây lan từ USB sang thư mục trên ổ cứng.
+Remove Virus From USB: tìm diệt 50 loại virus đã nêu trên USB. 

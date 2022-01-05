@@ -1,0 +1,6 @@
+﻿ Một trong những điều phiền toái nhất khi thiết lập các mạng không dây là bạn phải nhớ và nhập chính xác các khóa bảo mật mạng mỗi khi cần kết nối. Windows 7 có công cụ cho phép bạn dễ dàng export các thiết lập mạng không dây từ một máy tính và đem nó sử dụng trên một máy tính khác.
+Các thiết lập này sẽ được lưu trữ trên một ổ USB và qua đó bạn có thể import nó lên một laptop hay netbook đang chạy hệ điều hành Windows XP, Vista hoặc Windows 7.
+Lưu lại các thiết lập mạng không dây
+Trước tiên, bạn hãy mở phần Network and Sharing Center bằng cách kích vào biểu tượng mạng không dây trên thanh Taskbar và chọn Open Network and Sharing Center. Hoặc có một cách khác là bạn vào Control Panel -> Network and Internet -> Network and Sharing Center.
+Các thiết lập sẽ được import vào máy trong khoảng vài giây và khi quá trình này hoàn thành bạn sẽ nhận được thông báo như hình dưới, kích OK để bắt đầu sử dụng mạng không dây đã thiết lập (nếu bạn đang ở trong vòng phủ sóng của mạng).
+Thủ thuật này thực sự hữu ích khi bạn cần chia sẻ một mạng chung với nhiều máy tính. Thay vì phải nhập vào chính xác một chuỗi từ khóa dài thì bạn chỉ việc cắm USB vào máy và chạy file thiết lập. Nhưng có một lưu ý là USB này cũng cần được sử dụng một cách an toàn tránh trường hợp bất kỳ người nào cũng có thể vào được mạng nội bộ của bạn.

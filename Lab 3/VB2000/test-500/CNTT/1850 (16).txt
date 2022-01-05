@@ -1,0 +1,6 @@
+MacBook Air đánh bại loạt netbook chạy Windows 7
+Website công nghệ nổi tiếng PC World công bố kết quả thử nghiệm tốc độ máy tính xách tay mới của Apple với 14 sản phẩm siêu mỏng và nhẹ, cùng kích cỡ của các hãng khác.
+PC World đã cài đặt hệ điều hành Windows 7 của Microsoft vào trong 2 mẫu Macbook Air và sử dụng phần mềm WorldBench 6 cùng các trò chơi Call of Duty 4 và DiRT 2 để đo tốc độ.
+Bảng so sánh hiệu năng giữa MacBook Air và các đối thủ.
+Với ứng dụng WorldBench 6, MacBook Air cỡ 11,6 inch (giá 1.200 USD) cho số điểm lên đến 74, cao hơn nhiều so với các mẫu netbook khác chỉ đạt cao nhất 55. Khi chơi game, máy tính xách tay của Apple cũng vượt trội so với đối thủ nhờ tích hợp card đồ họa Nvidia 320M. Tuy nhiên, các mẫu netbook lại cho thời gian sử dụng pin lâu hơn từ 6,5 đến 10 giờ, trong khi MacBook Air vỏn vẹn 4 tiếng.
+Đối với model cỡ 13,3 inch (giá 1.300 USD) cũng cho hiệu năng cao hơn so với các sản phẩm khác và chỉ chịu thua model Asus U33jc (giá 1.000 USD)

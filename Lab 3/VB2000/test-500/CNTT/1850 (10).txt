@@ -1,0 +1,5 @@
+Ổ cứng SATA đạt dung lượng 'khủng' 3 TB
+Western Digital vừa cho ra mắt ổ lưu trữ dạng cơ (HDD) Caviar Green cắm trong với dung lượng 3.000 GB đầu tiên, cho phép lưu 600.000 bức ảnh số, 750.000 bài hát MP3 hay 360 giờ video Full HD.
+Sản phẩm sử dụng bộ nhớ đệm 64 MB, giao tiếp SATA 3.0 GB/giây và có giá 240 USD.Western Digital còn giới thiệu thêm HDD dung lượng 2,5 TB với mức giá rẻ hơn 50 USD.
+Tuy nhiên, các máy tính chạy hệ điều hành Windows XP hiện nay không thể nhận HDD dung lượng vượt quá 2,2 TB. Vì vậy, Western Digital phải bán kèm với cổng kết nối mang tên "Host Bus Adapter" cho phép nhận đầy đủ dung lượng ổ cứng.
+Vào cuối tháng 6/2010, hãng sản xuất ổ cứng hàng đầu thế giới Seagate cũng xuất xưởng ổ cứng FreeAgent GoFlex dung lượng 3 TB đầu tiên nhưng đây là sản phẩm di động và kết nối với máy tính thông qua giao tiếp USB. 

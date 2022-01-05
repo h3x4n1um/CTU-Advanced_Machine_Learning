@@ -1,0 +1,23 @@
+﻿Tiếp nối những hiểm họa an ninh thường gặp đối với người dùng máy tính, nhất là khi sử dụng trong môi trường mạng. Một số giải pháp và cảnh báo sau sẽ thật sự hữu ích cho bạn. 7. Tránh nguy cơ mất thiết bị, lộ dữ liệu.
+Các thiết bị xách tay như laptop hay điện thoại di động rất tiện dụng nhưng đôi khi có thể làm bạn khốn khổ nếu lỡ bị mất hoặc có kẻ đánh cắp, vì thông thường bạn sẽ coi như mất sạch toàn bộ dữ liệu đã nhọc công tìm kiếm. Nguy hiểm hơn, những thông tin nhạy cảm có thể bị lọt vào tay người xấu.
+Mã hóa dữ liệu: Để tự bảo vệ mình, bạn hãy sử dụng công cụ mã hóa dữ liệu mang tên BitLocker của Microsoft (chỉ hỗ trợ Vista và Windows 7) hoặc TrueCrypt (miễn phí, mã mở) để bảo vệ dữ liệu của mình trước nguy cơ bị truy cập trái phép.
+Sử dụng mật khẩu đủ mạnh: Kèm với phương án mã hóa dữ liệu, bạn hãy sử dụng mật khẩu đủ mạnh để tăng cường an ninh. Mật khẩu càng dài càng tốt, kèm theo ký tự lạ càng an toàn. Ngay cả khi trên máy có một tài khoản người dùng, bạn vẫn nên tạo mật khẩu đăng nhập. Tuy nhiên, cần ghi nhớ mật khẩu đã tạo để tránh tình trạng quên luôn mật khẩu sử dụng.
+Khóa BIOS: Khi khóa BIOS hay ổ đĩa cứng bằng mật khẩu (hoặc cả hai), bạn có thể đảm bảo rằng không ai có thể khởi động máy tính của mình. Có nhiều cách truy cập vào BIOS khác nhau, tùy vào từng nhà sản xuất, có thể phải nhấn một trong số các nút Del, Esc, F10…
+Mỗi nhà sản xuất PC có phương án thiết kế riêng, nhưng nhìn chung việc thêm mật khẩu cài đặt BIOS là tương đối giống nhau, có thể nằm trong mục administrator pass-word hay supervisor password. Nếu muốn, bạn cũng có thể đặt mật khẩu ổ đĩa cứng để tránh người lạ truy xuất, trừ khi đã cung cấp mật khẩu chính xác.
+Trong trường hợp bạn lo lắng dữ liệu cá nhân trên trình duyệt, bạn có thể nhờ vào tiện ích FireFound, một phụ kiện của Firefox. Công cụ này có thể tự động xóa mật khẩu, lịch sử duyệt web, cookies trình duyệt.
+8. Cảnh giác trước các điểm truy cập Wi-Fi miễn phí
+Mạng Wi-Fi dường như có mặt ở khắp nơi. Tuy nhiên, lợi dụng sơ hở của người dùng, tin tặc có thể thiết lập một mạng Wi-Fi mở, chứa mã độc để tấn công khi người dùng truy cập. Hãy tự bảo vệ mình trước nguy cơ này.
+Xác thực tên của mạng Wi-Fi: Nếu bạn muốn kết nối tới mạng không dây tại quán cà phê hay ở nơi công cộng, điều đầu tiên hãy tìm SSID của mạng. SSID là tên mạng không dây, sẽ giúp bạn đoán định liệu tín hiệu không dây bạn kết nối có “chính chủ” hay không.
+Khi nghi ngờ, hãy dừng kết nối. Vì không được mã hóa đương nhiên máy tính của bạn sẽ không được bảo vệ. Dữ liệu của bạn vì thế có thể bị bốc hơi trừ khi bạn có một kết nối an toàn như VPN - mạng riêng ảo. Hạn chế truy cập mạng từ các điểm phát tín hiệu không dây lạ.
+9. Tăng cường an ninh mạng Wi-Fi gia đình
+Ngay cả khi sử dụng mật khẩu để ngăn người lạ truy cập mạng Wi-Fi, bạn vẫn chưa thể đảm bảo an toàn cho hệ thống mạng.
+Sử dụng phương án mã hóa mạnh mẽ hơn: Hiện có khá nhiều giải pháp mã hóa mạng Wi-Fi. WEP (Wired Equivalent Privacy) được sử dụng rộng rãi nhất. Tuy nhiên, WPA hay WPA2 mới là những giải pháp an toàn hơn.
+WEP có thể bị bẻ khóa dễ dàng, mặc dù đủ khiến kẻ tấn công “đau đầu”. Để an toàn, bạn nên lựa chọn WPA (Wi-Fi Protected Access) hoặc WPA2. Hai giải pháp này khắc phục điểm yếu của WEP, cung cấp phương án bảo mật mạnh mẽ hơn.
+Bạn chỉ cần đăng nhập vào vùng cấu hình router, khởi động chế độ bảo mật WPA hay WPA2, nhập mật khẩu sau đó khởi động lại thiết bị.
+10. Bảo vệ dữ liệu sao lưu
+Khi sao lưu dữ liệu, bạn sẽ phải đối mặt với nguy cơ mới… đó là khả năng bị mất, bị đánh cắp ổ đĩa cứng, CD hay DVD. Bạn nên chọn giải pháp sao lưu trực tuyến hoặc thiết lập chế độ mã hóa dữ liệu sao lưu.
+Mã hóa dữ liệu sao lưu: Hãy chắc chắn rằng tiện ích hỗ trợ sao lưu cho phép bạn thiết lập chế độ mã hóa để bảo vệ thông tin. Nếu cẩn trọng hơn, bạn có thể sử dụng các ổ đĩa USB chuyên dụng hỗ trợ sẵn công cụ mã hóa.
+Sử dụng dịch vụ sao lưu trực tuyến: SkyDrive, Mozy.com hay Dropbox.com là những giải pháp sao lưu dữ liệu hàng đầu hiện nay. Tuy nhiên, công việc sao lưu trực tuyến đòi hỏi công sức, thời gian. Với một khoản phí nhỏ, bạn có thể tận hưởng các tính năng sao lưu cao cấp như tự động đồng bộ, kho lưu trữ lớn của Mozy.com và Dropbox.com
+11. “Đối mặt” với phần mềm dính lỗi chưa được vá
+Các sản phẩm của Microsoft luôn là đích ngắm của tin tặc nhưng không phải lúc nào nhà sản xuất cũng có thể ngay lập tức vá được lỗi mới phát hiện. Ngày nay, các phần mềm thứ ba như Adobe Flash, Firefox… cũng trở thành mục tiêu của hacker, khi thông qua các công cụ này kẻ tấn công có thể "luồn lách" vào hệ thống của người dùng.
+Để tự phòng vệ, bạn nên sẵn sàng với hai công cụ tường lửa và trình diệt virus. Có một cách dễ dàng hơn là bạn hãy luôn chắc chắn rằng hệ thống đã được cập nhật lên các bản mới nhất.

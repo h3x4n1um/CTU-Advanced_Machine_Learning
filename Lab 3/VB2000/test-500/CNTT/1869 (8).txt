@@ -1,0 +1,19 @@
+Khi nói đến Trojan, nghĩa là chúng ta đang đề cập đến 1 loại chương trình máy tính vô cùng độc hại và nguy hiểm, có thể ngăn chặn, chỉnh sửa, sao lưu hoặc xóa bỏ toàn bộ dữ liệu của người dùng, nguyên nhân chính khiến máy tính bị chậm hoặc treo thường xuyên.
+Những hoạt động đầu tiên của chúng bị phát hiện vào ngày 15/09/2010, sau đó được đưa vào nghiên cứu và phân tích cùng ngày. Cho đến 22/10/2010 thì thông tin chính thức của chúng được công bố rộng rãi. Về cơ bản, đây là 1 loại mã độc với nhiều phương thức payload phức tạp, ngụy trang khéo léo dưới dạng Windows dynamic link library (DLL), và có dung lượng khoảng 361216 byte.
+Quá trình payload:
+Khi được kích hoạt, chúng sẽ tạo ra tin nhắn thông báo với người sử dụng rằng máy tính của họ đã bị lây nhiễm bởi các chương trình độc hại khác nhau:
+Tất nhiên, đây là thông báo giả mạo, nếu người dùng click chuột vào nội dung tin nhắn đó thì chúng tiếp tục hiển thị sau và yêu cầu họ chấp nhận việc cài đặt chương trình bảo mật nào đó:
+Quá trình diễn ra như 1 chương trình bảo mật thực sự:
+Nhưng thật ra, chúng đang tải các loại mã độc khác nhau từ những địa chỉ sau:
+Cũng như các chương trình độc hại khác, chúng sẽ tự kích hoạt tính năng khởi động cùng hệ điều hành bằng cách tạo ra các khóa registry sau:
+Dưới đây là 1 số ảnh chụp màn hình cụ thể trong quá trình lây nhiễm:
+Và sau đó, chúng tiếp tục hiển thị những thông báo tương tự như sau:
+Nếu muốn xóa bỏ tận gốc những hiểm họa này trên máy tính, bạn phải bỏ ra 1 khoản phí nhất định để kích hoạt “bản quyền” sử dụng trên phần mềm giả mạo này:
+Đồng thời, chúng cũng khóa chức năng hoạt động của Windows Task Manager bằng việc chỉnh sửa khóa registry sau:
+Nếu máy tính của bạn đã bị nhiễm loại Trojan trên mà không có phương án bảo vệ thích hợp, hãy áp dụng cách thủ công sau để khắc phục tình hình.
+ - Trước tiên, xóa toàn bộ file bên trong thư mục %TEMP% và eapp32hst.dll
+ - Khôi phục tình trạng của Task Manager bằng cách sửa lại khóa registry như sau:
+ - Sau đó dùng Windows Task Manager để tắt những tiến trình lạ trong danh sách.
+ - Xóa toàn bộ file và thư mục: %ProgramFiles%\AnVi
+ - Tìm và xóa các khóa Registry sau:
+Tất nhiên, để đảm bảo an toàn tuyệt đối cho máy tính trước những hiểm họa từ Internet, người sử dụng nên trang bị cho mình 1 giải pháp bảo mật toàn diện. Các bạn có thể tham khảo và sử dụng sản phẩm từ những hãng uy tín và có danh tiếng trên toàn thế giới như: Kaspersky, BitDefender, Avira, Symantec... Chúc các bạn thành công!

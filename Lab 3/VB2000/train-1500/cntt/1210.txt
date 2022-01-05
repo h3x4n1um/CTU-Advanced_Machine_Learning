@@ -1,0 +1,10 @@
+﻿ Việc nén một tập tin, ngoài việc để giảm dung lượng, dễ truyền tải thì tính năng đặt mật mã khi nén giúp người dùng bảo mật dữ liệu của mình. Thế nhưng, không ít trường hợp người dùng quên mật mã đã thiết lập cho tập tin nén và hiển nhiên dữ liệu sẽ khó mà phục hồi lại được. Khi đó, phần mềm Unrar Extract and Recover sẽ là giải pháp cho bạn.
+ Unrar Extract and Recover hoàn toàn miễn phí, dễ sử dụng, tải về và cài đặt tại đây. Tương thích với Windows NT/2000/XP/Vista/7
+Sau khi cài đặt thành công, bạn kích hoạt biểu tượng cùng tên Unrar Extract and Recover trên màn hình để vào sử dụng. Giao diện dù không bắt mắt, nhưng tính năng mạnh mẽ mà Unrar Extract and Recover sẽ là đáng khâm phục. Việc sử dụng Unrar Extract and Recover để giải nén các tập tin nén không mã khóa thì khá đơn giản, các bạn chỉ việc nhấn vào Input Directory để chọn thư mục chứa tập tin nén. Khi đó thư mục Output Directory sẽ được chọn mặc định giống thư mục trong mục Input Directory, tuy nhiên bạn có thể đổi thành thư mục khác. Xong, nhấn nút GO!
+Với các tập tin nén thì bạn cũng thực hiện tương tự, tuy nhiên nếu quá trình giải nén gặp lỗi thì bạn cần thực hiện sửa đổi tập tin password_file.txt trong thư mục đã cài đặt. Trước tiên, bạn cần thực hiện bỏ chế độ chống sửa chửa của tập tin này, nếu vẫn chưa cho kết quả theo ý muốn thì chương trình bắt buộc bạn phải nhập mã khóa của tập tin nén vào tập tin này để chương trình có thể truy xuất và giải nén được.
+Ngoài các nút giúp giải nén như trên thì chương trình còn có các tùy chọn khác:
+- Remember Output directory: Ghi nhớ thư mục gốc cho các lần sử dụng sau này.
+- Remember Input directory: Ghi nhớ thư mục đích cho các lần sử dụng sau này.
+- Delete extracted RAR file: Xóa tập tin nén gốc khi đã gải nén xong.
+- Pause: Nút này giúp bạn tạm dừng thao tác giải nén. Sau này bạn có thể thực hiện giải nén tiếp tục với nút Resume.
+- Exit: Thoát khỏi chương trình.

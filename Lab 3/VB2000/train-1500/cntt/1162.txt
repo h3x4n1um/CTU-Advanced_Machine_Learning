@@ -1,0 +1,13 @@
+﻿Phần mềm Spyware Cease rất nhỏ gọn nhưng khả năng diệt spyware hiệu quả, đặc biệt thích hợp với các máy tính cấu hình không cao. 
+Giao diện chính của SC gồm 4 phần chính:
+Scan: quét toàn bộ hệ thống để kiểm tra xem máy tính của bạn có bị nhiễm spyware nào chưa. Có 2 chế độ quét là: Full scan và Quick scan. Lần đầu bạn nên bỏ ra một ít thời gian để chạy Full scan, về sau có thể chỉ cần chạy Quick scan là được
+Guard: Gồm 4 mục
+Shield: bảo vệ máy bạn khỏi các spyware tấn công vào hệ thống và trình duyệt web (chỉ áp dụng cho trình duyệt IE).
+Black list: Chứa các chương trình đã bị cách ly.
+White list: Nếu ứng dụng nào bạn biết rõ là vô hại như: IDMan.exe (của Internet download manager)… thì bạn để chúng vào đây để SC bỏ qua chúng các lần sau.
+Log View: Ghi lại các báo cáo bạn làm với SC khi từ khi cài vào máy.
+Analysis: Nếu bạn thấy nghi ngờ một ứng dụng nào đó và cần xem chi tiết về nó, thì bạn chọn tên ứng dụng, sau đó ấn nút Save. SC sẽ xuất ra 1 file *.txt để báo cáo cho bạn.
+Tools: Phần công cụ thêm
+File shredder: xóa file vĩnh viễn.
+Startup manager: tùy chỉnh các ứng dụng khởi động cùng với Windows.
+Registry backup: tiện ích sao lưu registry.

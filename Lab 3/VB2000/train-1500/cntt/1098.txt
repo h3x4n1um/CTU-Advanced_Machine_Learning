@@ -1,0 +1,19 @@
+﻿Nhận diện lỗi phần cứng trong máy tính
+Máy tính của bạn đang hoạt động tốt thì bị treo hoặc tự khởi động hay tự tắt máy. Thực hiện những bước đơn giản sau để khắc phục những lỗi này.
+1. Kiểm tra những phần mềm hoặc phần cứng mới được cài đặt:
+Nếu tính trạng treo máy xảy ra khi bạn vừa mới cài đặt một phần mềm hoặc phần cứng nào đó hoặc một driver mới, gỡ cài đặt chương trình này để loại bỏ vấn đề.
+2. Kiểm tra lại dung lượng ổ cứng
+Không tìm thấy virut, hãy kiểm tra dung lượng ổ C, phải đảm bảo rằng vẫn còn hơn 20% dung lượng chưa được sử dụng. Dung lượng thấp có thể dẫn đến tình trạng treo máy ngẫn nhiên.
+3. Kiểm tra máy có bị nóng quá không
+Quá nóng cũng có thể dẫn tới tình trạng treo máy. Tình trạng này xảy ra bởi vấn đề do quạt, bụi bẩn hoặc vấn đề làm mát khác. Hãy chắc chắn rằng nguồn quạt và nguồn của CPU không bị bụi bẩn bám. Bạn có thể kiểm tra nhiệt độ của case bằng cách chạy Motherboard monitor. Hãy cẩn thận khi dọn sạch bên trong case máy tính và không bao giờ được mở nguồn bởi nó chứa điện thế cao.
+4. Kiểm tra ổ cứng
+Kiểm tra ổ cứng bởi lỗi cấu trúc logic có thể xảy ra. Để kiểm tra lỗi của ổ, phải chuột vào ổ C ở My Computer > Tool, kiểm tra tất cả các ô trong Check disk options và nhấn Check now. Nó sẽ hỏi bạn muốn khởi động lại máy hay không. Chọn Yes và khởi động lại máy của mình. Quá trình kiểm tra sẽ chạy tự động sau khi khởi động và sẽ mất một khoảng thời gian. Chương trình sẽ cố gắng sửa lỗi một cách tự động. Tuy nhiên, nếu ổ cứng của bạn bị lỗi vật lý, bạn sẽ phải thay thế nó. Chạy Disk Defragmenter (Start Menu > Programs > Accessories > System Tools) cũng là một ý tưởng tốt.
+5. Kiểm tra bộ nhớ trong
+Đôi khi, bộ nhớ trong (RAM) cũng có thể gây ra hiện tượng treo máy. Kiểm tra bộ nhớ tỏng bằng cách chạy Windows Memory Diagnostic, có thể tải ở http://oca.microsoft.com/en/windiag.asp. Nếu có lỗi xảy ra ở RAM, hãy thử cắm lại RAM. Nếu vấn đề vẫn không được giải quyết, bạn sẽ phải thay một RAM khác.
+6. Kiểm tra các lỗi phần cứng khác
+Một số phần cứng khác cũng có thể xảy ra lỗi gây hiện tượng treo máy. Bạn có thể kiểm tra phần cứng bằng Ultimate Boot CD (tải ở đây). Tuy nhiên, bạn chỉ nên dùng nó khi bạn biết sử dụng đĩa này bởi một số chương trình trong đĩa này có thể gây hại khi sử dụng không đúng (một số có thể xóa sạch ổ đĩa của bạn).
+7. Chạy chương trình diệt virut
+Một trong những điều đầu tiên nên làm khi máy tính của bạn bị treo là chạy chương trình diệt virut. Kiểm tra cập nhật và danh sách virut mới cho chương trình diệt virut của bạn tại trang web của nhà sản xuất. điều này rất quan trọng bởi chương trình diệt virut cũ sẽ không có tác dụng. Nếu bạn không cài đặt một chương trình diệt virut nào hoặc không có bản cập nhật mới, bạn có thể truy cập một trang web diệt virut nào đó của các hãng diệt virut lớn cung cấp miễn phí như Trend Micro.
+8. Cập nhật cho Windows và driver
+Những phần mềm lâu ngày không được cập nhật cũng có thể gây ra hiện tượng treo. Hãy cập nhật cho windows và driver của bạn bằng cách truy cập vào http://windowsupdate.microsoft.com.
+Những bước trên có thể giúp sửa lỗi trong hầu hết các trường hợp treo máy. Vẫn còn rất nhiều trường hợp có thể xảy ra, tùy thuộc vào cấu hình của từng máy. Hãy hỏi PC troubleshooting forums/newsgroups để được trợ giúp.

@@ -1,0 +1,14 @@
+﻿ PC treo, khởi động lại bất thường, hoặc trục trặc khi khởi động sẽ không còn khiến bạn 'điên đầu' với những gợi ý thiết thực dưới đây.
+PC khởi động lại bất thường
+Loại trừ các nguyên nhân về điện lưới, Windows mặc định sẽ tự khởi động lại khi gặp lỗi mà hầu như không thông báo cho người sử dụng đang “phát khiếp”.
+Bạn có thể tắt chức năng khó chịu này bằng cách chọn nút Start > Run (hoặc chỉ nhấn nút Start trong Windows Vista), gõ sysdm.cpl và nhấn enter. Tiếp đó, chọn nhãn Advanced và chọn nút Settings dưới Startup and Recovery, bỏ chọn Automatically restart.
+Tất nhiên, tắt bỏ chức năng trên chỉ cấm windows tự khởi động, chứ không chữa được lỗi cho bạn. Trong trường hợp không nắm vững về kĩ thuật, bạn nên nhờ người có kiến thức giúp đỡ do những lỗi khiến Windows tự khởi động lại thường liên quan đến phần cứng hoặc trình điều khiển thiết bị.
+Vào thẳng Windows mỗi khi khởi động không cần gõ password
+Windows mặc định hỏi mật khẩu của mọi tài khoản khi khởi động nhằm mục đích bảo mật. Nhưng nếu chỉ mình bạn sử dụng máy tính, hoặc vì lý do nào khác bạn không muốn gõ mật khẩu, có thể dùng cách sau:
+Nhấn nút Start > Run (hoặc Start trên Vista), gõ control userpasswords2, nhấn enter. Bỏ chọn Users must enter a user name and password to use this computer
+Sau khi nhấn OK, một bảng thông báo sẽ hỏi lại cụ thể tài khoản bạn muốn tự động đăng nhập. Gõ tên người dùng và mật khẩu vào ô thông báo nếu được hỏi.
+Máy tính bị treo tại màn hình khởi động
+Có hai khả năng: phần cứng và phần mềm. Bạn có thể chẩn đoán nguyên nhân theo nguyên tắc: PC bị treo trước khi “con chạy” trên màn hình khởi động là lỗi phần cứng, và PC bị treo sau khi “con chạy” đã xuất hiện có thể là cả lỗi phần cứng lẫn phần mềm.
+Bạn có thể “điều tra” kĩ hơn chút nữa nếu biết cách sử dụng hệ điều hành “bỏ túi” portable chạy trên ổ cứng di động hoặc trên CD. Nếu sau một thời gian sử dụng máy bằng HDH này mà lỗi không lặp lại, có thể chắc chắn lỗi nằm trên ổ cứng chứa hệ điều hành. Có thể thử cài lại Windows “sạch” sau khi đã sao lưu dữ liệu, nhằm loại trừ lỗi do hệ điều hành “quá đát” gây ra.
+Phương án khác là kiểm tra và sửa lỗi ổ cứng bằng các công cụ có sẵn trong Windows: nhấn chuột phải lên ổ cứng cần kiểm tra, chọn Properties > tools > chọn check now và Automatically fix file system errors tại ô Error-checking. Bạn có thể phải khởi động lại máy để thực hiện quá trình kiểm tra.
+Nhìn chung, lỗi “treo máy tính” có thể làm bó tay cả kĩ thuật viên lành nghề, đặc biệt nếu hiện tượng này xảy ra không thường xuyên. Bạn sẽ phải rất kiên nhẫn khi giải quyết vấn đề này. Cài lại Windows “sạch” luôn là “thuốc chữa bá bệnh” tiết kiệm thời gian nhất! 

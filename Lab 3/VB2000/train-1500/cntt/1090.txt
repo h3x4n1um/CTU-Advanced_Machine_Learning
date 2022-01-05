@@ -1,0 +1,5 @@
+﻿WeFi là chương trình miễn phí, dễ dùng, giúp bạn nhanh chóng tìm kiếm và kết nối mạng Wi-Fi.
+Sau khi cài đặt xong WeFi, chương trình sẽ tìm kiếm các điểm truy cập không dây quanh vị trí bạn, hiển thị thông tin của từng mạng Wi-Fi, gồm thông tin về chế độ mã hóa mạng, mức tín hiệu mạnh hay yếu… Để kết nối, bạn chọn mạng Wi-Fi và nhấn đúp chuột. 
+Ngoài ra, bạn có thể tìm các mạng Wi-Fi ở các khu vực khác. Chọn thẻ Wi-Fi Maps, nhập địa chỉ, tên đường, chương trình sẽ hiển thị danh sách các điểm có Wi-Fi trên bản đồ. WeFi lấy thông tin này từ người dùng WeFi, khi bạn dùng chương trình WeFi, các thông tin về mạng Wi-Fi mà bạn tìm thấy sẽ được gửi đến WeFi. 
+Hiện WeFi 4 là phiên bản mới nhất, có nhiều cải tiến hơn so với các phiên bản trước. Ở các phiên bản trước, bạn có thể tìm thấy người dùng WeFi gần khu vực mình, xem các thông tin về họ và giao tiếp với họ. Ở phiên bản mới này, bạn có thể kết nối WeFi với hồ sơ (profile) Facebook của mình. 
+So với tính năng tìm mạng Wi-Fi sẵn có trên Windows, WeFi chỉ có thêm một số tính năng mới như tự động kết nối đến một điểm truy cập không dây mà bạn chỉ định, tìm mạng Wi-Fi ở khu vực khác…

@@ -1,0 +1,7 @@
+Hướng dẫn ghép iCal hoặc file *.ics vào Google Calendar
+– Bạn có muốn ghép hệ thống lịch điện tử có sẵn vào tài khoản Google Calendar? Trong bài viết sau, Quản Trị Mạng sẽ giới thiệu với các bạn cách file iCal *.ics hoặc bất kỳ ứng dụng lịch trực tuyến nào vào Google Calendar một cách nhanh chóng và đơn giản.
+Với những người làm văn phòng, quản lý hoặc kinh doanh… việc làm của họ yêu cầu về thời gian khá nghiêm và chính xác. Và Google Calendar đã thực sự trở thành 1 công cụ hỗ trợ không thể thiếu:
+Trước tiên, các bạn cần upload file iCal hoặc CSV từ máy tính của bạn. Đăng nhập vào tài khoản Google Calendar, chọn đường dẫn Add > Import calendar:
+Chọn file iCal hoặc CVS thích hợp từ máy tính của bạn và nhấn Import, lưu ý rằng các sự kiện sẽ được tự động nhập vào lịch, do đó không cần ghép thêm các lịch bên ngoài nữa:
+Sau đó, bạn sẽ thấy tổng cộng bao nhiêu cuộc hẹn hoặc sự kiện đã được nhập thành công:
+Và đây là kết quả của quá trình này, ứng dụng lịch trực tuyến của bạn sẽ có đầy đủ chức năng của Google Calendar như Google Maps… :

@@ -1,0 +1,11 @@
+﻿ Đối với các ĐTDĐ không có cáp nối, không có thẻ nhớ, hoặc là loại đời cũ nhưng có hỗ trợ java như Nokia 6030, 6610... thì để tải các ứng dụng, các game thường phải thông qua các dịch vụ tin nhắn với chi phí không hề rẻ.
+Trong khi đó, chúng ta có thể tìm được các game trên Internet. Sau đây là một cách để tải các game đó về máy mà chỉ mất phí cho dung lượng game thông qua GPRS.
+Đó là tự tạo một trang wap để lưu trữ dữ liệu, rồi tải chúng về điện thoại thông qua wap.
+Đầu tiên, ĐTDĐ của bạn phải có cài đặt GPRS, để cài đặt các bạn có thể gọi lên tổng đài của các mạng điện thoại để nhờ họ hướng dẫn cài đăt.
+Bước tiếp theo bạn truy cập vào trang web: http://wap.in/web/index.jsp từ máy tính. Kinh nghiệm cho thấy dùng Firefox để truy cập trang này thì mới dễ dàng. Tại đây bạn đăng ký một tài khoản, tại mục Domain các bạn có thể chọn một trong số có trong danh sách.
+Sau khi đăng ký xong, bạn đăng nhập vào tài khoản của mình rồi bắt đầu tạo trang wap cho riêng mình.
+Tìm và download về các game java, ứng dụng dành cho ĐTDĐ về máy tính. Có thể truy cập vào trang web sau chọn loại điện thoại của bạn rồi download các trò chơi, ứng dụng phù hợp với điện thoại của mình về máy tính http://www.thegioididong.com/DTDD/downloads/default.aspx.Branch=1
+Tiếp theo bạn đăng nhập vào wap.in với tài khoản vừa đăng ký. Bạn nhấn chọn mục Modify ở mục bên trái rồi ấn tiếp chọn File Upload, sau đó nhấn Browse tìm đến những file hình ảnh, âm thanh và các trò chơi, ứng dụng trong máy tính. Các bạn có thể upload rất nhiều định dạng mà wap.in hỗ trợ, lưu ý về dung lượng như sau:
+Gif: 100KB, jpeg: 100KB, jpg: 210KB, mp3: 2048KB, png: 100KB, wbmp: 50KB, jar: 300KB, mid: 300KB, mmf: 300KB, 3gp: 1000KB, mp4: 300KB, rm: 1000KB, sis: 1000KB, amr: 1000KB, awb: 1000KB.
+Sau khi đã upload thành công, các bạn chọn Modify ở mục bên trái rồi ấn tiếp chọn Creator, sau đó chọn tiếp index.wml. Tại trang tiếp theo bạn cho dấu + để add thêm các trò chơi, ứng dụng mà mình đã upload.
+Sau khi đã tạo xong, bây giờ bạn (hoặc những người khác được bạn chia sẻ link) đã có thể truy cập vào trang wap mà mình vừa tạo bằng máy điện thoại rồi tải về các chương trình mình thích. Trang wap các bạn vừa tạo có dạng User.Wap.in Trong đó user chính là tên đăng nhập của bạn. Chú ý trang wap này không truy cập được từ máy tính mà chỉ truy cập được trên máy điện thoại mà thôi.

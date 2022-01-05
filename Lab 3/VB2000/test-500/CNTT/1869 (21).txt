@@ -1,0 +1,4 @@
+Vừa qua, tại trang web của mình, Hitachi đã chính thức giới thiệu về bộ đôi ổ cứng dung lượng 3TB. Thiết bị mới sẽ có kích thước 3,5 inch với tốc độ 7200 và 5400 vòng trên phút.
+Mẫu Deskstar 7K3000 sẽ gồm các phiên bản 1,5TB, 2TB và 3TB, với tốc độ 7200 vòng mỗi phút. Ổ cứng sử dụng giao diện SATA 6 Gbps, bộ nhớ đệm 64MB, độ ồn khi không tải / tải là 2,9/6,8 Ben.
+Bên cạnh đó là mẫu Deskstar 5K3000 với các phiên bản 1TB, 2TB và 3TB, sử dụng giao diện SATA 6 Gbps, bộ nhớ đệm 32MB, công nghệ CoolSpin cho phép giảm tiếng ồn và điện năng tiêu thụ.
+Thông tin chi tiết về 2 mẫu ổ cứng mới này sẽ sớm được đưa ra trong thời gian tới.

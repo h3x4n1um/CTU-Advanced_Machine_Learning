@@ -1,0 +1,10 @@
+﻿4 công cụ trực tuyến kiểm tra tốc độ và chất lượng băng thông rộng
+Speedtest
+ Speedtest là công cụ phổ biến nhất cho việc thử nghiệm tốc độ băng thông rộng.Bạn có thể chọn một server (server mà bạn cho là tốt nhất) trên bản đồ và nhấn nút Begin Test để bắt đầu kiểm tra.Nó sẽ download và upload một vài tập tin,rồi sau đó hiển thị tốc độ download và upload cho bạn. Bạn có thể chọn một máy chủ khác để kiểm tra tốc độ một lần nữa.Bạn cũng có thể so sánh kết quả của bạn với người khác và chia sẻ kết quả đó bằng cách sử dụng các liên kết nằm ở phía dưới kết quả thu được cụ thể là: nhấn vào nút Copy Forum Link hoặc Copy Direct Link.
+ Speed 
+ Speed là một công cụ kiểm tra tốc độ băng thông rộng không chỉ kiểm tra tốc độ mạng Internet mà nó còn cho thấy số lượng kết nối mỗi phút và thời gian trung bình thực hiện ping .Nó có thể kiểm tra những kết nối chậm (GPRS, ISDN) cũng như kết nối nhanh như DSl2 + hoặc VDSL / Internet 
+Speed tải file từ 3 server khác nhau cùng một lúc và trả về là kết quả tốc độ mạng Internet sau khi kết hợp lại các kết quả thu được từ 3 server đó. Nó sẽ kiểm tra các yếu tố như tốc độ tải xuống,tính ổn định và thời gian đáp ứng của các kết nối internet...
+Pingtest
+ Pingtest là một công cụ phân tích chất lượng băng thông rộng.Nó thực hiện kiểm tra (bằng cách kiểm tra Packet Loss, Ping và Jitter) và hiển thị kết quả thông báo khả năng kết nối internet để bạn có thể đưa ra những tính toán phù hợp cho việc  sử dụng những dịch vụ thoại (VoIP), âm nhạc hoặc video streaming, điều khiển từ xa hay chơi game.Bạn cũng có thể chia sẻ và so sánh kết quả thử nghiệm của bạn với người khác.
+BandwidthPlace
+ BandwidthPlace là dịch vụ rất dễ sử dụng.Điều duy nhất bạn cần phải làm là nhấn vào nút "Start test" là xong .Tuy nhiên nó không cho phép bạn lựa chọn máy chủ hoặc những lựa chọn khác.Sau khi hoàn tất việc kiểm tra, nó sẽ hiển thị kết quả tốc độ download và upload bằng đơn vị Kbps.Ngoài ra,ở phía dưới nó còn hiển thị kết quả kiểm tra cuối cùng và thời gian thực hiện kiểm tra.

@@ -1,0 +1,20 @@
+﻿Firebug:
+Đây là công cụ không thể thiếu với nhiều người sử dụng cũng như làm việc, ứng dụng cho phép bạn phát hiện lỗi, chỉnh sửa theo những mã HTML và Javascript trực tiếp trên bất cứ trang web nào: 
+IE Tab:
+Internet Explorer Tab – ứng dụng hỗ trợ tuyệt vời để kiểm tra các website được tạo ra có hoạt động tốt trên nền tảng IE của Microsoft hay không, qua đó việc kiểm tra và rà soát lại các lỗi phát sinh sẽ đơn giản và ngắn gọn hơn rất nhiều. Chỉ với 1 thao tác đơn giản, người sử dụng sẽ xem được thành quả trên IE hoặc quay lại làm việc.
+Pixel Perfect:
+Add-on này cho phép những người thiết kế tạo 1 lớp “che phủ” trên đầu trang HTML, thực chất đây là 1 extension dành cho Firefox/Firebug và có tính tương thích tốt với hầu hết các ứng dụng khác.
+Web Developer:
+Với add-on hỗ trợ Web Developer này, người dùng có thể thêm thanh menu hoặc toolbar, cùng với nhiều công cụ phát triển web khác, hoặc tùy chỉnh đối với từng ứng dụng web khác nhau.
+Fireshot:
+Công cụ này giúp người dùng chụp ảnh màn hình trên giao diện website, theo từng phần hoặc toàn bộ. Không giống với các add-on hỗ trợ khác, Fireshot còn được tích hợp sẵn bộ công cụ tùy chỉnh, qua đó bạn có thể chèn thêm nội dung chú thích, hình minh họa... 
+Aardvark:
+Thông thường, những người thiết kế sẽ tiến hành “dọn dẹp” thành phần thừa trên trang web của họ bằng việc tìm và xóa bỏ những yếu tố không thật sự cần thiết. Và Aardvark là 1 công cụ cần thiết để làm việc này.
+Firecookie:
+Thực chất là 1 extension của Firebug được dùng để xem và quản lý cookie trong trình duyệt, và người sử dụng có thể thiết lập các thông số kỹ thuật cho phù hợp với nhu cầu.
+YSlow:
+Được dùng để phân tích trang web và báo cáo tình trạng hiện thời về tình hình hoạt động, có những thời điểm trang web hoạt động chậm 1 cách bất thường, dựa vào các quy luật theo chuẩn của Yahoo.
+Palette Grabber:
+Không thể thiếu với những người thiết kế sử dụng Photoshop, Paint Shop Pro, GIMP, Flash, Fireworks hoặc Paint.NET, áp dụng Palette Grabber để tạo bảng màu theo mẫu trong chương trình của họ.
+GridFox:
+Tương tự như PixelPerfect, nhưng GridFox được dùng để áp dụng trên mô hình rộng hơn, với bất kỳ website nào. Dễ tùy chỉnh, qua đó người thiết kế có thể dễ dàng tạo được các “mạng lưới” được dùng để thiết kế.

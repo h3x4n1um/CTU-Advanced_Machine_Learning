@@ -1,0 +1,62 @@
+﻿“Thế giới chưa có công cụ tìm kiếm như của chúng tôi”
+(Dân trí) - “Chúng tôi hoàn toàn tự tin mình làm chủ được công nghệ và thực tế, sản phẩm của chúng tôi, theo điều tra thị trường, trên nền tảng Android, chưa có công cụ nào tìm kiếm ngữ nghĩa như iCompanion trên thế giới”.
+ >>  Nhân tài đất Việt - Chắp cánh khát khao sáng tạo
+ >> Clip trao giải Nhì Nhân tài Đất Việt 2011
+TS. Cao Tuấn Dũng, giảng viên bộ môn Công nghệ phần mềm - Viện CNTT, ĐH Bách khoa HN, trưởng nhóm Semantic Innovation Group (SIG) trao đổi ngay sau khi sản phẩm iCompanion được xướng tên gải thưởng cao nhất (giải nhì, không có giải nhất) cuộc thi Nhân tài đất Việt 2011.
+ 
+
+Các thành viên SIG "trưng" giải thưởng ngay sau phút được xướng tên chiến thắng.
+Xin được chúc mừng, chia vui với anh vì giải thưởng cao nhất trong cuộc thi Nhân tài đất Việt năm nay. Đứng cùng những nhà khoa học gạo cội được trao giải trong lĩnh vực KHTN và Y dược, có sự khác biệt nào đối với những người trẻ thế hệ 8X, 9X như các anh khi nhận tin vui?
+Tất nhiên, như bạn thấy, các thành viên trong nhóm chúng tôi đều bất ngờ và phấn khởi. Đặc thù của CNTT là ngành khoa học trẻ, ra đời cách đây chỉ 30 năm, ít tuổi hơn rất nhiều so với các ngành khoa học khác. Vậy nên người hoạt động trong lĩnh vực này như chúng tôi cũng có đặc điểm là độ tuổi trẻ hơn. Tuy nhiên, đặc thù của ngành CNTT là liên tục thay đổi với tốc độ rất nhanh. Và tôi nghĩ sức trẻ cũng là điều rất phù hợp để có thể luôn thích ứng, để bắt kịp với sự tiến bộ của thế giới. 
+
+Quá trình hình thành ý tưởng cho đến lúc ra sản phẩm iCompanion? 
+
+Đây là một quá trình dài, tích lũy dần, không phải chỉ một ý tưởng lóe lên. Thời điểm chúng tôi muốn xây dựng một hệ thống hướng dẫn du lịch thực sự thông minh, trở thành người bạn đường của người đi du lịch (gọi là “Intelligent Companion”) thực sự đã hình thành cách đây 2-3 năm nhưng chưa thích hợp để triển khai. Khi đó, chúng tôi định đưa công nghệ ngữ nghĩa vào các thiết bị di động nhưng tại thời điểm đó, nền tảng tính toán trên thiết bị di động tại Việt Nam còn chưa đủ để triển khai. Tuy nhiên, nhóm vẫn tiếp tục những hoạt động nghiên cứu về công nghệ ngữ nghĩa của mình, triển khai trên một số sản phẩm khác. 
+
+Từ mùa hè năm ngoái, nền tảng môi trường công nghệ smartphone đã mạnh lên rất nhiều. Một chiếc điện thoại di động giờ có thể mạnh ngang một máy tính lúc trước. Tôi thấy thời cơ đã đến. Thực tế, hệ thống và giải pháp CNTT trả lời cho bài toán hướng dẫn du lịch di động hiện đã khá tốt nhưng vấn đề người đi du lịch cần nhất là thông tin phải chính xác và phù hợp với sở thích của mình. Du lịch là quá trình thư giãn, nếu phải tiếp cận với quá nhiều thông tin, tự phân lọc, mỗi người sẽ bị ngợp, rối. 
+
+Công nghệ ngữ nghĩa có đặc thù rất ưu việt, cho phép tất cả thông tin về du lịch biểu diễn dưới dạng có thể hiểu được. Từ ý tưởng đó, chúng tôi đã xây dựng một phần mềm cho phép người dùng có thể tìm kiếm thông tin dựa trên ý nghĩa của thông tin, trả lời những câu hỏi gần như ngôn ngữ tự nhiên chứ không phải là tìm từ khóa.
+
+Anh có thể dẫn chứng cụ thể về tính ưu việt của “sổ tay du lịch điện tử” như anh nói?
+
+Ví dụ đơn giản là trên các hệ thống khác, người dùng chỉ có thể tìm thấy thông tin về một ngôi chùa nếu sử dụng từ khóa "Chùa" nhưng không thể làm được điều đó nếu dùng từ khóa "công trình tôn giáo" vì máy tính không hiểu Chùa, Nhà thờ... là các công trình tôn giáo. 
+
+Ứng dụng này cho phép người dùng thực hiện các câu hỏi ngữ nghĩa tự nhiên như “Tìm các cửa hàng thời trang ở gần hồ và gần một nơi ăn uống có phong cách Châu Âu?”. Kết quả trả về có thể là một shop bán đồ phụ kiện (cũng là cửa hàng thời trang) - gần hồ Hoàn Kiếm, và gần một nhà hàng ăn uống phong cách Sicily. Điều này rất khó đạt được với các hệ thống khác.
+
+Ngoài ra, chúng tôi phải tích hợp với những công nghệ hiện đại nhất như bản đồ số, thoại tự động speak to speak. Hệ thống của chúng tôi còn có phần gợi ý hướng ngữ cảnh, nghĩa là trên cơ sở nắm được sở thích người dùng, căn cứ vào vị trí của anh ta, máy sẽ tự động tìm kiếm những điểm du lịch thích hợp. 
+ 
+
+Trưởng nhóm SIG: "Chúng tôi hoàn toàn tự tin về iCompanion".
+Ý tưởng buộc một chiếc máy hiểu ý nghĩ của con người, suy luận theo ngôn ngữ sử dụng không phải ai cũng dễ dàng mường tượng. Tuy nhiên, ý tưởng này có điểm gì mới, sáng tạo so với những công cụ tìm kiếm phổ biến hiện tại, so với Google, Bing hay với nhiều công cụ tìm kiếm tiếng Việt như Xalo, Bamboo, Vinaseek…?  
+
+Thực ra nếu so sánh với Google hay Bing, tôi nghĩ hơi khập khiễng vì đó là những hãng công nghệ lớn. Các công ty đó có hàng nghìn nhà khoa học làm việc. Thực tế, họ cũng đã nghiên cứu công nghệ ngữ nghĩa để ứng dụng vào một số sản phẩm của mình. 
+
+Ngữ nghĩa là một công nghệ  mới, phát triển mạnh hiện nay. Người khởi xướng công nghệ chính là cha đẻ của wold wide web (www) - Tim Berner Lees. Đến giờ, thế hệ tiếp theo của web được xác định là web dữ liệu mà nền tảng cơ bản là công nghệ ngữ nghĩa. Tại đó, tất cả các dữ liệu biểu diễn trên các trang web ngoài thông tin, sẽ kèm theo nội dung phụ chính là ngữ nghĩa biểu diễn nội dung của trang web đó, để các máy tìm kiếm hoạt động được tốt hơn. 
+
+Quá trình ngữ nghĩa hóa web đang diễn ra nhưng không dễ dàng bởi dữ liệu trên web hiện đã quá lớn, người ta không thể thêm thông tin ngữ nghĩa cho tất cả các dữ liệu đã có. 
+
+Cách tiếp cận của chúng tôi là trên một lĩnh vực hẹp - du lịch. Chúng tôi hoàn toàn tự tin mình làm chủ được công nghệ và thực tế là sản phẩm của chúng tôi, theo điều tra trên thị trường, trên nền tảng Android, chưa có công cụ nào tìm kiếm ngữ nghĩa như iCompanion trên thế giới.
+
+Như anh chia sẻ, việc biến ý tưởng thành sản phẩm là một quá trình gian nan. Có lúc nào anh nghĩ  tới việc bỏ cuộc giữa chứng?
+
+Về ý tưởng, chúng tôi đã sẵn sàng nhưng nhóm làm việc ở môi trường giảng đường đại học, rất thiếu thốn. Đáng ra hệ thống này phải được triển khai trên thực tế và hướng dẫn người đi du lịch, trên môi trường thực kết nối 3G. Vì vậy nó cần một serve rất mạnh và một kết nối internet. Nhưng tất cả hệ thống của chúng tôi, ban đầu chạy trên nền tảng là các máy tính cá nhân. Rất may sau đó, khi triển khai ý tưởng đã có những người giúp đỡ, cho chúng tôi thử nghiệm cài đặt công nghệ của mình trên môi trường vật lý thực với một serve mạnh. Được thử nghiệm trên môi trường thực, chúng tôi đã thành công.
+
+Cũng có khó khăn chủ quan khi một số thành viên của nhóm nhiều thời điểm bận những việc cá nhân. Thực sự nhiều lần chúng tôi đã thấy nản chí. Nhưng vấn đề đó chúng tôi vượt qua rất nhanh. Nói thành thực, sản phẩm iCompanion chỉ trong 3 tháng, sau khi nộp hồ sơ dự thi Nhân tài đất Việt, chúng tôi đã phát triển với mức độ công nghệ cao hơn nhiều lần. Sản phẩm hiện tại của chúng tôi so với lúc mang đi dự thi đã khác rất nhiều.
+
+Anh kỳ vọng gì vào iCompanion?
+
+Chúng tôi mong muốn phát triển được một phần mềm hướng dẫn du lịch thông minh và thực sự gây ấn tượng với khách du lịch nước ngoài để sau khi đến Việt Nam, quay về họ sẽ thấy ở Việt Nam cũng có những phần mềm hay, thực sự đột phá, có chất lượng ngang tầm quốc tế.
+ 
+
+Cao Tuấn Dũng (cầm cúp) cùng cộng sự và người thân mừng chiến thắng.
+Người ta nói kết quả quá trình biến ý tưởng thành hiện thực phản ánh chính con người cũng như cuộc sống xung quanh người tạo ra nó. iCompanion là hình ảnh thu nhỏ của SIG? Yếu tố nào kết nối các thành viên trong nhóm của anh trong một ý tưởng chung? 
+
+Nhóm của chúng tôi khá đặc thù vì là một nhóm nghiên cứu tại trường ĐH Bách khoa. Các bạn làm việc trong nhóm vừa là đồng nghiệp nghiên cứu vừa là học trò của tôi. Có bạn đã tốt nghiệp, ra trường, có những bạn vẫn đang học tại trường. Tuy nhiên chúng tôi đều có thời gian nghiên cứu về công nghệ ngữ nghĩa và nhóm đã xác định trong tương lai chúng tôi sẽ tiếp tục theo đuổi lĩnh vực này để phát triển nhiều sản phẩm nữa, không chỉ trong lĩnh vực du lịch, để có thể đem lại giá trị thiết thực cho cuộc sống. 
+
+Thực ra thế giới người ta đã và đang khai thác công nghệ ngữ nghĩa rất mạnh. Việt Nam hiện vẫn còn hạn chế vì chúng ta chưa có nhiều cơ quan tổ chức sở hữu về tri thức để phát triển công nghệ một cách có hệ thống. Chúng tôi rất trăn trở và cũng hi vọng qua giải thưởng Nhân tài đất Việt, mọi người thấy được cái hay, cái ưu việt của công nghệ này. 
+
+Trên trang facebook của mình, anh chia sẻ sở thích đi du lịch giá rẻ. Sở thích cá nhân có dấu ấn gì đối với việc hình thành ý tưởng, xây dựng sản phẩm của anh?
+
+Cũng không hẳn là sở thích. Tôi có một thời gian học tập, nghiên cứu tại Pháp. Mà như bạn biết, Pháp là nước du lịch phát triển bậc nhất thế giới, lượng khách du lịch đến Pháp còn lớn hơn cả Mỹ, Trung Quốc. Điều họ quan tâm đầu tư là mạng lưới các văn phòng cung cấp thông tin du lịch. Đến thăm một ngôi làng rất bình thường, chỉ có vài điểm tham quan thôi nhưng luôn có nơi cung cấp thông tin, chỉ dẫn rất cụ thể. Việc đó không làm được ở Việt Nam. 
+
+Vì vậy tôi nảy ra ý định tạo ra một sản phẩm vừa thật tinh tế vừa thú vị và tiết kiệm cho người dùng. “Cơ duyên” đó góp phần tạo nên ý tưởng, sản phẩm của tôi.

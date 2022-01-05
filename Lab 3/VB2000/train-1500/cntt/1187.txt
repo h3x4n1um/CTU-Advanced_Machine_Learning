@@ -1,0 +1,27 @@
+﻿ Được xây dựng dựa trên ý tưởng tương tự Chrome OS của Google, song Jolicloud nổi bật hơn nhờ các ưu điểm: cho phép cài trên máy tính đang dùng Windows, hỗ trợ cả ứng dụng web lẫn ứng dụng desktop, cho cài thêm ứng dụng mới.
+ Không như Chrome OS, Jolicloud vẫn cần ổ cứng để cài đặt. Có thể xem Jolicloud là sự kết hợp hài hòa giữa một hệ điều hành “mây” và hệ điều hành Linux thuần túy. Nếu Google không thực hiện nhiều cải tiến cho hệ điều hành “mây” của mình so với bản Chromium OS giới thiệu hôm 9-11 vừa qua, chắc chắn sẽ có rất nhiều người dùng chạy theo “tiếng gọi” của Jolicloud.
+Để cài Jolicloud trên máy tính chưa cài sẵn Windows, bạn tải miễn phí file ISO của Jolicloud (bản PreBeta) tại đây (dung lượng 602MB), rồi tải tiếp tiện ích Jolicloud USB Creator hỗ trợ tạo bộ cài Jolicloud trên USB tại đây (dung lượng 7,43MB).
+Trong trường hợp muốn cài Jolicloud trên máy đã có sẵn Windows, bạn có thể tải luôn công cụ Jolicloud Express (hỗ trợ cài  Jolicloud từ môi trường Windows đang dùng) tại đây (dung lượng 607MB).
+1. Cài Jolicloud trên máy chưa cài Windows
+Nếu định cài Jolicloud trên máy tính để bàn hay laptop, bạn nên ghi file Jolicloud-PreBeta.iso vào đĩa CD để cài cho tiện. Còn nếu cài Jolicloud trên netbook (không có ổ quang), bạn cần thực hiện như sau:
+- Gắn ổ USB (dung lượng tối thiểu 1GB) chứa bộ cài Jolicloud vào một máy tính trung gian, sau đó cài và khởi động Jolicloud USB Creator. Từ giao diện chính của Jolicloud USB Creator, bạn bấm nút Browse và tìm chọn file Jolicloud-PreBeta.iso đã tải về ở trên. Dung lượng còn trống của ổ USB sẽ hiển thị bên phải trường Target Device. Xong, bạn bấm nút Create để bắt đầu tạo chức năng boot cũng như chuyển dữ liệu từ file Jolicloud-PreBeta.iso sang ổ USB.
+oàn tất, bạn khởi động netbook từ ổ USB này để cài đặt Jolicloud (trước đó nhớ chỉnh trong BIOS ưu tiên khởi động netbook từ USB đầu tiên). Quá trình cài đặt Jolicloud khá đơn giản, với bảy bước: chọn ngôn ngữ, chọn múi giờ, chọn kiểu bàn phím, chọn ổ đĩa cài đặt, khai báo thông tin đăng nhập Jolicloud, kích hoạt việc cài đặt, khởi động lại máy để hoàn tất.
+2. Cài Jolicloud trên máy có sẵn Windows
+Ngoài hai cách trên, bạn có thể sử dụng công cụ Jolicloud Express để cài Jolicloud ngay từ môi trường Windows đang dùng.
+Đầu tiên, bạn kích hoạt file JolicloudExpress.exe để trích xuất dữ liệu cài đặt Jolicloud ra thư mục tạm. Ở hộp thoại đầu tiên xuất hiện, bạn bấm nút Get started. 
+Trong hộp thoại Step 1 kế tiếp, bạn điền tên ưa thích vào hộp Computer Usename, điền mật khẩu đăng nhập Jolicloud vào hai hộp dưới trường Computer Password, điền một nick tùy thích vào hộp Computer Nickname. Xong, bấm Next.
+Chuyển sang hộp thoại Step 2, bạn bấm nút Change  để thay đổi ổ đĩa cài Jolicloud (Installation Drive), điều chỉnh dung lượng ổ đĩa (Installation Size), chọn ngôn ngữ trên giao diện (Language), có cả tiếng Việt, rồi bấm Save > Next. Quá trình cài đặt Jolicloud sẽ diễn ra sau đó (Step 3). Trên hộp thoại Step 4 hiện ra khi cài xong, bạn bấm nút Restart now cho máy tính khởi động lại.
+Bên cạnh lựa chọn vào Windows, lúc này trên menu boot sẽ có thêm dòng Jolicloud để khởi động vào Jolicloud.
+3. Khai thác Jolicloud
+Tốc độ khởi động Jolicloud rất nhanh (chỉ từ 20 giây trở lại).
+Giao diện Jolicloud rất gọn gàng, được bao phủ bởi một nền đen. Phía bên trái là các nhóm ứng dụng desktop có sẵn, cùng công cụ tùy biến và quản trị Jolicloud. Bên phải là các thư mục quan trọng của hệ thống. Phía trên góc phải là đồng hồ hệ thống và biểu tượng thể hiện trạng thái kết nối Internet.
+Mỗi khi mở một ứng dụng nào đó, một thẻ thu gọn dưới dạng biểu tượng sẽ xuất hiện phía trên góc trái màn hình.
+Dù tích hợp sẵn Firefox nhưng Jolicloud vẫn cho cài thêm Google Chrome, không như Chrome OS bó buộc người dùng chỉ được dùng mỗi Google Chrome.
+Ngoài một số ứng dụng có sẵn, bạn có thể cài đặt thêm nhiều ứng dụng khác trên “mây” (yêu cầu máy tính phải kết nối Internet) bằng cách:
+Nhấp vào biểu tượng đám mây màu trắng   phía trên mé phải, bấm nút Create a new account từ trang web mở ra để khai báo thông tin đăng ký một tài khoản miễn phí của Jolicloud, tiếp tục đăng nhập tài khoản này, rồi trải qua vài bước khai báo thông tin. 
+Trong cửa sổ My Jolicloud xuất hiện, khi chọn thẻ APP DICRECTORY, bạn sẽ thấy một số ứng dụng web và desktop trong nhóm Featured để lựa chọn, phía dưới mỗi ứng dụng đều kèm theo nút Install để cài đặt, hoặc nút Remove để gỡ bỏ ứng dụng đã cài.
+Muốn xem thông tin mô tả tính năng của ứng dụng web bất kỳ, bạn chỉ việc nhấp vào biểu tượng của ứng dụng đó.
+Ngoài ra, bạn có thể chuyển sang tám nhóm nằm bên phải nhóm All (gồm 44 trang, mỗi trang gồm 10 ứng dụng) để tìm ứng dụng theo tính năng của chúng.
+Biểu tượng của tất cả các ứng dụng được cài thêm sẽ nằm trong Jolicloud launcher, xuất hiện khi bạn nhấp vào biểu tượng ngôi nhà   nằm tận cùng phía trên góc trái. Dấu hiệu để phân biệt ứng dụng web với ứng dụng desktop là biểu tượng màu cam trên đỉnh . 
+Cũng trong cửa sổ My Jolicloud, bạn nên thường xuyên theo dõi những bản vá lỗi mới nhất cho Jolicloud tại thẻ DASHBOARD > Updates, rồi bấm nút UPDATE hoặc UPDATE ALL để cài đặt.
+Khi muốn thoát khỏi Jolicloud, bạn nhấp vào nút Quit nằm phía dưới, rồi chọn cách thoát từ hộp thoại mở ra như: Shut Down (tắt máy), Restart (khởi động lại máy), hay Log Out (đăng xuất khỏi Jolicloud).

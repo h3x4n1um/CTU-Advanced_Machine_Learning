@@ -1,0 +1,54 @@
+﻿Công cụ quản lý và giám sát hệ thống:
+Mactracker: cung cấp những thông tin cụ thể đối với từng máy tính Apple Macintosh, như tốc độ bộ vi xử lý, bộ nhớ lưu trữ, ổ cứng, card đồ họa, hỗ trợ các phiên bản Mac OS nào và nhiều chi tiết khác.
+Maintenance: giúp người dùng bảo dưỡng toàn bộ hệ thống và xóa bỏ các file rác.
+xMod: công cụ tùy chỉnh hệ thống.
+iStat Menus: giám sát và điều khiển máy Mac từ thanh menubar.   
+5. Mini Usage: hiển thị thông tin chi tiết về hệ thống như mức sử dụng của CPU, dữ liệt truyền tải qua kết nối mạng, tình trạng hiện tại của pin và tên các tiến trình.
+6. SMARTReporter: thông báo các triệu chứng hoặc lỗi của ổ cứng trước khi chúng xảy ra.
+7. Onyx: kiểm tra quá trình khởi động của ổ đĩa và câu trúc file hệ thống.
+8. atMonitor: công cụ giám sát hệ thống cũng như các tiến trình đang hoạt động.
+9. Omni Disk Sweeper: công cụ phân tích ổ cứng.
+10. Secrets: kho “dữ liệu” ẩn về các thiết lập của Mac OS X. 
+Công cụ nâng cao hiệu suất hệ thống:
+11. Preferences Cleaner: chương trình được tạo ra để xóa các file thiết lập.
+12. Wallsaver: lưu giữ và sử dụng bất cứ screen saver làm wallpaper.
+13.  SizeWell: cung cấp khả năng phóng to cũng như thu nhỏ các cửa sổ làm việc.
+14. TrimTheFat: xóa bỏ cấu trúc PPC khỏi các ứng dụng khác.
+15. Lock-UnMatic: mở các file dữ liệu đã bị khóa.
+16. QuickBoot: thiết lập hệ thống đơn giản và nhanh chóng boot từ phân vùng hoặc ổ đĩa khác.
+17. Hide-unhide: hiển thị các file ẩn.
+18. Flying Windows: làm việc trong chế độ ứng dụng đơn.
+19. What’s Keeping Me?: xóa bỏ toàn bộ dữ liệu trong Trash hoặc mở ổ đĩa quang.
+20. BumpTop: tạo desktop 3D.
+Ứng dụng văn phòng, xử lý văn bản:
+21. OpenOffice: bộ công cụ sản phẩm dành cho với các ứng dụng văn phòng phổ biến.
+22.  NeoOffice: tương tự như OpenOffice.
+23. IBM Lotus Symphony
+24. Siag Office: gói ứng dụng văn phòng miễn phí dành cho UNIX.
+25. Beans: công cụ xử lý văn bản text khá tiện lợi, đơn giản và nhiều chức năng.
+26. Editra: được bố trí với giao diện và các tính năng chủ yếu phục vụ cho việc lập trình, hỗ trợ tới hơn 60 ngôn ngữ khác nhau.
+27. TextWrangler: một công cụ quản lý text không thể thiếu  dành cho hệ thống Unix và server.
+28. Komodo Edit: ứng dụng xử lý văn bản mã nguồn mở, có thể hoạt động với nhiều nền tảng khác nhau.
+29. Smultron: tương tự như các phần mềm văn phòng như trên, chương trình phù hợp với cả những người bắt đầu và nâng cao.
+30. Aquamacs Emacs: đơn giản và gọn nhẹ, có thể xử lý Text, HTML, LaTeX, C++, Java, Python, Perl, Ruby, PHP...
+Ứng dụng xem và chỉnh sửa ảnh:
+31. GIMP: chương trình xử lý ảnh có thể hoạt động với Windows, Linux và Mac OS.
+32. Inkscape: công cụ xử lý ảnh vector với các tính năng tương tự như  Illustrator, CorelDraw, hoặc Xara X.
+33. LiveQuartz: ứng dụng phổ biến, có thể xử lý ảnh đồ họa dựa trên bộ lọc và lớp tương tác.
+34. Phoenix Slide: chương trình tạo slide show trình diễn ảnh hoặc chương trình khá toàn diện.
+35. Image Trick: công cụ xử lý ảnh đồ họa miễn phí sử dụng bộ lọc của Mac OS X Core Image.
+36. DrawBerry: nếu bạn không muốn sử dụng các chương trình phức tạp như illustrator hoặc Inkscape, hãy nghĩ đến DrawBerry.
+37. Paintbrush: tương tự như ứng dụng Paint của Windows.
+38. ialterImage: với ialterImage, bạn có thể kéo, thả, xoay hướng, chiều, căn chỉnh, chuyển đổi định dạng, đổi tên... file ảnh hoặc 1 thư mục chứa ảnh vô cùng đơn giản.
+39. Acorn: ứng dụng có thể nâng cao chất lượng ảnh chỉ với vài thao tác. 
+Phần mềm bổ sung cho iTunes:
+40. iTunesShut: tắt hệ thống Mac của bạn sau khi kết thúc việc nghe nhạc.
+41. BravoTunes: “đặt” iTunes vào menubar, khi cuộn chuột các thông tin liên quan tới bài hát hiện tại và tiếp theo sẽ được hiển thị.
+42. SizzlingKeys: điều khiển iTunes từ bất cứ nơi đâu.
+43. Get Lyrical: tự động ghép lời vào các bài hát trong iTunes
+44. Tune.Instructor: hiển thị các thông tin liên quan tới ca khúc hiện tại, dễ dàng xếp hạng, đánh giá mà không cần tới iTunes.
+45. iTunes Menu: tương tự như Tune.Instructor, ứng dụng có thể hiển thị tên bài hát, ca sĩ, album trong menu bên phải.
+46. youcontrol: tunes: chương trình cho phép người dùng điều khiển iTunes từ menu một cách đơn giản và nhanh chóng.
+47. iTunes Doodad: thay cho việc điều khiển iTunes qua giao diện chức năng như thường lệ, giờ đây bạn chỉ cần làm việc đó qua widget của iTunes Doodad.
+48. Bowtie: thao tác với iTunes qua shortcut, đăng tải những ca khúc ưa thích của bạn tới Last.fm, và thay đổi theme.
+49. GimmeSomeTune: ứng dụng này kế thừa 1 số chức năng của iTunes như tìm và tải lời bài hát, các dữ liệu thông tin có liên quan tới album mà người dùng không phải làm bất cứ thao tác nào.

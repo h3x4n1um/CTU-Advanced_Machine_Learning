@@ -1,0 +1,7 @@
+﻿Các máy tính Windows 2000/XP/2003 có một cơ chế bảo mật IP đi kèm mang tên IPSec (IP Security). IPSec là một giao thức được thiết kế để bảo vệ các gói dữ liệu TCP/IP khi chúng truyền tải trong mạng bằng cách sử dụng mã hóa khóa công. Về bản chất, máy nguồn sẽ gói địa chỉ IP chuẩn tắc bên trong một gói IPSec đã được mã hóa. Sau đó gói dữ liệu này sẽ được duy trì ở trạng thái mã hóa cho tới khi nó đến được máy đích.
+Ngoài tính năng kể trên, bên cạnh việc mã hóa, IPSec còn cho phép bạn có thể bảo vệ và cấu hình máy trạm cũng như máy chủ với một cơ chế giống như tường lửa.
+Bạn có thể bảo vệ các máy tính của mình bằng IPSec? Rất đơn giản, chỉ cần tạo một chính sách để chỉ thị cho máy tính khóa tất cả lưu lượng IP nào đó đã được cấu hình bởi rule đó.
+Khóa PING trên một máy tính
+Để khóa lưu lượng PING đến và đi khỏi một máy tính, bạn cần tạo một chính sách IPSec dùng để khóa tất cả lưu lượng ICMP.
+Kiểm tra xem máy tính có đáp trả các yêu cầu PING bằng cách ping đến nó.
+Mặc dù vậy bạn vẫn có thể cấu hình nhiều bộ lọc (IP Filter) IP cụ thể cho ICMP. Cho ví dụ, bạn có thể muốn ngăn chặn một máy chủ nào đó trả lời tất cả các PING ngoại trừ các PING được gửi bởi một máy tính nào đó được sử dụng bởi phòng trợ giúp. Trong trường hợp đó, bạn cần add  một IP Filter mới và sử dụng các địa chỉ IP đích và nguồn đã định nghĩa của mình, và giao thức ICMP. Chúng tôi sẽ giới thiệu cho các bạn cách khóa hành động duyệt web nhưng vẫn cho phép lưu lượng mạng nội bộ với IPSec trong một bài khác để bạn biết thêm về cách tạo bộ lọc IP Filter.
